@@ -1,4 +1,4 @@
-<p align="center">https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds
+<p align="center">
 	<a href="https://github.com/Ghost0159"><img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop.png"></a><br>
 	<b>An alternative eshop for Nitendo 3DS.</b><br>
 	<a href="https://discord.gg/FPDUSaA" style="padding-left: 5px; padding-right: 5px;">
