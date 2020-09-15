@@ -11,6 +11,8 @@
 		<img src="https://img.shields.io/badge/Latest_Release-v8.0-orange.svg" heigh
 </p>
 
+-----
+
 ## Languages:
 **-[English](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#english), [Français](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#fran%C3%A7ais) & [Spanish](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds#spanish).**
 
