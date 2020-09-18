@@ -99,3 +99,4 @@ Simply run `make` in the Ghost-Eshop-Alternative source directory.
 
 #### Crédits: 
 <a href="https://github.com/Ghost0159" style="padding-left: 5px; padding-right: 5px;"><img src="https://img.shields.io/badge/Creator-Ghost0159-blue.svg" height="20"></a> <a href="https://github.com/Anonyku" style="padding-left: 5px; padding-right: 5px;"> <img src="https://img.shields.io/badge/Spécial_thanks-Anonyku-green.svg" height="20"></a>  
+
