@@ -34,7 +34,7 @@
 		            "description": "An alternative eshop for 3DS.",
 		            "last_updated": "2020-09-04 at 14:03 (UTC)"
 },
-"": [
+"GhostEshop.cia": [
 {
 		           "type": "downloadFile",
 				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/download/v8.0/GhostEshop.cia",
@@ -443,7 +443,7 @@
 "Cut the Rope for Nintendo 3DS": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/qeamgzfz4x0uj3s/%5B3DS%20CIA%20SHOP%5D%20Cut%20the%20Rope%20%28eShop%20Exclusive%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/4p1alhgnbqnr30w/Cut%20the%20RopeTriple%20Treat%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Cut the Rope for Nintendo 3DS.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -605,7 +605,7 @@
 "Kirby: Nightmare in Dream Land": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hc44nabb2qrsowc/Kirby%20Nightmare%20in%20Dream%20Land.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ep0bd8xdcd19rxq/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1,
 				   "output": "sdmc:/Kirby Nightmare in Dream Land.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -883,7 +883,7 @@
 "Super Mario 3D Land": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ifd3rp3bpryka0u/Super%20Mario%203D%20Land%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/xzt2bn2t7r328g8/Super%20Mario%203D%20Land%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Super Mario 3D Land.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -941,7 +941,7 @@
 "The Legend of Zelda: Ocarina of Time 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/sh/7yejob260oorc2e/AABrqoobbdq4Tazg5z7EMKPta/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/vjc8wmsrc8r0sn6/The%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Time%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/The Legend of Zelda Ocarina of Time 3D.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1161,7 +1161,7 @@
 "The Legend of Zelda: Majora's Mask 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/sh/7yejob260oorc2e/AADe_jpgozZNeePvXIufOMiHa/The%20Legend%20Of%20Zelda%20Majoras%20Mask%203D%20%28%20Usa%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/draap5x0p2uov6d/The%20Legend%20of%20Zelda%20-%20Majora%27s%20Mask%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/The Legend of Zelda Majoras Mask 3D.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1208,7 +1208,7 @@
 },
 {"info": {
 		            "title": "Wrecking Crew",
-		            "version": "",
+		            "version": "EUR",
 		            "author": "",
 		            "category": "Virtual Consoles",
 		            "console": "NES",
@@ -1219,7 +1219,7 @@
 "Wrecking Crew": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/3ds-cia-shop-archive/Wrecking%20Crew%20%28NES%29.cia",
+				   "file": "https://www.dropbox.com/s/55dgj49wssnjz2i/Wrecking%20Crew%20EUR%20%28000400000006f800%29.cia?dl=1",
 				   "output": "sdmc:/Wrecking Crew.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1237,7 +1237,7 @@
 },
 {"info": {
 		            "title": "Mario Kart: Super Circuit",
-		            "version": "",
+		            "version": "EUR",
 		            "author": "",
 		            "category": "Virtual Consoles",
 		            "console": "GBA",
@@ -1248,7 +1248,7 @@
 "Mario Kart: Super Circuit": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/3ds-cia-shop-archive/Mario%20Kart%20-%20Super%20Circuit.cia",
+				   "file": "https://www.dropbox.com/s/hhtp8ksbvm6n8vq/Mario%20Kart%E2%84%A2%20Super%20Circuit%20EUR%20%280004000000074d00%29.cia?dl=1",
 				   "output": "sdmc:/Mario Kart Super Circuit.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1439,7 +1439,7 @@
 "Mario Kart 7 - Update 1.1 (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/3ds-cia-shop-archive/Mario%20Kart%207%20-%201.1%20Update%20%28EUR%29.cia",
+				   "file": "https://www.dropbox.com/s/rcvawm5h7azrnss/Mario%20Kart%207%20-%20Update%201.1%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia?dl=1",
 				   "output": "sdmc:/Mario kart 7 - Updates - EUR.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1700,7 +1700,7 @@
 "Burger Time DELUXE": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/0cgr9vp7ojldt65/Burger%20Time%20DELUXE%20EUR%20%280004000000050b00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/013vdn4eh5hlxpd/Burger%20Time%20DELUXE%20EUR%20%280004000000050b00%29.cia?dl=1",
 				   "output": "sdmc:/Burger Time DELUXE.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1729,7 +1729,7 @@
 "Catrap": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/sw6ouug7kt9v7t8/CATRAP%20EUR%20%28000400000004f900%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/vbsdugfe6gz7drp/CATRAP%20EUR%20%28000400000004f900%29.cia?dl=1",
 				   "output": "sdmc:/Catrap.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1787,7 +1787,7 @@
 "Donkey Kong Land™ 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%20Land%E2%84%A2%202%20EUR%20%28000400000011a400%29.cia",
+				   "file": "https://www.dropbox.com/s/izjzutcy4qk536o/Donkey%20Kong%20Land%E2%84%A2%202%20EUR%20%28000400000011a400%29.cia?dl=1",
 				   "output": "sdmc:/Donkey Kong Land 2.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1874,7 +1874,7 @@
 "Donkey Kong™ Land": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Donkey%20Kong%E2%84%A2%20Land%20EUR%20%280004000000050200%29.cia",
+				   "file": "https://www.dropbox.com/s/ms93nk8jjopwnky/Donkey%20Kong%E2%84%A2%20Land%20EUR%20%280004000000050200%29.cia?dl=1",
 				   "output": "sdmc:/Donkey Kong Land.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1903,7 +1903,7 @@
 "Double Dragon": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Double%20Dragon%20EUR%20%280004000000049d00%29.cia",
+				   "file": "https://www.dropbox.com/s/oim71ldu3i3je5s/Double%20Dragon%20EUR%20%2800040000000b5800%29.cia?dl=1",
 				   "output": "sdmc:/Double Dragon.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1990,7 +1990,7 @@
 "Gargoyle's Quest": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/GARGOYLE%27S%20QUEST%20EUR%20%28000400000004f500%29.cia",
+				   "file": "https://www.dropbox.com/s/vny936a213j1vkh/GARGOYLE%27S%20QUEST%20EUR%20%28000400000004f500%29.cia?dl=1",
 				   "output": "sdmc:/Gargoyles Quest.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -2048,7 +2048,7 @@
 "Golf": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Golf%20EUR%20%280004000000042d00%29.cia",
+				   "file": "https://www.dropbox.com/s/mqcbr6u8r8f1xgi/Golf%20EUR%20%280004000000042d00%29.cia?dl=1",
 				   "output": "sdmc:/Golf.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -2077,7 +2077,7 @@
 "Kid Icarus™ Of Myths And Monsters": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kid%20Icarus%E2%84%A2%20Of%20Myths%20And%20Monsters%20EUR%20%280004000000069500%29.cia",
+				   "file": "https://www.dropbox.com/s/jthmztrmdc9nzca/Kid%20Icarus%E2%84%A2%20Of%20Myths%20And%20Monsters%20EUR%20%280004000000069500%29.cia?dl=1",
 				   "output": "sdmc:/Kid Icarus Of Myths And Monsters.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -2106,7 +2106,7 @@
 "Kirby's Block Ball™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Block%20Ball%E2%84%A2%20EUR%20%280004000000069200%29.cia",
+				   "file": "https://www.dropbox.com/s/rd5lu79bbgqfhlu/Kirby%27s%20Block%20Ball%E2%84%A2%20EUR%20%280004000000069200%29.cia?dl=1",
 				   "output": "sdmc:/Kirbys Block Ball.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -2135,7 +2135,7 @@
 "Kirby's Dream Land™ 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%202%20EUR%20%28000400000007dc00%29.cia",
+				   "file": "https://www.dropbox.com/s/v71yuhbh9ary6ef/Kirby%27s%20Dream%20Land%E2%84%A2%202%20EUR%20%28000400000007dc00%29.cia?dl=1",
 				   "output": "sdmc:/Kirbys Dream Land 2.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -2164,7 +2164,7 @@
 "Kirby's Dream Land™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/donkey-kongtm-land-eur-0004000000050200/Kirby%27s%20Dream%20Land%E2%84%A2%20EUR%20%280004000000041900%29.cia",
+				   "file": "https://www.dropbox.com/s/04a12wbzss60aoh/Kirby%27s%20Dream%20Land%E2%84%A2%20EUR%20%280004000000041900%29.cia?dl=1",
 				   "output": "sdmc:/Kirbys Dream Land.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
