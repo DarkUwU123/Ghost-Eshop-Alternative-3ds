@@ -605,7 +605,7 @@
 "Kirby: Nightmare in Dream Land": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ep0bd8xdcd19rxq/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1,
+				   "file": "https://www.dropbox.com/s/ep0bd8xdcd19rxq/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
 				   "output": "sdmc:/Kirby Nightmare in Dream Land.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
