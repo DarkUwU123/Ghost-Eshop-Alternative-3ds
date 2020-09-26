@@ -56,7 +56,7 @@ We currently have: **234** file in . cia format
  
 ### Spanish:
 
-Este es un eshop 3ds alternativo en la forma de un Unistore Universal-Updater.
+Este es un eshop 3ds alternativo por nintendo 3DS.
 
  Hecho por Ghost0159. ¡Discuta con él en Gmail y no dude en pedirle que se añadan más juegos!
 
