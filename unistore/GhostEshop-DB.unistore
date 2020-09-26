@@ -3335,7 +3335,7 @@
 },
 {"info": {
 		            "title": "Animal Crossing - New Leaf - Welcome Amiibo",
-		            "version": "USA",
+		            "version": "EUR, USA",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -3343,10 +3343,10 @@
 		            "description": "",
 		            "last_updated": "2020-08-12 at 14:03 (UTC)"
 },
-"Animal Crossing - New Leaf - Welcome Amiibo": [
+"Animal Crossing - New Leaf - Welcome Amiibo (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1qsmd9tv73vvcj9/Animal%20Crossing%20-%20New%20Leaf%20-%20Welcome%20Amiibo%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ah029dmqbyh4vju/Animal%20Crossing%20-%20New%20Leaf%20-%20Welcome%20Amiibo%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3358,6 +3358,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Animal Crossing - New Leaf - Welcome Amiibo (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/y9pcezqhr8np9rt/Animal%20Crossing%20-%20New%20Leaf%20-%20Welcome%20Amiibo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "output": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Animal Crossing - New Leaf - Welcome Amiibo (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
