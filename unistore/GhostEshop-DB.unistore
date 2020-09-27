@@ -124,7 +124,7 @@
 "Captain Toad: Treasure Tracker": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/8zuo5y0f0nipp6x/Captain%10Toad%20-%20Treasure%20Tracker-Revo3DS.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/gwxohu3ne3zsj6h/Captain%20Toad%20-%20Treasure%20Tracker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
 				   "output": "sdmc:/Captain Toad Treasure Tracker.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
