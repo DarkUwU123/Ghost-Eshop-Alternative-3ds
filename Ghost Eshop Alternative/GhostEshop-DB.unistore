@@ -50,6 +50,368 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/GhostEshop.cia",
 				   "message": "Nettoyage..."
+{"info": {
+		            "title": "Need for Speed - The Run",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 222,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"Need for Speed - The Run": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/aqzdazf792xt67y/Need%20for%20Speed%20-%20The%20Run%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Need for Speed - The Run (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Need for Speed - The Run (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Need for Speed - The Run (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Puzzler World 2013",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 223,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"Puzzler World 2013": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/p4ah0av9cl7t5qj/Puzzler%20World%202013%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Puzzler World 2013 (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Puzzler World 2013 (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Puzzler World 2013 (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Rayman Origins",
+		            "version": "USA, EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 224,
+		            "description": "",
+		            "last_updated": "2020-09-29 at 14:03 (UTC)"
+},
+"Rayman Origins (USA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/svmnx6kjknw2skr/Rayman%20Origins%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Rayman Origins (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Rayman Origins (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Rayman Origins (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Rayman Origins (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/q19bvbg7cdusnbd/Rayman%20Origins%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/Rayman Origins (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Rayman Origins (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Rayman Origins (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Mario Maker",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 225,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"Super Mario Maker": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/tn7fu2b5el0tvae/Super%20Mario%20Maker%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Super Mario Maker (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario Maker (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario Maker (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Monkey Ball 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 226,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"Super Monkey Ball 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/t67s8bglfaj7n53/Super%20Monkey%20Ball%203D%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Super Monkey Ball 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Monkey Ball 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Monkey Ball 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Super Smash Bros. for Nintendo 3DS",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 227,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"Super Smash Bros. for Nintendo 3DS": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/3wjm5jh8wsb0x6j/Super%20Smash%20Bros.%20for%20Nintendo%203DS%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Super Smash Bros. for Nintendo 3DS (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Smash Bros. for Nintendo 3DS (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Smash Bros. for Nintendo 3DS (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Amazing Spider-Man",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 228,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"The Amazing Spider-Man": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/6wk4taruikawnlz/The%20Amazing%20Spider-Man%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/The Amazing Spider-Man (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Amazing Spider-Man (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Amazing Spider-Man (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Croods - Prehistoric Party!",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 229,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"The Croods - Prehistoric Party!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/cfyn388mgieeorj/The%20Croods%20-%20Prehistoric%20Party%21%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/The Croods - Prehistoric Party (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Croods - Prehistoric Party (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Croods - Prehistoric Party (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Cube",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 230,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"The Cube": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/mzi4zkak8z9ch46/The%20Cube%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/The Cube (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Cube (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Cube (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "The Hidden",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 231,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"The Hidden": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/a30t5suo7c88pyy/The%20Hidden%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/The Hidden (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/The Hidden (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/The Hidden (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Transformers Prime - The Game",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 232,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"Transformers Prime - The Game": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/avkemmfh91iv6qc/Transformers%20Prime%20-%20The%20Game%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Transformers Prime - The Game (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Transformers Prime - The Game (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Transformers Prime - The Game (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Turbo - Super Stunt Squad",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 233,
+		            "description": "",
+		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+},
+"Turbo - Super Stunt Squad": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/awqugfyktjmmhc2/Turbo%20-%20Super%20Stunt%20Squad%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Turbo - Super Stunt Squad (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Turbo - Super Stunt Squad (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Turbo - Super Stunt Squad (USA).cia",
+				   "message": "Nettoyage..."
 }]}]} 
 
 
