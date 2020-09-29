@@ -3658,7 +3658,7 @@
 "Breath of Fire II™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/3wq90xzt4x178h7/Breath%20of%20Fire%20II%E2%84%A2%20ALL%20%28000400000f705600%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/24rcgxa9twewt9y/Breath%20of%20Fire%20II%E2%84%A2%20ALL%20%28000400000f705600%29.cia?dl=1",
 				   "output": "sdmc:/Breath of Fire II (SNES/EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3687,7 +3687,7 @@
 "Breath of Fire™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/9wo53t2tdaxn83p/Breath%20of%20Fire%E2%84%A2%20ALL%20%28000400000f705400%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/29yfcatstpx0f16/Breath%20of%20Fire%E2%84%A2%20ALL%20%28000400000f705400%29.cia?dl=1",
 				   "output": "sdmc:/Breath of Fire (SNES/EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3716,7 +3716,7 @@
 "Batman - Arkham Origins Blackgate": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/00owdy74gj4epad/Batman%20-%20Arkham%20Origins%20Blackgate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/7p7z6frqzqxnoxq/Batman%20-%20Arkham%20Origins%20Blackgate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Batman - Arkham Origins Blackgate (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3745,7 +3745,7 @@
 "Battleship+": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vzw0sgju4qu72kp/Battleship%2B%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/cv6clqunhplwfp9/Battleship%2B%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Battleship+ (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3763,7 +3763,7 @@
 },
 {"info": {
 		            "title": "Ben 10 - Galactic Racing",
-		            "version": "USA",
+		            "version": "USA, EUR",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -3771,10 +3771,10 @@
 		            "description": "",
 		            "last_updated": "2020-08-12 at 14:03 (UTC)"
 },
-"Ben 10 - Galactic Racing": [
+"Ben 10 - Galactic Racing (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vn4ci0ewu78b5cs/Ben%2010%20-%20Galactic%20Racing%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/hgk65gc5qyflcrj/Ben%2010%20-%20Galactic%20Racing%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Ben 10 - Galactic Racing (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3786,6 +3786,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ben 10 - Galactic Racing (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Ben 10 - Galactic Racing (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1bth1c3h7hrgrtr/Ben%2010%20-%20Galactic%20Racing%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Ben 10 - Galactic Racing (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ben 10 - Galactic Racing (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ben 10 - Galactic Racing (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -3803,7 +3820,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/jhokmrpf198h7pe/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20%28JPN%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/vrscbd305yjjnq7/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20%28JPN%29.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3820,7 +3837,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update 1.1": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/veb5k1uqdhasxur/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20Update%20%28JPN%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/4rpcy8ji48v4pym/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20Update%20%28JPN%29.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3837,7 +3854,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ab31zn06cpt844c/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20DLC%20%28JPN%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/rfkj1uyljkiypbj/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20DLC%20%28JPN%29.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3866,7 +3883,7 @@
 "Ben 10 - Omniverse": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/k45m5sqd20jh8ma/Ben%2010%20-%20Omniverse%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/7jy4r9tya192k7j/Ben%2010%20-%20Omniverse%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Ben 10 - Omniverse (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3884,7 +3901,7 @@
 },
 {"info": {
 		            "title": "Ben 10 - Omniverse 2",
-		            "version": "USA",
+		            "version": "USA, EUR",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -3892,10 +3909,10 @@
 		            "description": "",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Ben 10 - Omniverse 2": [
+"Ben 10 - Omniverse 2 (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/0m5zd941gopqhhd/Ben%2010%20-%20Omniverse%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/7yujm66jpsmpz5d/Ben%2010%20-%20Omniverse%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Ben 10 - Omniverse 2 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3907,6 +3924,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Ben 10 - Omniverse 2 (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Ben 10 - Omniverse 2 (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/a345m9673jfj3nu/Ben%2010%20-%20Omniverse%202%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Ben 10 - Omniverse 2 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ben 10 - Omniverse 2 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ben 10 - Omniverse 2 (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -3924,7 +3958,7 @@
 "Best of Arcade Games": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/551p10z9juhpjzg/Best%20of%20Arcade%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/zi5llu7s5w0ekhs/Best%20of%20Arcade%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Best of Arcade Games (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3953,7 +3987,7 @@
 "Best of Board Games": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/iujl50r1xg2y9zr/Best%20of%20Board%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/0dtbhtrw2tizxcg/Best%20of%20Board%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Best of Board Games (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -3982,7 +4016,7 @@
 "Best of Casual Games": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/khkv7foci22h397/Best%20of%20Casual%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/c9h6x2gjsq9ndua/Best%20of%20Casual%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Best of Casual Games (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4000,10 +4034,10 @@
 },
 {"info": {
 		            "title": "Beyblade Evolution",
-		            "version": "",
+		            "version": "USA",
 		            "author": "",
-		            "category": "",
-		            "console": "",
+		            "category": "Games",
+		            "console": "3DS%",
 		            "icon_index": 129,
 		            "description": "",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
@@ -4011,7 +4045,7 @@
 "Beyblade Evolution": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/f562p6odbo9ay8x/Beyblade%20Evolution%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/hs0httfavj3p93n/Beyblade%20Evolution%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Beyblade Evolution (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4029,7 +4063,7 @@
 },
 {"info": {
 		            "title": "Big Hero 6 - Battle in the Bay",
-		            "version": "USA",
+		            "version": "USA, EUR",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -4037,10 +4071,10 @@
 		            "description": "",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Big Hero 6 - Battle in the Bay": [
+"Big Hero 6 - Battle in the Bay (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ovoowieojux0raf/Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/j26kg3prbprh3pr/Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Big Hero 6 - Battle in the Bay (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4052,6 +4086,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Big Hero 6 - Battle in the Bay (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Big Hero 6 - Battle in the Bay (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/6p6we5conz936vw/Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/Big Hero 6 - Battle in the Bay (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Big Hero 6 - Battle in the Bay (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Big Hero 6 - Battle in the Bay (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -4069,7 +4120,7 @@
 "Bit Trip Saga": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ipqfr24c65enf9h/Bit%20Trip%20Saga%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/4qtluqp7puf0ajr/Bit%20Trip%20Saga%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Bit Trip Saga (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4098,7 +4149,7 @@
 "BlazBlue - Continuum Shift II": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/wxp0mf9bsdalmes/BlazBlue%20-%20Continuum%20Shift%20II%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ewtioraojkwlqbq/BlazBlue%20-%20Continuum%20Shift%20II%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/BlazBlue - Continuum Shift II (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4127,7 +4178,7 @@
 "Boku no Hero Academia Battle For All": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d71cnpnhdo9jpeo/Boku%20no%20Hero%20Academia%20Battle%20For%20All%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/l2uh4msa8milctb/Boku%20no%20Hero%20Academia%20Battle%20For%20All%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Boku no Hero Academia Battle For All (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4156,7 +4207,7 @@
 "Boulder Dash-XL 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/m16vtusao9mvvfb/Boulder%20Dash-XL%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/tw8b9cdyxhomjyh/Boulder%20Dash-XL%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Boulder Dash-XL 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4185,7 +4236,7 @@
 "Bowling Bonanza 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ovcql8ol844p1uq/Bowling%20Bonanza%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/651k6s95rm71he0/Bowling%20Bonanza%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Bowling Bonanza 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4214,7 +4265,7 @@
 "Brain Age Concentration Training": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6xe2arq52imukq1/Brain%20Age%20Concentration%20Training%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ski4vdevy3a6eoi/Brain%20Age%20Concentration%20Training%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Brain Age Concentration Training (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4243,7 +4294,7 @@
 "Brain Training 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hz15o2dhmeyp1lq/Brain%20Training%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/4jhd5wawicyoaaj/Brain%20Training%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Brain Training 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4272,7 +4323,7 @@
 "Columns™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vydva9m388tel1q/Columns%E2%84%A2%20%20EUR%20%280004000000088400%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/kh01iezh1vnesf8/Columns%E2%84%A2%20%20EUR%20%280004000000088400%29.cia?dl=1",
 				   "output": "sdmc:/Columns - EUR - Game Gear.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4301,7 +4352,7 @@
 "Contra III The Alien Wars": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/nyi8mr53iho1ill/Contra%20III%20The%20Alien%20Wars%20ALL%20%28000400000f702c00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/r4gb7sxt3s4c9rp/Contra%20III%20The%20Alien%20Wars%20ALL%20%28000400000f702c00%29.cia?dl=1",
 				   "output": "sdmc:/Contra III The Alien Wars - EUR - SNES.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4330,7 +4381,7 @@
 "Crystal Warriors": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hegjdfoulggmjx7/Crystal%20Warriors%20EUR%20%28000400000009b600%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/8d5w773dy22sa9p/Crystal%20Warriors%20EUR%20%28000400000009b600%29.cia?dl=1",
 				   "output": "sdmc:/Crystal Warriors - EUR - Game Gear.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4359,7 +4410,7 @@
 "Defenders of Oasis™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/z7eavjn7ic2zxe1/Defenders%20of%20Oasis%E2%84%A2%20EUR%20%28000400000009b700%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/z1qlrw2hnpqwlwg/Defenders%20of%20Oasis%E2%84%A2%20EUR%20%28000400000009b700%29.cia?dl=1",
 				   "output": "sdmc:/Defenders of Oasis - EUR - Game Gear.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4388,7 +4439,7 @@
 "Bravely Default": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/o2sc2qpe52iofbd/Bravely%20Default%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/r12i63camgq6q7g/Bravely%20Default%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Bravely Default - USA.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4417,7 +4468,7 @@
 "Bravely Second - End Layer": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ndisgsur3vg7hdo/Bravely%20Second%20-%20End%20Layer%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/cn9id8okm0xv4yd/Bravely%20Second%20-%20End%20Layer%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Bravely Second - End Layer (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4434,7 +4485,7 @@
 "Bravely Second - End Layer - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/upfw70cem55rqus/Bravely%20Second%20-%20End%20Layer%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/6sfzmnxoooqo7eg/Bravely%20Second%20-%20End%20Layer%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Bravely Second - End Layer - DLC (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4463,7 +4514,7 @@
 "Brunswick Pro Bowling": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4hq78vy62h63psj/Brunswick%20Pro%20Bowling%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/irx9x9r58lo3n5k/Brunswick%20Pro%20Bowling%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Brunswick Pro Bowling - USA.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4492,7 +4543,7 @@
 "Bust-A-Move Universe": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/h1yo2osf02mvkyq/Bust-A-Move%20Universe%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/hn42mc1jnkohtpt/Bust-A-Move%20Universe%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Bust-A-Move Universe (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4521,7 +4572,7 @@
 "Candy Match 3": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/yiyyuzdm81ymbex/Candy%20Match%203%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/bdbjqw289byvqxg/Candy%20Match%203%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Candy Match 3 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4550,7 +4601,7 @@
 "Captain America - Super Soldier": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pqddgfaod57rm7b/Captain%20America%20-%20Super%20Soldier%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/pyml68683ddj26r/Captain%20America%20-%20Super%20Soldier%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Captain America - Super Soldier (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4579,7 +4630,7 @@
 "Carnival Games Wild West 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/okhcdroqa14o9kh/Carnival%20Games%20Wild%20West%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/y2ugg55op9mbh53/Carnival%20Games%20Wild%20West%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Carnival Games Wild West 3D - USA.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4608,7 +4659,7 @@
 "Cars 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/az073c6ui0ybyz5/Cars%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/bwkbmldp6t21wam/Cars%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Cars 2.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4637,7 +4688,7 @@
 "Cartoon Network - Battle Crashers": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/lx6vy0feyfbuoqu/Cartoon%20Network%20-%20Battle%20Crashers%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/xpjzz7ss1ij55c7/Cartoon%20Network%20-%20Battle%20Crashers%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Cartoon Network - Battle Crashers.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4666,7 +4717,7 @@
 "Cartoon Network - Punch Time Explosion": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/l223fxnd6zf34q1/Cartoon%20Network%20-%20Punch%20Time%20Explosion%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/kt5rk7dlgl2d30u/Cartoon%20Network%20-%20Punch%20Time%20Explosion%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Cartoon Network - Punch Time Explosion.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4695,7 +4746,7 @@
 "Crash Time 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/3u8wjypxuvbx57t/Crash%20Time%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/wnsngrjh3euurst/Crash%20Time%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Crash Time 3D.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4724,7 +4775,7 @@
 "Crazy Construction": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2z24j2qw0gnv307/Crazy%20Construction%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/4zhkfp8dbsbrgng/Crazy%20Construction%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Crazy Construction.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4753,7 +4804,7 @@
 "Crosswords Plus": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/zruyiua4el4clxf/Crosswords%20Plus%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/akr42yu50q6k4v7/Crosswords%20Plus%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Crosswords Plus.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4782,7 +4833,7 @@
 "Crush3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/n9ipghvzjg44rd8/Crush3D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/orq15d6jaf0t4vv/Crush3D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Crush3D.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4811,7 +4862,7 @@
 "Cubic Ninja": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/bq1vxjiljmf6tn3/Cubic%20Ninja%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/4bet3al8q0he6fs/Cubic%20Ninja%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Cubic Ninja.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4840,7 +4891,7 @@
 "Culdcept Revolt": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/x51gycrbuvadq65/Culdcept%2BRevolt%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ghaz6rldf02co33/Culdcept%20Revolt%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Culdcept Revolt.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4869,7 +4920,7 @@
 "Dai Gyakuten Saiban": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/uv0w76k6fqyvrkg/Dai%20Gyakuten%20Saiban%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/1sccfp2730omvri/Dai%20Gyakuten%20Saiban%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Dai Gyakuten Saiban.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4886,7 +4937,7 @@
 "Dai Gyakuten Saiban - Patch English": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/wedb3k4txr6cmbi/Dai%20Gyakuten%20Saiban%20-%20Patch%20Ingles%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/pfkf3f23sr1aigs/Dai%20Gyakuten%20Saiban%20-%20Patch%20Ingles%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Dai Gyakuten Saiban - Patch English.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4915,7 +4966,7 @@
 "Deer Drive Legends": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ojy25uc02sr2048/Deer%2BDrive%2BLegends%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/7h090g3sas4q8u7/Deer%20Drive%20Legends%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Deer Drive Legends.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4944,7 +4995,7 @@
 "Donkey Kong Country 3 Dixie Kong's Double Trouble™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pmccvzf83pgrb6h/Donkey%20Kong%20Country%203%20Dixie%20Kong%27s%20Double%20Trouble%E2%84%A2%20ALL%20%28000400000f702f00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/rqvmu5j13ewn4c2/Donkey%20Kong%20Country%203%20Dixie%20Kong%27s%20Double%20Trouble%E2%84%A2%20ALL%20%28000400000f702f00%29.cia?dl=1",
 				   "output": "sdmc:/Donkey Kong Country 3 Dixie Kong's Double Trouble.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4973,7 +5024,7 @@
 "Donkey Kong Country™ 2 Diddy's Kong Quest™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/5dhid0hyothlydx/Donkey%20Kong%20Country%E2%84%A2%202%20Diddy%27s%20Kong%20Quest%E2%84%A2%20ALL%20%28000400000f702000%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/5qd4lyaoa8jo4u5/Donkey%20Kong%20Country%E2%84%A2%202%20Diddy%27s%20Kong%20Quest%E2%84%A2%20ALL%20%28000400000f702000%29.cia?dl=1",
 				   "output": "sdmc:/Donkey Kong Country 2 Diddy's Kong Quest.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5002,7 +5053,7 @@
 "Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/yazbv0o0wacd843/Taiko%20no%20Tatsujin%20Chibi%20Dragon%20to%20Fushigi%20na%20Orb%20%28JPN%29%20RF.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/jbc5tyuajtd9sox/Taiko%20no%20Tatsujin%20Chibi%20Dragon%20to%20Fushigi%20na%20Orb%20%28JPN%29%20RF.cia?dl=1",
 				   "output": "sdmc:/Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5031,7 +5082,7 @@
 "Bloody Vampire": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1wdqm9c83yj2884/Bloody%20Vampire%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/hcgnhjc2iw4a0yd/Bloody%20Vampire%20%28Europe%29%20%28eShop%29.cia?dl=1",
 				   "output": "sdmc:/Bloody Vampire (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5060,7 +5111,7 @@
 "3D OutRun": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ut547y2jxsj6pkg/3D%20OutRun%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/0k02jcp69cua308/3D%20OutRun%20%28Europe%29%20%28eShop%29.cia?dl=1",
 				   "output": "sdmc:/3D OutRun (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5089,7 +5140,7 @@
 "Cubit - The Hardcore Platformer Robot": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2biffli9kipm5tc/Cubit%20-%20The%20Hardcore%20Platformer%20Robot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/1ym6m5evvo0gqzx/Cubit%20-%20The%20Hardcore%20Platformer%20Robot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
 				   "output": "sdmc:/Cubit - The Hardcore Platformer Robot (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5118,7 +5169,7 @@
 "Cube Tactics": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/clhnrguj7bg3qgr/Cube%20Tactics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/sm2ctkd2smq3uot/Cube%20Tactics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
 				   "output": "sdmc:/Cube Tactics (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5147,7 +5198,7 @@
 "Fairune": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/gcaiyaqaoio8ko0/Fairune%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/xma28bgltw1qrha/Fairune%20%28Europe%29%20%28eShop%29.cia?dl=1",
 				   "output": "sdmc:/Fairune (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5165,18 +5216,18 @@
 },
 {"info": {
 		            "title": "Mighty Gunvolt",
-		            "version": "EUR",
+		            "version": "EUR, USA",
 		            "author": "",
 		            "category": "Eshop",
 		            "console": "3DS",
 		            "icon_index": 168,
 		            "description": "",
-		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+		            "last_updated": "2020-29-09 at 14:03 (UTC)"
 },
-"Mighty Gunvolt": [
+"Mighty Gunvolt (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/po3avz2ibmi5l12/Mighty%20Gunvolt%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/spu91cl24brk2gf/Mighty%20Gunvolt%20%28Europe%29%20%28eShop%29.cia?dl=1",
 				   "output": "sdmc:/Mighty Gunvolt (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5188,6 +5239,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mighty Gunvolt (EUR).cia",
+				   "message": "Nettoyage..."}
+],
+"Mighty Gunvolt (USA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/q31ntawx6bk0hvu/Mighty%20Gunvolt%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Mighty Gunvolt (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mighty Gunvolt (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mighty Gunvolt (USA).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -5199,24 +5267,211 @@
 		            "category": "Virtual Consoles",
 		            "console": "3DS",
 		            "icon_index": 169,
-		            "description": "",
-		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+		            "description": "400px for old and 800px for new",
+		            "last_updated": "2020-09-29 at 14:03 (UTC)"
 },
-"Super Mario 64": [
+"Super Mario 64 (400PX AA LUIGIHD)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/se9rotc8xsea0fv/Super%20Mario%2064%203DS%20%28CTR-P-PWDR%29%20%28W%29.cia?dl=1",
-				   "output": "sdmc:/Super Mario 64.cia",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_400PX_AA_LUIGIHD.cia",
+				   "output": "sdmc:/Super Mario 64 (400PX AA LUIGIHD).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Super Mario 64.cia",
+				   "file": "/Super Mario 64 (400PX AA LUIGIHD).cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Super Mario 64.cia",
+				   "file": "sdmc:/Super Mario 64 (400PX AA LUIGIHD).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (400PX AA MARIOHD)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_400PX_AA_MARIOHD.cia",
+				   "output": "sdmc:/Super Mario 64 (400PX AA MARIOHD).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (400PX AA MARIOHD).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (400PX AA MARIOHD).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (400PX AA VANILLA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_400PX_AA_VANILLA.cia",
+				   "output": "sdmc:/Super Mario 64 (400PX AA VANILLA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (400PX AA VANILLA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (400PX AA VANILLA).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (400PX NOAA LUIGIHD)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_400PX_NOAA_LUIGIHD.cia",
+				   "output": "sdmc:/Super Mario 64 (400PX NOAA LUIGIHD).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (400PX NOAA LUIGIHD).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (400PX NOAA LUIGIHD).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (400PX NOAA MARIOHD)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_400PX_NOAA_MARIOHD.cia",
+				   "output": "sdmc:/Super Mario 64 (400PX NOAA MARIOHD).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (400PX NOAA MARIOHD).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (400PX NOAA MARIOHD).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (400PX NOAA VANILLA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_400PX_NOAA_VANILLA.cia",
+				   "output": "sdmc:/Super Mario 64 (400PX NOAA VANILLA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (400PX NOAA VANILLA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (400PX NOAA VANILLA).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (800PX AA LUIGIHD)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_800PX_AA_LUIGIHD.cia",
+				   "output": "sdmc:/Super Mario 64 (800PX AA LUIGIHD).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (800PX AA LUIGIHD).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (800PX AA LUIGIHD).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (800PX AA MARIOHD)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_800PX_AA_MARIOHD.cia",
+				   "output": "sdmc:/Super Mario 64 (800PX AA MARIOHD).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (800PX AA MARIOHD).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (800PX AA MARIOHD).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (800PX AA VANILLA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_800PX_AA_VANILLA.cia",
+				   "output": "sdmc:/Super Mario 64 (800PX AA VANILLA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (800PX AA VANILLA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (800PX AA VANILLA).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (800PX NOAA LUIGIHD)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_800PX_NOAA_LUIGIHD.cia",
+				   "output": "sdmc:/Super Mario 64 (800PX NOAA LUIGIHD).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (800PX NOAA LUIGIHD).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (800PX NOAA LUIGIHD).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (800PX NOAA MARIOHD)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_800PX_NOAA_MARIOHD.cia",
+				   "output": "sdmc:/Super Mario 64 (800PX NOAA MARIOHD).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (800PX NOAA MARIOHD).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (800PX NOAA MARIOHD).cia",
+				   "message": "Nettoyage..."}
+],
+"Super Mario 64 (800PX NOAA VANILLA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/sm64/raw/master/3DS/Compiled/SM64_800PX_NOAA_VANILLA.cia",
+				   "output": "sdmc:/Super Mario 64 (400PX NOAA VANILLA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Super Mario 64 (800PX NOAA VANILLA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Super Mario 64 (800PX NOAA VANILLA).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -5234,7 +5489,7 @@
 "Demon King Box": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pb893008n3czrws/Demon%20King%20Box%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/o17y7cpoijaamvw/Demon%20King%20Box%20%28USA%29%20%28eShop%29.cia?dl=1",
 				   "output": "sdmc:/Demon King Box (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5263,7 +5518,7 @@
 "Detective Pikachu": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vuz4m7ceo8509le/Detective%20Pikachu%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/fibrfpjjk5bgyjt/Detective%20Pikachu%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Detective Pikachu (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5292,7 +5547,7 @@
 "Dillon's Dead Heat Breakers": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/f6vx6d2dctz9xko/Dillons%20Dead%20Heat%20Breakers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ejhyhlgvmrshzgo/Dillons%20Dead%20Heat%20Breakers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Dillons Dead Heat Breakers (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5321,7 +5576,7 @@
 "Disney 2 - Pack - Frozen - Olafs Quests/Big Hero 6 - Battle in the Bay": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/n9yzl8pf28ffyeo/Disney%202%20-%20Pack%20-%20Frozen%20-%20Olafs%20Quest%20%20%20Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/8dpce6powhts1mk/Disney%202%20-%20Pack%20-%20Frozen%20-%20Olafs%20Quest%20%20%20Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Disney 2 - Pack - Frozen - Olafs Quest   Big Hero 6 - Battle in the Bay (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5350,7 +5605,7 @@
 "Disney Art Academy": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/krou78sfm2clqzw/Disney%20Art%20Academy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/747so1kwlbd279p/Disney%20Art%20Academy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Disney Art Academy (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5379,7 +5634,7 @@
 "Disney Epic Mickey Power of Illusion": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/b9xuqdc59kedhhu/Disney%20Epic%20Mickey%20Power%20of%20Illusion%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/fm2p0cdcfimpvuf/Disney%20Epic%20Mickey%20Power%20of%20Illusion%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Disney Epic Mickey Power of Illusion.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5408,7 +5663,7 @@
 "Disney Frozen - Olafs Quest": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/5cakjwb656213av/Disney%20Frozen%20-%20Olafs%20Quest%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/usgwgqom75eml96/Disney%20Frozen%20-%20Olafs%20Quest%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Disney Frozen - Olafs Quest.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5437,7 +5692,7 @@
 "Disney Infinity - Toy Box Challenge": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/dcd1vly33vryeuj/Disney%20Infinity%20-%20Toy%20Box%20Challenge%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/lo80siwk4z4mvry/Disney%20Infinity%20-%20Toy%20Box%20Challenge%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Disney Infinity - Toy Box Challenge.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5455,7 +5710,7 @@
 },
 {"info": {
 		            "title": "Disney Magical World",
-		            "version": "USA",
+		            "version": "USA, EUR",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -5463,10 +5718,10 @@
 		            "description": "",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Disney Magical World - DLC": [
+"Disney Magical World - DLC (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ghihl4bfcz7rddc/Disney%20Magical%20World%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/yg9ckbl27h0bgby/Disney%20Magical%20World%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Disney Magical World - DLC.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5480,10 +5735,27 @@
 				   "file": "sdmc:/Disney Magical World - DLC.cia",
 				   "message": "Nettoyage..."}
 ],
-"Disney Magical World - Update 1.1": [
+"Disney Magical World - Update 1.1 (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2ui76kcsme27iwb/Disney%20Magical%20World%20-%20Update%201.1%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ykdr1kkd71uxkmf/Disney%20Magical%20World%20-%20Update%201.1%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Magical World - Update 1.1.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Magical World - Update 1.1.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Magical World - Update 1.1.cia",
+				   "message": "Nettoyage..."}
+],
+"Disney Magical World (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/feiqtx34dd6lga9/Disney%20Magical%20World%20%28EU%29%28M5%29.cia?dl=1",
 				   "output": "sdmc:/Disney Magical World - Update 1.1.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5501,7 +5773,7 @@
 },
 {"info": {
 		            "title": "Disney Magical World 2",
-		            "version": "USA",
+		            "version": "USA, EUR",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -5509,21 +5781,38 @@
 		            "description": "",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"Disney Magical World 2 - DLC": [
+"Disney Magical World 2 - DLC (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/kgqd7lb7rz0snnz/Disney%20Magical%20World%202%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Disney Magical World 2 - DLC.cia",
+				   "file": "https://www.dropbox.com/s/0fvnvfjqffasz23/Disney%20Magical%20World%202%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Disney Magical World 2 - DLC (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Disney Magical World 2 - DLC.cia",
+				   "file": "/Disney Magical World 2 - DLC (USA).cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Disney Magical World 2 - DLC.cia",
+				   "file": "sdmc:/Disney Magical World 2 - DLC (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Disney Magical World 2 (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/9tujmznndr3jh42/Disney%20Magical%20World%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "output": "sdmc:/Disney Magical World 2 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Disney Magical World 2 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Disney Magical World 2 (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -5541,7 +5830,7 @@
 "Duck Dynasty": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vkxbt1nj3cciqxq/Duck%20Dynasty%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ukr4egdyzmb1ms9/Duck%20Dynasty%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Duck Dynasty.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5570,7 +5859,7 @@
 "Gem Smashers": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/53r07cahs1ogr5t/Gem%20Smashers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/f022ep74apiwknh/Gem%20Smashers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Gem Smashers.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5599,7 +5888,7 @@
 "Generator Rex - Agent of Providence": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/261dfjx74h2qtds/Generator%20Rex%20-%20Agent%20of%20Providence%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/u6hfq0tznpppnn4/Generator%20Rex%20-%20Agent%20of%20Providence%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Generator Rex - Agent of Providence.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5628,7 +5917,7 @@
 "Girls Fashion Shoot": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/jzg555boifxjcki/Girls%20Fashion%20Shoot%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/xl54b9pag2i6b0f/Girls%20Fashion%20Shoot%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Girls Fashion Shoot.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5657,7 +5946,7 @@
 "Goosebumps - The Game": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/74emxuxu3aehqwv/Goosebumps%20-%20The%20Game%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/sq73xt8t9ggmun7/Goosebumps%20-%20The%20Game%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Goosebumps - The Game.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5674,7 +5963,7 @@
 "Goosebumps - The Game - Update 1.01": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/k2117xpfzz9aja9/Goosebumps%20-%20The%20Game%20-%20Update%201.01%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/qtorikdnubud468/Goosebumps%20-%20The%20Game%20-%20Update%201.01%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Goosebumps - The Game - Update 1.01.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5703,7 +5992,7 @@
 "Gravity Falls - Legend of the Gnome Gemulets": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/zu21ijjy2bk42lt/Gravity%2BFalls%2B-%2BLegend%2Bof%2Bthe%2BGnome%2BGemulets%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/y8hs7kjywr7jday/Gravity%20Falls%20-%20Legend%20of%20the%20Gnome%20Gemulets%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Gravity Falls - Legend of the Gnome Gemulets.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5732,7 +6021,7 @@
 "Green Lantern - Rise of the Manhunters": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/h2f8bguxpdmz8au/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/60zqtqfcsygs0h9/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Green Lantern - Rise of the Manhunters.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5761,7 +6050,7 @@
 "Gummy Bears Magical Medallion": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/5to7cr87hukq1aj/Gummy%20Bears%20Magical%20Medallion%20%28EUR%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/urdoxvskmghndn5/Gummy%20Bears%20Magical%20Medallion%20%28EUR%29.cia?dl=1",
 				   "output": "sdmc:/Gummy Bears Magical Medallion.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5785,23 +6074,57 @@
 		            "console": "3DS",
 		            "icon_index": 188,
 		            "description": "",
-		            "last_updated": "2020-08-09 at 14:03 (UTC)"
+		            "last_updated": "2020-09-29 at 14:03 (UTC)"
 },
 "Minecraft - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1k0d717vb1u6yhv/Minecraft%20-%20DLC%28KTR-M-BD3E-00%29%20%28UNK%29.cia?dl=1",
-				   "output": "sdmc:/Minecraft - DLC.cia",
+				   "file": "https://www.dropbox.com/s/4kamdzr2td52bj4/Minecraft%20-%20DLC%20%28USA%29%28KTR-M-BD3E-00%29%20%28UNK%29.cia?dl=1",
+				   "output": "sdmc:/Minecraft - DLC (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Minecraft - DLC.cia",
+				   "file": "/Minecraft - DLC (USA).cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Minecraft - DLC.cia",
+				   "file": "sdmc:/Minecraft - DLC (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Minecraft - Update": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ld5plm79sdmv2we/Minecraft%20-%20Update%20%28USA%29%28KTR-U-BD3E%29%20%28U%29.cia?dl=1",
+				   "output": "sdmc:/Minecraft - Update (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Minecraft - Update (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Minecraft - Update (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Minecraft": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/dyf0dcpt4nkw2o0/Minecraft%20%28USA%29%28CTR-P-M1N3%29%20%28W%29.cia?dl=1",
+				   "output": "sdmc:/Minecraft (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Minecraft (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Minecraft (USA).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -5819,7 +6142,7 @@
 "Pokemon GS Chronicles": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/apqj2z43q7nbk6t/Pokemon%20GS%20Chronicles%20Beta%202%20Build%202911192_1.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/qqxwqzv1umc4pfp/Pokemon%20GS%20Chronicles%20Beta%202%20Build%202911192_1.cia?dl=1",
 				   "output": "sdmc:/Pokemon GS Chronicles.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5848,7 +6171,7 @@
 "Pokemon Orange Islands": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/t6fkjojyheyqjpy/Pokemon%20Orange%20Islands%205.0.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/a9jgvf3xik1wflp/Pokemon%20Orange%20Islands%205.0.cia?dl=1",
 				   "output": "sdmc:/Pokemon Orange Islands.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5877,7 +6200,7 @@
 "Pokemon Red Chapter": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/nmtionpuehyxcpd/Pokemon%20Red%20Chapter%20Beta%2015.4.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/x6l5gm7zsqi0u0f/Pokemon%20Red%20Chapter%20Beta%2015.4.cia?dl=1",
 				   "output": "sdmc:/Pokemon Red Chapter.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5906,7 +6229,7 @@
 "EarthBound™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/f8ylert5z9ktwf4/EarthBound%E2%84%A2%20EUR%20%28000400000f701600%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/rf95dkdks40br95/EarthBound%E2%84%A2%20EUR%20%28000400000f701600%29.cia?dl=1",
 				   "output": "sdmc:/EarthBound - EUR.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5935,7 +6258,7 @@
 "Lufia® The Legend Returns": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/9hr5keiiguib99v/Lufia%C2%AE%20The%20Legend%20Returns%20EUR%20%28000400000011ab00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/g2vf3dveloh9foh/Lufia%C2%AE%20The%20Legend%20Returns%20EUR%20%28000400000011ab00%29.cia?dl=1",
 				   "output": "sdmc:/Lufia The Legend Returns.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5964,7 +6287,7 @@
 "Disney Planes - Fire and Rescue": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/a1989nyzabfq1an/Disney%20Planes%20-%20Fire%20and%20Rescue%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/jy9xi8h8sdfjzon/Disney%20Planes%20-%20Fire%20and%20Rescue%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Disney Planes - Fire and Rescue.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5993,7 +6316,7 @@
 "Kunio-kun Nekketsu Complete - Famicom-Hen": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ekxp474hreyft1f/Kunio-kun%20Nekketsu%20Complete%20-%20Famicom-Hen%20%28Japan%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/18ohthbwxcv620o/Kunio-kun%20Nekketsu%20Complete%20-%20Famicom-Hen%20%28Japan%29.cia?dl=1",
 				   "output": "sdmc:/Kunio-kun Nekketsu Complete - Famicom-Hen.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6022,7 +6345,7 @@
 "EscapeVektor": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7a8pxlkjigqr2w1/EscapeVektor%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/i10xnzi09gvbtpt/EscapeVektor%20%28Europe%29%20%28eShop%29.cia?dl=1",
 				   "output": "sdmc:/EscapeVektor.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6051,7 +6374,7 @@
 "Xtreme Sports": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/t1j9jzz6w2h1poy/Xtreme%20Sports%20EUR%20%2800040000000f0300%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/e3wz5rn7ubduq1o/Xtreme%20Sports%20EUR%20%2800040000000f0300%29.cia?dl=1",
 				   "output": "sdmc:/Xtreme Sports.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6080,7 +6403,7 @@
 "Wrecking Crew": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d6w6wpy12djc8g8/Wrecking%20Crew%20EUR%20%28000400000006f800%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/55dgj49wssnjz2i/Wrecking%20Crew%20EUR%20%28000400000006f800%29.cia?dl=1",
 				   "output": "sdmc:/Wrecking Crew.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6109,7 +6432,7 @@
 "WarioWare, Inc™ Minigame Mania": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1erjyycesp9s0oa/WarioWare%2C%20Inc%E2%84%A2%20Minigame%20Mania%20EUR%20%280004000000075a00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/p7z98oap8i0gm6o/WarioWare%2C%20Inc%E2%84%A2%20Minigame%20Mania%20EUR%20%280004000000075a00%29.cia?dl=1",
 				   "output": "sdmc:/WarioWare, Inc Minigame Mania.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6138,7 +6461,7 @@
 "Wario's Woods": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/olr7vussogb4s0a/Wario%27s%20Woods%20EUR%20%280004000000071600%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/yq3ie8ppn0cw74k/Wario%27s%20Woods%20EUR%20%280004000000071600%29.cia?dl=1",
 				   "output": "sdmc:/Wario's Woods.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6167,7 +6490,7 @@
 "Wario Land™ 4": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/36jmaaakmd6ke5f/Wario%20Land%E2%84%A2%204%20EUR%20%280004000000075000%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/wva9c9feyls94v6/Wario%20Land%E2%84%A2%204%20EUR%20%280004000000075000%29.cia?dl=1",
 				   "output": "sdmc:/Wario Land 4.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6196,7 +6519,7 @@
 "Wario Land™ 3": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/kbj5oqskasu9evr/Wario%20Land%E2%84%A2%203%20EUR%20%28000400000008af00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ynewlh5fudt8gux/Wario%20Land%E2%84%A2%203%20EUR%20%28000400000008af00%29.cia?dl=1",
 				   "output": "sdmc:/Wario Land 3.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6225,7 +6548,7 @@
 "Wario Land: Super Mario Land 3": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1awa5bvj9y51tr8/Wario%20Land%20Super%20Mario%20Land%203%20EUR%20%280004000000057d00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ramyqbpm5278g2x/Wario%20Land%20Super%20Mario%20Land%203%20EUR%20%280004000000057d00%29.cia?dl=1",
 				   "output": "sdmc:/Wario Land Super Mario Land 3.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6254,7 +6577,7 @@
 "Vampire Master of Darkness": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pgm2cvsaluul6rm/Vampire%20Master%20of%20Darkness%20EUR%20%28000400000009ba00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/ra9i03q8u1dbczk/Vampire%20Master%20of%20Darkness%20EUR%20%28000400000009ba00%29.cia?dl=1",
 				   "output": "sdmc:/Vampire Master of Darkness.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6283,7 +6606,7 @@
 "Tumble Pop": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/sgn9lry9lpb6fcn/Tumble%20Pop%20EUR%20%280004000000082f00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/c5xwaqar9vjot2f/Tumble%20Pop%20EUR%20%280004000000082f00%29.cia?dl=1",
 				   "output": "sdmc:/Tumble Pop.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6312,7 +6635,7 @@
 "Trip World™": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4dlk8u01tltnre7/Trip%20World%E2%84%A2%20EUR%20%280004000000058200%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/w1uineuu9spnwcq/Trip%20World%E2%84%A2%20EUR%20%280004000000058200%29.cia?dl=1",
 				   "output": "sdmc:/Trip World.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6341,7 +6664,7 @@
 "Toki Tori": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d9265loa5ymq6dt/Toki%20Tori%20EUR%20%280004000000094d00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/q1kxqjn25jvegau/Toki%20Tori%20EUR%20%280004000000094d00%29.cia?dl=1",
 				   "output": "sdmc:/Toki Tori.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6370,7 +6693,7 @@
 "The Sword of Hope II": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vij3ccmbocn3rb3/The%20Sword%20of%20Hope%20II%20EUR%20%280004000000083200%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/fprkjj9ceq7pe2x/The%20Sword%20of%20Hope%20II%20EUR%20%280004000000083200%29.cia?dl=1",
 				   "output": "sdmc:/The Sword of Hope II.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6399,7 +6722,7 @@
 "Yo-Kai Watch Blasters - Red Cat Corps": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pqanl9hwo377n4w/Yo-Kai%20Watch%20Blasters%20-%20Red%20Cat%20Corps%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/p20omaqibva4qo1/Yo-Kai%20Watch%20Blasters%20-%20Red%20Cat%20Corps%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Yo-Kai Watch Blasters - Red Cat Corps.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6428,7 +6751,7 @@
 "Yo-Kai Watch Blasters - White Dog Squad": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/9a5hzgoqc32b6vl/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/5l5njniey2votsg/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Yo-Kai Watch Blasters - White Dog Squad.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6445,7 +6768,7 @@
 "Yo-Kai Watch Blasters - White Dog Squad - Update 2.4": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7g35cwef4dlkn2t/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20-%20Update%202.4%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/68yxw7e8kwseszh/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20-%20Update%202.4%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Yo-Kai Watch Blasters - White Dog Squad - Update 2.4.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6474,7 +6797,7 @@
 "Young Justice Legacy": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pb0xdnj93n5bod5/Young%2BJustice%2BLegacy%2B%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/wz6fgtlfbwcfn5a/Young%20Justice%20Legacy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Young Justice Legacy.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6503,7 +6826,7 @@
 "Yu-Gi-Oh! Zexal - World Duel Carnival": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/sm0s8p7xpag7tqa/Yu-Gi-Oh%21%20Zexal%20-%20World%20Duel%20Carnival%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/w720ok42yww90ys/Yu-Gi-Oh%21%20Zexal%20-%20World%20Duel%20Carnival%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Yu-Gi-Oh Zexal - World Duel Carnival.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6532,7 +6855,7 @@
 "The Mysterious Murasame Castle": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/8dfujv3r3t7nr4e/The%20Mysterious%20Murasame%20Castle%20EUR%20%2800040000000d3300%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/22fgwmlywawsbly/The%20Mysterious%20Murasame%20Castle%20EUR%20%2800040000000d3300%29.cia?dl=1",
 				   "output": "sdmc:/The Mysterious Murasame Castle.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6561,7 +6884,7 @@
 "The Legend of Zelda™ The Minish Cap": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d4w1voq2mv0zxhj/The%20Legend%20of%20Zelda%E2%84%A2%20The%20Minish%20Cap%20EUR%20%280004000000076e00%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/3tgl6mf678ls0a8/The%20Legend%20of%20Zelda%E2%84%A2%20The%20Minish%20Cap%20EUR%20%280004000000076e00%29.cia?dl=1",
 				   "output": "sdmc:/The Legend of Zelda The Minish Cap.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6590,7 +6913,7 @@
 "Terraria": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/uk5ymzjc2savhf5/Terraria%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/4hgzm4ubo49v7im/Terraria%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Terraria.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6607,7 +6930,7 @@
 "Terraria - Update 1.0.5": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ni9e2yzuc15v6ox/Terraria%20-%20Update%201.0.5%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/wlldg6khgjykp0t/Terraria%20-%20Update%201.0.5%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Terraria - Update 1.0.5.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6636,7 +6959,7 @@
 "Tetris Axis": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/piph3qnxhflthav/Tetris%20Axis%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/7ftmjy83xsgi60w/Tetris%20Axis%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Tetris Axis.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6665,7 +6988,7 @@
 "Tetris Ultimate": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/aq1om3elts0hizm/Tetris%20Ultimate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/11auqqyyph98xqj/Tetris%20Ultimate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Tetris Ultimate.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6694,7 +7017,7 @@
 "The Alliance Alive": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/i0jxyj1056eireb/The%20Alliance%20Alive%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/7wuqojd6vqdyzho/The%20Alliance%20Alive%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/The Alliance Alive.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6723,7 +7046,7 @@
 "Castlevania Lords of Shadow - Mirror of Fate": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/3hfo7bw76bkzk1q/Castlevania%20Lords%20of%20Shadow%20-%20Mirror%20of%20Fate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/uqe7f7o7rr5tcdf/Castlevania%20Lords%20of%20Shadow%20-%20Mirror%20of%20Fate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Castlevania Lords of Shadow - Mirror of Fate - USA.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6752,7 +7075,7 @@
 "Flap Flap": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ns7l5t91ldipnig/Flap%20Flap%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/zaeejo3al37q2re/Flap%20Flap%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Flap Flap (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6781,7 +7104,7 @@
 "Jet Dog": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/dglugwjt71bvap4/Jet%20Dog%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/e77jfhw87t3ly2s/Jet%20Dog%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Jet Dog (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6810,7 +7133,7 @@
 "Need for Speed - The Run": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ub1dc2c7mxglv97/Need%20for%20Speed%20-%20The%20Run%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/aqzdazf792xt67y/Need%20for%20Speed%20-%20The%20Run%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Need for Speed - The Run (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6839,7 +7162,7 @@
 "Puzzler World 2013": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/tr3z0xjpyn0ges4/Puzzler%20World%202013%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/p4ah0av9cl7t5qj/Puzzler%20World%202013%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Puzzler World 2013 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6857,18 +7180,18 @@
 },
 {"info": {
 		            "title": "Rayman Origins",
-		            "version": "USA",
+		            "version": "USA, EUR",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
 		            "icon_index": 224,
 		            "description": "",
-		            "last_updated": "2020-08-18 at 14:03 (UTC)"
+		            "last_updated": "2020-09-29 at 14:03 (UTC)"
 },
-"Rayman Origins": [
+"Rayman Origins (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/8plvan8kp2al5pq/Rayman%20Origins%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/svmnx6kjknw2skr/Rayman%20Origins%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Rayman Origins (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6880,6 +7203,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Rayman Origins (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Rayman Origins (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/q19bvbg7cdusnbd/Rayman%20Origins%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/Rayman Origins (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Rayman Origins (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Rayman Origins (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -6897,7 +7237,7 @@
 "Super Mario Maker": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6afiiqhmr8bo833/Super%20Mario%20Maker%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/tn7fu2b5el0tvae/Super%20Mario%20Maker%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Super Mario Maker (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6926,7 +7266,7 @@
 "Super Monkey Ball 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/cem0c95xspjw4y0/Super%20Monkey%20Ball%203D%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/t67s8bglfaj7n53/Super%20Monkey%20Ball%203D%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Super Monkey Ball 3D (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6955,7 +7295,7 @@
 "Super Smash Bros. for Nintendo 3DS": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7uo964xr5aonyl9/Super%20Smash%20Bros.%20for%20Nintendo%203DS%20%28USA%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/3wjm5jh8wsb0x6j/Super%20Smash%20Bros.%20for%20Nintendo%203DS%20%28USA%29.cia?dl=1",
 				   "output": "sdmc:/Super Smash Bros. for Nintendo 3DS (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6984,7 +7324,7 @@
 "The Amazing Spider-Man": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ra10uivsnm4xc3j/The%20Amazing%20Spider-Man%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/6wk4taruikawnlz/The%20Amazing%20Spider-Man%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/The Amazing Spider-Man (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7013,7 +7353,7 @@
 "The Croods - Prehistoric Party!": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/om8ksbz59wlfufo/The%20Croods%20-%20Prehistoric%20Party%21%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/cfyn388mgieeorj/The%20Croods%20-%20Prehistoric%20Party%21%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/The Croods - Prehistoric Party (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7042,7 +7382,7 @@
 "The Cube": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fh960m51wc3ep54/The%20Cube%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/mzi4zkak8z9ch46/The%20Cube%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/The Cube (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7071,7 +7411,7 @@
 "The Hidden": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/kl8032hvfd3tdpa/The%20Hidden%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/a30t5suo7c88pyy/The%20Hidden%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/The Hidden (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7100,7 +7440,7 @@
 "Transformers Prime - The Game": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/f2mi2ejxa6u0c4h/Transformers%2BPrime%2B-%2BThe%2BGame%2B%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/avkemmfh91iv6qc/Transformers%20Prime%20-%20The%20Game%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Transformers Prime - The Game (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7129,7 +7469,7 @@
 "Turbo - Super Stunt Squad": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ha94766x7ka8rlv/Turbo%20-%20Super%20Stunt%20Squad%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://www.dropbox.com/s/awqugfyktjmmhc2/Turbo%20-%20Super%20Stunt%20Squad%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
 				   "output": "sdmc:/Turbo - Super Stunt Squad (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
