@@ -5,7 +5,7 @@
 		<img src="https://img.shields.io/badge/Discord-Server-black.svg" height="20">
 	</a>
 	<a href="https://somsubhra.com/github-release-stats/?username=Ghost0159&repository=Ghost-Eshop-Alternative-3ds" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/Total_Downloads-8.545-red.svg" height="20">
+		<img src="https://img.shields.io/badge/Total_Downloads-8,792-red.svg" height="20">
 	</a>
 		<a href="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v8.0" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Latest_Release-v8.0-orange.svg" heigh
@@ -32,7 +32,7 @@ The last valid version is the "v8.0"! Tested there!
 
 *This homebrew is a Universal Updater fork, but Universal-Team and against piracy, and in other words against this project, I used the source code without any permission from them, if you are a developer and you want to make a homebrew from A to Z, I make the source code available, you can contact me on my discord server and by email.*
 
-We currently have: **234** file in . cia format
+We currently have: **270** file in . cia format
 
 
 ### Français:
@@ -51,7 +51,7 @@ We currently have: **234** file in . cia format
  
  *Cet homebrew est un fork d'Universal Updater, mais Universal-Team et contre le piratage, et en d'autres termes contre ce projet, j'ai utilisé le code source sans aucune permission de leur part, si vous êtes développeur et que vous voulez faire un homebrew d'A à Z, je mets le code source à disposition, vous pouvez me contacter sur mon serveur discord et par email.*
  
- Nous avons actuellement: **234** fichier au format .cia
+ Nous avons actuellement: **270** fichier au format .cia
 
  
 ### Spanish:
@@ -70,7 +70,7 @@ Este es un eshop 3ds alternativo por nintendo 3DS.
  
  *Este Homebrew es un fork de Universal Updater, pero Universal-Team y contra la piratería, y en otras palabras contra este proyecto, he utilizado el código fuente sin ningún permiso de ellos, si eres desarrollador y quieres hacer un Homebrew de A a Z, Pongo el código fuente a disposición, puede contactarme en mi servidor Discord y por correo electrónico.*
  
- Actualmente tenemos: **234** archivo en formato . cia
+ Actualmente tenemos: **270** archivo en formato . cia
  
 ### Screenshots:
 
