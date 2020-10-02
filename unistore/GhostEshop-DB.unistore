@@ -54,6 +54,1038 @@
 ]
 },
 {"info": {
+		            "title": "3D Classics - Kid Icarus",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 235,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"3D Classics - Kid Icarus": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/38qjw72g8pl4cb3/3D%20Classics%20-%20Kid%20Icarus%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/3D Classics - Kid Icarus (Europe) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D Classics - Kid Icarus (Europe) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D Classics - Kid Icarus (Europe) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "3D Classics - Kirby's Adventure",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 236,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"3D Classics - Kirby's Adventure": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/7qxjpae9e79r164/3D%20Classics%20-%20Kirby%27s%20Adventure%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/3D Classics - Kirbys Adventure (Europe) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D Classics - Kirbys Adventure (Europe) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D Classics - Kirbys Adventure (Europe) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "3D Classics - TwinBee",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 237,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"3D Classics - TwinBee": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/2tiyhhhxzqrcpuc/3D%20Classics%20-%20TwinBee%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/3D Classics - TwinBee (USA) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D Classics - TwinBee (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D Classics - TwinBee (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "3D Galaxy Force II",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 238,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"3D Galaxy Force II": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/50q3x1lwkgbxcdh/3D%20Galaxy%20Force%20II%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/3D Galaxy Force II (USA) (En,Fr,Es) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D Galaxy Force II (USA) (En,Fr,Es) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D Galaxy Force II (USA) (En,Fr,Es) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "3D Shinobi III - Return of the Ninja Master",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 239,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"3D Shinobi III - Return of the Ninja Master": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/jir8ipcqqrx2k5l/3D%20Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/3D Shinobi III - Return of the Ninja Master (Europe) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/3D Shinobi III - Return of the Ninja Master (Europe) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/3D Shinobi III - Return of the Ninja Master (Europe) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "7th Dragon III Code: VFD",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 240,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"7th Dragon III Code: VFD": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/h2sqkym3l6h6v3a/7th%20Dragon%20III%20Code%20-%20VFD%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/7th Dragon III Code - VFD (USA)(Anonyku YouTube).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/7th Dragon III Code - VFD (USA)(Anonyku YouTube).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/7th Dragon III Code - VFD (USA)(Anonyku YouTube).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "10-in-1 - Arcade Collection (EUR)",
+		            "version": "EUR, USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 241,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"10-in-1 - Arcade Collection (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1n4usn7oun4jry7/10-in-1%20-%20Arcade%20Collection%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/10-in-1 - Arcade Collection (Europe) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/10-in-1 - Arcade Collection (Europe) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/10-in-1 - Arcade Collection (Europe) (eShop).cia",
+				   "message": "Nettoyage..."}
+],
+"10-in-1 - Arcade Collection (USA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/15m1p7lecw71vp5/10-in-1%20-%20Arcade%20Collection%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/10-in-1 - Arcade Collection (USA) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/10-in-1 - Arcade Collection (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/10-in-1 - Arcade Collection (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ambassador Certificate",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 242,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Ambassador Certificate": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ab1li47jgg6ikt9/Ambassador%20Certificate%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Azure Striker Gunvolt",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 243,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Azure Striker Gunvolt": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/fabjl5jcc5h7ank/Azure%20Striker%20Gunvolt%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Azure Striker Gunvolt (USA) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Azure Striker Gunvolt (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Azure Striker Gunvolt (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Barbie - Groom and Glam Pups",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 244,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Barbie - Groom and Glam Pups": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/2y0vvuu10m6vbvr/Barbie%20-%20Groom%20and%20Glam%20Pups%20%28USA%29%28Anonyku%20Youtube%29.cia?dl=1",
+				   "output": "sdmc:/Barbie - Groom and Glam Pups (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Barbie - Groom and Glam Pups (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Barbie - Groom and Glam Pups (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bella Sara 2 - The Magic of Drasilmare",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 245,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Bella Sara 2 - The Magic of Drasilmare": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/dmp3f8p7nxk39x5/Bella%20Sara%202%20-%20The%20Magic%20of%20Drasilmare%20%28EUR%29%28Anonyku%20Youtube%29.cia?dl=1",
+				   "output": "sdmc:/Bella Sara 2 - The Magic of Drasilmare (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bella Sara 2 - The Magic of Drasilmare (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bella Sara 2 - The Magic of Drasilmare (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bibi & Tina - Das Spiel zum Kinofilm",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 246,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Bibi & Tina - Das Spiel zum Kinofilm": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1o5m95drh9ggaxk/Bibi%20%26%20Tina%20-%20Das%20Spiel%20zum%20Kinofilm%20%28EUR%29%28Anonyku%20Youtube%29.cia?dl=1",
+				   "output": "sdmc:/Bibi & Tina - Das Spiel zum Kinofilm (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bibi & Tina - Das Spiel zum Kinofilm (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bibi & Tina - Das Spiel zum Kinofilm (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bird Mania 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 247,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Bird Mania 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/eg2xd4mhfssk8c5/Bird%20Mania%203D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Bird Mania 3D (Europe) (En,Fr,De,Es,It) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bird Mania 3D (Europe) (En,Fr,De,Es,It) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bird Mania 3D (Europe) (En,Fr,De,Es,It) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bird Mania Christmas 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 248,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Bird Mania Christmas 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/s5xtqiubp98xmpy/Bird%20Mania%20Christmas%203D%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Bird Mania Christmas 3D (USA) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bird Mania Christmas 3D (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bird Mania Christmas 3D (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Bomb Monkey",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 249,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Bomb Monkey": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pasxelg97c8wg7p/Bomb%20Monkey%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Bomb Monkey (USA) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Bomb Monkey (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Bomb Monkey (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cave Story",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 250,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Cave Story": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/yrg3i5zrt7xrfqe/Cave%20Story%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Cave Story (Europe) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cave Story (Europe) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cave Story (Europe) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Cocoto - Alien Brick Breaker",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 251,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Cocoto - Alien Brick Breaker": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/d6gybtjpmkggzrs/Cocoto%20-%20Alien%20Brick%20Breaker%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Cocoto - Alien Brick Breaker (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Cocoto - Alien Brick Breaker (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Cocoto - Alien Brick Breaker (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Colors!",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 252,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Colors!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/l5fc9mt2xtx9m2i/Colors%21%203D%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Colors! 3D (USA) (En,Fr,Es,Pt) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Colors! 3D (USA) (En,Fr,Es,Pt) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Colors! 3D (USA) (En,Fr,Es,Pt) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crashmo",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 253,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Crashmo": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/d5uxhft4nqq93sp/Crashmo%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Crashmo (USA) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crashmo (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crashmo (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Donkey Kong Country Returns 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 254,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Donkey Kong Country Returns 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/v65x1ytzm1m9bg4/Donkey%20Kong%20Country%20Returns%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Donkey Kong Country Returns 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Donkey Kong Country Returns 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Donkey Kong Country Returns 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Dragon Quest VIII - Journey of the Cursed King",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 255,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Dragon Quest VIII - Journey of the Cursed King": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/hjwrl8vgwuvuzah/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Dragon Quest VIII - Journey of the Cursed King (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Dragon Quest VIII - Journey of the Cursed King (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Dragon Quest VIII - Journey of the Cursed King (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Driver - Renegade",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 256,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Driver - Renegade": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/46wpa3hfqpnj1ie/Driver%20-%20Renegade%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Driver - Renegade (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Driver - Renegade (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Driver - Renegade (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Edge",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 257,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Edge": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/6wey4w2srd1sbfk/Edge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Edge (Europe) (En,Fr,De,Es,It,Nl,Pt) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Edge (Europe) (En,Fr,De,Es,It,Nl,Pt) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Edge (Europe) (En,Fr,De,Es,It,Nl,Pt) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Face Racers Photo Finish",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 258,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Face Racers Photo Finish": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/4kywpwcrxegdyq0/Face%20Racers%20Photo%20Finish%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Face Racers Photo Finish (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Face Racers Photo Finish (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Face Racers Photo Finish (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Farming Simulator 18",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 259,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Farming Simulator 18": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/td32hkfvytqzv61/Farming%20Simulator%2018%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Farming Simulator 18 (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Farming Simulator 18 (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Farming Simulator 18 (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Fast & Furious - Showdown",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 260,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Fast & Furious - Showdown": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/oodc1yqucft15qw/Fast%20%26%20Furious%20-%20Showdown%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Fast & Furious - Showdown (EU)(M5).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Fast & Furious - Showdown (EU)(M5).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Fast & Furious - Showdown (EU)(M5).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "FIFA 15 - Legacy Edition",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 261,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"FIFA 15 - Legacy Edition": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/8z0dol1v2nek9db/FIFA%2015%20-%20Legacy%20Edition%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/FIFA 15 - Legacy Edition (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/FIFA 15 - Legacy Edition (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/FIFA 15 - Legacy Edition (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Fractured Soul",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 262,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Fractured Soul": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/u4i6bgkunpnofh0/Fractured%20Soul%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Fractured Soul (Europe) (En,Fr,De,Es,It) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Fractured Soul (Europe) (En,Fr,De,Es,It) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Fractured Soul (Europe) (En,Fr,De,Es,It) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Fun! Fun! Minigolf Touch!",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 263,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Fun! Fun! Minigolf Touch!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/fnalsemtuv32su2/Fun%21%20Fun%21%20Minigolf%20Touch%21%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Fun! Fun! Minigolf Touch! (USA) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Fun! Fun! Minigolf Touch! (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Fun! Fun! Minigolf Touch! (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Gabrielles Ghostly Groove 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 264,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Gabrielles Ghostly Groove 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/znvzgua8zo0cinr/Gabrielles%20Ghostly%20Groove%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Gabrielles Ghostly Groove 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Gabrielles Ghostly Groove 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Gabrielles Ghostly Groove 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Gunman Clive",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 265,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Gunman Clive": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/0rcmsfzgx4ckk7j/Gunman%20Clive%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Gunman Clive (Europe) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Gunman Clive (Europe) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Gunman Clive (Europe) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "HarmoKnight",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 266,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"HarmoKnight": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/80srgx8rf0xhmrc/HarmoKnight%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/HarmoKnight (Europe) (En,Fr,De,Es,It) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/HarmoKnight (Europe) (En,Fr,De,Es,It) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/HarmoKnight (Europe) (En,Fr,De,Es,It) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Harvest Moon - Skytree Village",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 267,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Harvest Moon - Skytree Village": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/9sxkpmj0u8dcmsb/Harvest%20Moon%20-%20Skytree%20Village%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Harvest Moon - Skytree Village (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Harvest Moon - Skytree Village (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Harvest Moon - Skytree Village (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Heavy Fire - The Chosen Few 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 268,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Heavy Fire - The Chosen Few 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/03jz39yldt23uup/Heavy%20Fire%20-%20The%20Chosen%20Few%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Heavy Fire - The Chosen Few 3D (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Heavy Fire - The Chosen Few 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Heavy Fire - The Chosen Few 3D (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Hello Kitty and the Apron of Magic - Rhythm Cooking",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 269,
+		            "description": "",
+		            "last_updated": "2020-10-03 at 15:09 (UTC)"
+},
+"Hello Kitty and the Apron of Magic - Rhythm Cooking": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ep9fn7ysybawuwm/Hello%20Kitty%20and%20the%20Apron%20of%20Magic%20-%20Rhythm%20Cooking%20%28EUR%29.cia?dl=1",
+				   "output": "sdmc:/Hello Kitty and the Apron of Magic - Rhythm Cooking (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Hello Kitty and the Apron of Magic - Rhythm Cooking (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Hello Kitty and the Apron of Magic - Rhythm Cooking (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
 		            "title": "Anonymous notes chapter 1",
 		            "version": "USA",
 		            "author": "Sonic Powered",
@@ -7481,1038 +8513,6 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Turbo - Super Stunt Squad (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "3D Classics - Kid Icarus",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 235,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"3D Classics - Kid Icarus": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/38qjw72g8pl4cb3/3D%20Classics%20-%20Kid%20Icarus%20%28Europe%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/3D Classics - Kid Icarus (Europe) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/3D Classics - Kid Icarus (Europe) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/3D Classics - Kid Icarus (Europe) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "3D Classics - Kirby's Adventure",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 236,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"3D Classics - Kirby's Adventure": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7qxjpae9e79r164/3D%20Classics%20-%20Kirby%27s%20Adventure%20%28Europe%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/3D Classics - Kirbys Adventure (Europe) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/3D Classics - Kirbys Adventure (Europe) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/3D Classics - Kirbys Adventure (Europe) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "3D Classics - TwinBee",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 237,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"3D Classics - TwinBee": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2tiyhhhxzqrcpuc/3D%20Classics%20-%20TwinBee%20%28USA%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/3D Classics - TwinBee (USA) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/3D Classics - TwinBee (USA) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/3D Classics - TwinBee (USA) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "3D Galaxy Force II",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 238,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"3D Galaxy Force II": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/50q3x1lwkgbxcdh/3D%20Galaxy%20Force%20II%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/3D Galaxy Force II (USA) (En,Fr,Es) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/3D Galaxy Force II (USA) (En,Fr,Es) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/3D Galaxy Force II (USA) (En,Fr,Es) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "3D Shinobi III - Return of the Ninja Master",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 239,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"3D Shinobi III - Return of the Ninja Master": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/jir8ipcqqrx2k5l/3D%20Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28Europe%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/3D Shinobi III - Return of the Ninja Master (Europe) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/3D Shinobi III - Return of the Ninja Master (Europe) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/3D Shinobi III - Return of the Ninja Master (Europe) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "7th Dragon III Code: VFD",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 240,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"7th Dragon III Code: VFD": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/h2sqkym3l6h6v3a/7th%20Dragon%20III%20Code%20-%20VFD%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/7th Dragon III Code - VFD (USA)(Anonyku YouTube).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/7th Dragon III Code - VFD (USA)(Anonyku YouTube).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/7th Dragon III Code - VFD (USA)(Anonyku YouTube).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "10-in-1 - Arcade Collection (EUR)",
-		            "version": "EUR, USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 241,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"10-in-1 - Arcade Collection (EUR)": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1n4usn7oun4jry7/10-in-1%20-%20Arcade%20Collection%20%28Europe%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/10-in-1 - Arcade Collection (Europe) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/10-in-1 - Arcade Collection (Europe) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/10-in-1 - Arcade Collection (Europe) (eShop).cia",
-				   "message": "Nettoyage..."}
-],
-"10-in-1 - Arcade Collection (USA)": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/15m1p7lecw71vp5/10-in-1%20-%20Arcade%20Collection%20%28USA%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/10-in-1 - Arcade Collection (USA) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/10-in-1 - Arcade Collection (USA) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/10-in-1 - Arcade Collection (USA) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Ambassador Certificate",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 242,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Ambassador Certificate": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ab1li47jgg6ikt9/Ambassador%20Certificate%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Azure Striker Gunvolt",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 243,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Azure Striker Gunvolt": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fabjl5jcc5h7ank/Azure%20Striker%20Gunvolt%20%28USA%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Azure Striker Gunvolt (USA) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Azure Striker Gunvolt (USA) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Azure Striker Gunvolt (USA) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Barbie - Groom and Glam Pups",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 244,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Barbie - Groom and Glam Pups": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2y0vvuu10m6vbvr/Barbie%20-%20Groom%20and%20Glam%20Pups%20%28USA%29%28Anonyku%20Youtube%29.cia?dl=1",
-				   "output": "sdmc:/Barbie - Groom and Glam Pups (USA).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Barbie - Groom and Glam Pups (USA).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Barbie - Groom and Glam Pups (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Bella Sara 2 - The Magic of Drasilmare",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 245,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Bella Sara 2 - The Magic of Drasilmare": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/dmp3f8p7nxk39x5/Bella%20Sara%202%20-%20The%20Magic%20of%20Drasilmare%20%28EUR%29%28Anonyku%20Youtube%29.cia?dl=1",
-				   "output": "sdmc:/Bella Sara 2 - The Magic of Drasilmare (EUR).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Bella Sara 2 - The Magic of Drasilmare (EUR).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Bella Sara 2 - The Magic of Drasilmare (EUR).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Bibi & Tina - Das Spiel zum Kinofilm",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 246,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Bibi & Tina - Das Spiel zum Kinofilm": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1o5m95drh9ggaxk/Bibi%20%26%20Tina%20-%20Das%20Spiel%20zum%20Kinofilm%20%28EUR%29%28Anonyku%20Youtube%29.cia?dl=1",
-				   "output": "sdmc:/Bibi & Tina - Das Spiel zum Kinofilm (EUR).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Bibi & Tina - Das Spiel zum Kinofilm (EUR).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Bibi & Tina - Das Spiel zum Kinofilm (EUR).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Bird Mania 3D",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 247,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Bird Mania 3D": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/eg2xd4mhfssk8c5/Bird%20Mania%203D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Bird Mania 3D (Europe) (En,Fr,De,Es,It) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Bird Mania 3D (Europe) (En,Fr,De,Es,It) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Bird Mania 3D (Europe) (En,Fr,De,Es,It) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Bird Mania Christmas 3D",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 248,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Bird Mania Christmas 3D": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/s5xtqiubp98xmpy/Bird%20Mania%20Christmas%203D%20%28USA%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Bird Mania Christmas 3D (USA) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Bird Mania Christmas 3D (USA) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Bird Mania Christmas 3D (USA) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Bomb Monkey",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 249,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Bomb Monkey": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pasxelg97c8wg7p/Bomb%20Monkey%20%28USA%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Bomb Monkey (USA) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Bomb Monkey (USA) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Bomb Monkey (USA) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Cave Story",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 250,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Cave Story": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/yrg3i5zrt7xrfqe/Cave%20Story%20%28Europe%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Cave Story (Europe) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Cave Story (Europe) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Cave Story (Europe) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Cocoto - Alien Brick Breaker",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 251,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Cocoto - Alien Brick Breaker": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d6gybtjpmkggzrs/Cocoto%20-%20Alien%20Brick%20Breaker%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Cocoto - Alien Brick Breaker (EUR).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Cocoto - Alien Brick Breaker (EUR).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Cocoto - Alien Brick Breaker (EUR).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Colors!",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 252,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Colors!": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/l5fc9mt2xtx9m2i/Colors%21%203D%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Colors! 3D (USA) (En,Fr,Es,Pt) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Colors! 3D (USA) (En,Fr,Es,Pt) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Colors! 3D (USA) (En,Fr,Es,Pt) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Crashmo",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 253,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Crashmo": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d5uxhft4nqq93sp/Crashmo%20%28USA%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Crashmo (USA) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Crashmo (USA) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Crashmo (USA) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Donkey Kong Country Returns 3D",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 254,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Donkey Kong Country Returns 3D": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/v65x1ytzm1m9bg4/Donkey%20Kong%20Country%20Returns%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Donkey Kong Country Returns 3D (USA).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Donkey Kong Country Returns 3D (USA).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Donkey Kong Country Returns 3D (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Dragon Quest VIII - Journey of the Cursed King",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 255,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Dragon Quest VIII - Journey of the Cursed King": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hjwrl8vgwuvuzah/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Dragon Quest VIII - Journey of the Cursed King (USA).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Dragon Quest VIII - Journey of the Cursed King (USA).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Dragon Quest VIII - Journey of the Cursed King (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Driver - Renegade",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 256,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Driver - Renegade": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/46wpa3hfqpnj1ie/Driver%20-%20Renegade%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Driver - Renegade (USA).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Driver - Renegade (USA).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Driver - Renegade (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Edge",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 257,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Edge": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6wey4w2srd1sbfk/Edge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Edge (Europe) (En,Fr,De,Es,It,Nl,Pt) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Edge (Europe) (En,Fr,De,Es,It,Nl,Pt) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Edge (Europe) (En,Fr,De,Es,It,Nl,Pt) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Face Racers Photo Finish",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 258,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Face Racers Photo Finish": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4kywpwcrxegdyq0/Face%20Racers%20Photo%20Finish%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Face Racers Photo Finish (USA).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Face Racers Photo Finish (USA).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Face Racers Photo Finish (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Farming Simulator 18",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 259,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Farming Simulator 18": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/td32hkfvytqzv61/Farming%20Simulator%2018%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Farming Simulator 18 (USA).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Farming Simulator 18 (USA).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Farming Simulator 18 (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Fast & Furious - Showdown",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 260,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Fast & Furious - Showdown": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/oodc1yqucft15qw/Fast%20%26%20Furious%20-%20Showdown%20%28EU%29%28M5%29.cia?dl=1",
-				   "output": "sdmc:/Fast & Furious - Showdown (EU)(M5).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Fast & Furious - Showdown (EU)(M5).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Fast & Furious - Showdown (EU)(M5).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "FIFA 15 - Legacy Edition",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 261,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"FIFA 15 - Legacy Edition": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/8z0dol1v2nek9db/FIFA%2015%20-%20Legacy%20Edition%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/FIFA 15 - Legacy Edition (USA).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/FIFA 15 - Legacy Edition (USA).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/FIFA 15 - Legacy Edition (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Fractured Soul",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 262,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Fractured Soul": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/u4i6bgkunpnofh0/Fractured%20Soul%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Fractured Soul (Europe) (En,Fr,De,Es,It) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Fractured Soul (Europe) (En,Fr,De,Es,It) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Fractured Soul (Europe) (En,Fr,De,Es,It) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Fun! Fun! Minigolf Touch!",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 263,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Fun! Fun! Minigolf Touch!": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fnalsemtuv32su2/Fun%21%20Fun%21%20Minigolf%20Touch%21%20%28USA%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Fun! Fun! Minigolf Touch! (USA) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Fun! Fun! Minigolf Touch! (USA) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Fun! Fun! Minigolf Touch! (USA) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Gabrielles Ghostly Groove 3D",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 264,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Gabrielles Ghostly Groove 3D": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/znvzgua8zo0cinr/Gabrielles%20Ghostly%20Groove%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Gabrielles Ghostly Groove 3D (USA).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Gabrielles Ghostly Groove 3D (USA).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Gabrielles Ghostly Groove 3D (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Gunman Clive",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 265,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Gunman Clive": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/0rcmsfzgx4ckk7j/Gunman%20Clive%20%28Europe%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Gunman Clive (Europe) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Gunman Clive (Europe) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Gunman Clive (Europe) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "HarmoKnight",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Eshop",
-		            "console": "3DS",
-		            "icon_index": 266,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"HarmoKnight": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/80srgx8rf0xhmrc/HarmoKnight%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/HarmoKnight (Europe) (En,Fr,De,Es,It) (eShop).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/HarmoKnight (Europe) (En,Fr,De,Es,It) (eShop).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/HarmoKnight (Europe) (En,Fr,De,Es,It) (eShop).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Harvest Moon - Skytree Village",
-		            "version": "USA",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 267,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Harvest Moon - Skytree Village": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/9sxkpmj0u8dcmsb/Harvest%20Moon%20-%20Skytree%20Village%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Harvest Moon - Skytree Village (USA).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Harvest Moon - Skytree Village (USA).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Harvest Moon - Skytree Village (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Heavy Fire - The Chosen Few 3D",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 268,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Heavy Fire - The Chosen Few 3D": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/03jz39yldt23uup/Heavy%20Fire%20-%20The%20Chosen%20Few%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
-				   "output": "sdmc:/Heavy Fire - The Chosen Few 3D (EUR).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Heavy Fire - The Chosen Few 3D (EUR).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Heavy Fire - The Chosen Few 3D (EUR).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Hello Kitty and the Apron of Magic - Rhythm Cooking",
-		            "version": "EUR",
-		            "author": "",
-		            "category": "Games",
-		            "console": "3DS",
-		            "icon_index": 269,
-		            "description": "",
-		            "last_updated": "2020-10-03 at 15:09 (UTC)"
-},
-"Hello Kitty and the Apron of Magic - Rhythm Cooking": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ep9fn7ysybawuwm/Hello%20Kitty%20and%20the%20Apron%20of%20Magic%20-%20Rhythm%20Cooking%20%28EUR%29.cia?dl=1",
-				   "output": "sdmc:/Hello Kitty and the Apron of Magic - Rhythm Cooking (EUR).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Hello Kitty and the Apron of Magic - Rhythm Cooking (EUR).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Hello Kitty and the Apron of Magic - Rhythm Cooking (EUR).cia",
 				   "message": "Nettoyage..."
 }]}]} 
 
