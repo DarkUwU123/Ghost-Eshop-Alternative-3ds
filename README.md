@@ -20,7 +20,7 @@
 
 This is an alternative eshop 3ds for Nintendo 3DS.
 
-Made by Ghost0159. Chat with him on Gmail and feel free to ask him for more games to be added!
+Made by Ghost0159. Chat with him on Gmail and feel free to ask him to add more games!
 
 Mail: contact.ghost01@gmail.com
 
@@ -49,9 +49,9 @@ We currently have: **270** file in . cia format
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
- *Cet homebrew est un fork d'Universal Updater, mais Universal-Team et contre le piratage, et en d'autres termes contre ce projet, j'ai utilisé le code source sans aucune permission de leur part, si vous êtes développeur et que vous voulez faire un homebrew d'A à Z, je mets le code source à disposition, vous pouvez me contacter sur mon serveur discord et par email.*
+ *Cet homebrew est un fork d'Universal Updater, mais Universal-Team est contre le piratage, et en d'autres termes contre ce projet, j'ai utilisé le code source sans aucune permission de leur part, si vous êtes développeur et que vous voulez faire un homebrew d'A à Z, je mets le code source à disposition, vous pouvez me contacter sur mon serveur discord et par email.*
  
- Nous avons actuellement: **270** fichier au format .cia
+ Nous avons actuellement: **270** fichiers au format .cia
 
  
 ### Spanish:
