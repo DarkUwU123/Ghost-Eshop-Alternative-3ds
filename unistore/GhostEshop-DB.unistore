@@ -54,13 +54,42 @@
 ]
 },
 {"info": {
+		            "title": "Plants vs Zombies",
+		            "version": "USA",
+		            "author": "",
+		            "category": "DSiWares",
+		            "console": "DSi",
+		            "icon_index": 270,
+		            "description": "",
+		            "last_updated": "2020-10-04 at 15:09 (UTC)"
+},
+"Plants vs Zombies": [
+{
+		           "type": "downloadFile",
+				   "file": "http://download1593.mediafire.com/ojwuksej37eg/k9az7ulpfw6b2ba/Plants+vs.+Zombies.cia",
+				   "output": "sdmc:/Plantes vs Zombies (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Plantes vs Zombies (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Plantes vs Zombies (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
 		            "title": "3D Classics - Kid Icarus",
 		            "version": "EUR",
-		            "author": "",
+		            "author": "Nintendo",
 		            "category": "Eshop",
 		            "console": "3DS",
 		            "icon_index": 235,
-		            "description": "",
+		            "description": "The legend of Kid Icarus is retold in this 3D-enhanced version of the classic.",
 		            "last_updated": "2020-10-03 at 15:09 (UTC)"
 },
 "3D Classics - Kid Icarus": [
