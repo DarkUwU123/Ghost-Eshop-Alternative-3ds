@@ -41,9 +41,9 @@
  */
 #define RGBA8(r, g, b, a) ((((r)&0xFF)<<0) | (((g)&0xFF)<<8) | (((b)&0xFF)<<16) | (((a)&0xFF)<<24))
 
-#define BarColor 				C2D_Color32(57, 84, 114, 255)
-#define TopBGColor 				C2D_Color32(96, 168, 192, 255)
-#define BottomBGColor 			C2D_Color32(38, 44, 77, 255)
+#define BarColor 				C2D_Color32(255, 0, 0, 255)
+#define TopBGColor 				C2D_Color32(255, 125, 0, 255)
+#define BottomBGColor 			C2D_Color32(255, 125, 0, 255)
 #define SelectedColordefault	C2D_Color32(120, 192, 216, 255)
 #define UnselectedColordefault	C2D_Color32(77, 118, 132, 255)
 #define BLACK 					C2D_Color32(0, 0, 0, 255)

@@ -45,7 +45,6 @@ private:
 
 	const std::vector<Structs::ButtonPos> arrowPos = {
 		{0, 215, 25, 25}, // Back Arrow.
-		{295, 215, 25, 25} // Next Page.
 	};
 };
 
