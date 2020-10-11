@@ -11,13 +11,13 @@
 "categories": ["Games", "DSiWares", "Virtual Consoles", "Eshop", "Homebrew", "Séries"],
 "authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pokémon.co", "Netflix.inc"],
 "consoles": ["3DS", "DSi", "NES", "SNES", "GBA", "GBC", "GB", "Game Gear"],
-"barLight": "#395472",
-"barDark": "#395472",
-"bgDark": "#262c4d",
-"bgLight": "#60a8c0",
+"barLight": "#ff3000",
+"barDark": "#ff0000",
+"bgDark": "#ff8c00",
+"bgLight": "#ffb400",
 "textDark": "#ffffff",
 "textLight": "#000000",
-"boxDark": "#313131",
+"boxDark": "#ff6464",
 "boxLight": "#f7f7f7",
 "outlineDark": "#f00000",
 "outlineLight": "#f00000",
@@ -55,7 +55,7 @@
 },
 {"info": {
 		            "title": "Plants vs Zombies",
-		            "version": "USA, EUR",
+		            "version": "USA",
 		            "author": "",
 		            "category": "DSiWares",
 		            "console": "DSi",
@@ -63,10 +63,10 @@
 		            "description": "",
 		            "last_updated": "2020-10-04 at 15:09 (UTC)"
 },
-"Plants vs Zombies (USA)": [
+"Plants vs Zombies": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/kxmnjec4g53fdhn/Plants%20vs.%20Zombies%20%28USA%29.cia?dl=1",
+				   "file": "http://download1593.mediafire.com/ojwuksej37eg/k9az7ulpfw6b2ba/Plants+vs.+Zombies.cia",
 				   "output": "sdmc:/Plantes vs Zombies (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -78,23 +78,6 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Plantes vs Zombies (USA).cia",
-				   "message": "Nettoyage..."}
-],
-"Plants vs Zombies (EUR)": [
-{
-		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vrce5mvvhy35h93/Plants%20vs.%20Zombies%20%28Europe%2C%20Australia%29.cia?dl=1",
-				   "output": "sdmc:/Plantes vs Zombies (EUR).cia",
-				   "message": "Téléchargement de votre jeux en cours..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/Plantes vs Zombies (EUR).cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/Plantes vs Zombies (EUR).cia",
 				   "message": "Nettoyage..."
 }
 ]
