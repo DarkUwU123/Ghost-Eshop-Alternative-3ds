@@ -25,6 +25,35 @@
 "revision": 28},
 "storeContent": [
 {"info": {
+		            "title": "Ghost Eshop",
+		            "version": "8.0",
+		            "author": "Ghost0159",
+		            "category": "Homebrew",
+		            "console": "3DS",
+		            "icon_index": 234,
+		            "description": "An alternative eshop for 3DS.",
+		            "last_updated": "2020-10-17 at 01:34 (UTC)"
+},
+"GhostEshop.cia": [
+{
+		           "type": "downloadFile",
+				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/download/v9.0/GhostEshop.cia",
+				   "output": "sdmc:/GhostEshop.cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/GhostEshop.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/GhostEshop.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
 		            "title": "Pixel Paint",
 		            "version": "USA",
 		            "author": "Sanuk Games",
@@ -49,35 +78,6 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Pixel Paint (USA).cia",
-				   "message": "Nettoyage..."
-}
-]
-},
-{"info": {
-		            "title": "Ghost Eshop",
-		            "version": "8.0",
-		            "author": "Ghost0159",
-		            "category": "Homebrew",
-		            "console": "3DS",
-		            "icon_index": 234,
-		            "description": "An alternative eshop for 3DS.",
-		            "last_updated": "2020-09-04 at 14:03 (UTC)"
-},
-"GhostEshop.cia": [
-{
-		           "type": "downloadFile",
-				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/download/v8.0/GhostEshop.cia",
-				   "output": "sdmc:/GhostEshop.cia",
-				   "message": "Downloading your current game..."
-}, 
-{
-		           "type": "installCia",
-				   "file": "/GhostEshop.cia",
-				   "message": "Installation de votre jeux en cours..."
-},
-{
-				   "type": "deleteFile",
-				   "file": "sdmc:/GhostEshop.cia",
 				   "message": "Nettoyage..."
 }
 ]
