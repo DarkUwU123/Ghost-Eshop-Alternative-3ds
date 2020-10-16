@@ -7,8 +7,8 @@
 	<a href="https://somsubhra.com/github-release-stats/?username=Ghost0159&repository=Ghost-Eshop-Alternative-3ds" style="padding-left: 5px; padding-right: 5px;">
 		<img src="https://img.shields.io/badge/Total_Downloads-10,740-red.svg" height="20">
 	</a>
-		<a href="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v8.0" style="padding-left: 5px; padding-right: 5px;">
-		<img src="https://img.shields.io/badge/Latest_Release-v8.0-orange.svg" heigh
+		<a href="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v9.0" style="padding-left: 5px; padding-right: 5px;">
+		<img src="https://img.shields.io/badge/Latest_Release-v9.0-orange.svg" heigh
 </p>
 
 -----
@@ -24,9 +24,9 @@ Made by Ghost0159. Chat with him on Gmail and feel free to ask him to add more g
 
 Mail: contact.ghost01@gmail.com
 
-Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v8.0).
+Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v9.0).
 
-The last valid version is the "v8.0"! Tested there!
+The last valid version is the "v9.0"! Tested there!
 
 **Universal-Team is not affiliated with this project. Universal-Team is against piracy.**
 
@@ -43,9 +43,9 @@ We currently have: **270** files in . cia format
 
  Mail: contact.ghost01@gmail.com
  
- Téléchargez la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v8.0).
+ Téléchargez la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v9.0).
 
- La dernière version valide est la "v8.0"! Testez la!
+ La dernière version valide est la "v9.0"! Testez la!
 
  **Universal-Team n'est en aucun cas affilié à ce projet. Universal-Team est contre le piratage.**
  
@@ -62,9 +62,9 @@ Este es un eshop 3ds alternativo por nintendo 3DS.
 
  Mail: contact.ghost01@gmail.com
  
- Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v8.0).
+ Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v9.0).
 
- La última versión válida es la "v8.0"! Probado allí!
+ La última versión válida es la "v9.0"! Probado allí!
 
  **Universal-Team no está afiliado a este proyecto. Universal-Team está en contra de la piratería.**
  
