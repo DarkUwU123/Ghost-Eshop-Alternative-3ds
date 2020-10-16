@@ -89,7 +89,7 @@ void Config::sysLang() {
 // In case it doesn't exist.
 void Config::initialize() {
 	// Create through fopen "Write".
-	FILE *file = fopen("sdmc:/3ds/Ghost-Eshop/Settings.json", "w");
+	FILE *file = fopen("sdmc:/3ds/Ghost-Eshop/settings/Settings.json", "w");
 
 	// Set default values.
 	this->setInt("BARCOLOR", BarColor);
@@ -133,11 +133,11 @@ void Config::initialize() {
 }
 
 Config::Config() {
-	if (access("sdmc:/3ds/Ghost-Eshop/Settings.json", F_OK) != 0 ) {
+	if (access("sdmc:/3ds/Ghost-Eshop/settings/Settings.json", F_OK) != 0 ) {
 		this->initialize();
 	}
 
-	FILE* file = fopen("sdmc:/3ds/Ghost-Eshop/Settings.json", "r");
+	FILE* file = fopen("sdmc:/3ds/Ghost-Eshop/settings/Settings.json", "r");
 	this->json = nlohmann::json::parse(file, nullptr, false);
 	fclose(file);
 
@@ -351,7 +351,7 @@ Config::Config() {
 void Config::save() {
 	if (this->changesMade) {
 		this->changesMade = false;
-		FILE *file = fopen("sdmc:/3ds/Ghost-Eshop/Settings.json", "w");
+		FILE *file = fopen("sdmc:/3ds/Ghost-Eshop/settings/Settings.json", "w");
 		// Set values.
 		this->setInt("BARCOLOR", this->barColor());
 		this->setInt("TOPBGCOLOR", this->topBG());

@@ -34,7 +34,7 @@ void MainMenu::Draw(void) const {
 }
 
 void MainMenu::Logic(u32 hDown, u32 hHeld, touchPosition touch) {
-	if ((hDown & KEY_START) || (hDown & KEY_TOUCH && touching(touch, mainButtons[4]))) {
+	if ((hDown & KEY_START) || (hDown & KEY_TOUCH && touching(touch, mainButtons[3]))) {
 		fadeout = true;
 		fadecolor = 0;
 		exiting = true;

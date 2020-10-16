@@ -225,7 +225,6 @@ void Settings::DrawColorChanging(void) const {
 	if (fadealpha > 0) Gui::Draw_Rect(0, 0, 320, 240, C2D_Color32(fadecolor, fadecolor, fadecolor, fadealpha)); // Fade in/out effect
 }
 
-
 void Settings::SubMenuLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 	if ((hDown & KEY_B)) {
 		Gui::screenBack(config->screenFade());

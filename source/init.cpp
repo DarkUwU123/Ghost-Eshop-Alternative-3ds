@@ -96,6 +96,7 @@ Result Init::Initialize() {
 	mkdir("sdmc:/3ds/Ghost-Eshop", 0777);
 	mkdir("sdmc:/3ds/Ghost-Eshop/scripts", 0777);
 	mkdir("sdmc:/3ds/Ghost-Eshop/stores", 0777);
+	mkdir("sdmc:/3ds/Ghost-Eshop/settings", 0777);
 	
 	// We need to make sure, the file exist.
 	config = std::make_unique<Config>();

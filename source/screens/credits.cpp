@@ -31,10 +31,12 @@ extern bool touching(touchPosition touch, Structs::ButtonPos button);
 // Spécial Thanks Page 1.
 
 const std::vector<std::string> specialNames = {
-	"Anonyku"
+	"Anonyku",
+	"Mikiki"
 };
 const std::vector<std::string> specialDescriptions = {
-	"For hosting files and adding games."
+	"For hosting files and adding games",
+	"For ading games in the host"
 };
 
 void Credits::Draw(void) const {
