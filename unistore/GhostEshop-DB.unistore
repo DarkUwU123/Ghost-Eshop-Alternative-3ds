@@ -8572,6 +8572,2242 @@
 				   "type": "deleteFile",
 				   "file": "sdmc:/Turbo - Super Stunt Squad (USA).cia",
 				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crimson Shround",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 272,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Crimson Shround": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/jvdzakejavgsqeb/Crimson%20Shroud%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Crimson Shround (USA) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crimson Shround (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crimson Shround (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ketzal's Corridors",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 273,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Ketzal's Corridors": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/5kmfpaz730gl22b/Ketzal%27s%20Corridors%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Ketzal s Corridors (USA) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ketzal s Corridors (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ketzal s Corridors (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby Fighters Deluxe",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 274,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Kirby Fighters Deluxe": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/6n3n6yg59b9jb0w/Kirby%20Fighters%20Deluxe%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Kirby Fighters Deluxe (USA) (En,Fr,Es) (eShop).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirby Fighters Deluxe (USA) (En,Fr,Es) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirby Fighters Deluxe (USA) (En,Fr,Es) (eShop).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "12-Sai. Honto no Kimochi",
+		            "version": "JPN",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 275,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"12-Sai. Honto no Kimochi": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/2ewubp2txfoy4oa/12-Sai.%20Honto%20no%20Kimochi%20%28JP%29.cia?dl=1",
+				   "output": "sdmc:/12-Sai Honto no Kimochi(JPN).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/12-Sai Honto no Kimochi(JPN).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/12-Sai Honto no Kimochi(JPN).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Chibi-Robo! Zip Lash",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 276,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Chibi-Robo! Zip Lash": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/11mcnweqc1lu3om/Chibi-Robo%21%20Zip%20Lash%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Chibi-Robo Zip Lash (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Chibi-Robo Zip Lash (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Chibi-Robo Zip Lash (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Crosswords Plus",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 277,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Crosswords Plus": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/akr42yu50q6k4v7/Crosswords%20Plus%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Crosswords Plus (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Crosswords Plus (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Crosswords Plus (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ever Oasis",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 278,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Ever Oasis": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/i6wohrm7xc1iod7/Ever%20Oasis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "output": "sdmc:/Ever Oasis (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ever Oasis (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ever Oasis (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Fire Emblem Warriors",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 279,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Fire Emblem Warriors": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pv3e434hg0u1jm5/Fire%20Emblem%20Warriors%20%28Europe%29.cia?dl=1",
+				   "output": "sdmc:/Fire Emblem Warriors (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Fire Emblem Warriors (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Fire Emblem Warriors (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Hot Wheels - World's Best Driver",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 280,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Hot Wheels - World's Best Driver": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/u3gls89xvxy2xez/Hot%20Wheels%20-%20World%27s%20Best%20Driver%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/Hot Wheels - Worlds Best Driver (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Hot Wheels - Worlds Best Driver (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Hot Wheels - Worlds Best Driver (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Hotel Transylvania",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 281,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Hotel Transylvania": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ic3offjd02e27dg/Hotel%20Transylvania%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Hotel Transylvania (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Hotel Transylvania (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Hotel Transylvania (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "How to Train Your Dragon 2",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 282,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"How to Train Your Dragon 2 (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/a7mtavxv48d73im/How%20to%20Train%20Your%20Dragon%202%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/How to Train Your Dragon 2 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/How to Train Your Dragon 2 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/How to Train Your Dragon 2 (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Inazuma Eleven 3 - Bomb Blast",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 283,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Inazuma Eleven 3 - Bomb Blast": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/a0rv6foanm83s8e/Inazuma%20Eleven%203%20-%20Bomb%20Blast%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Inazuma Eleven 3 - Bomb Blast (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Inazuma Eleven 3 - Bomb Blast (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Inazuma Eleven 3 - Bomb Blast (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Inazuma Eleven 3 - Team Ogre Attacks",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 284,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Inazuma Eleven 3 - Team Ogre Attacks": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ore5uusistv1hgc/Inazuma%20Eleven%203%20-%20Team%20Ogre%20Attacks%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Inazuma Eleven 3 - Team Ogre Attacks (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Inazuma Eleven 3 - Team Ogre Attacks (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Inazuma Eleven 3 - Team Ogre Attacks (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Inazuma Eleven GO - Chrono Stones - Wildfire",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 285,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Inazuma Eleven GO - Chrono Stones - Wildfire": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ppml1k3pjw9y7cw/Inazuma%20Eleven%20GO%20-%20Chrono%20Stones%20-%20Wildfire%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Inazuma Eleven GO - Chrono Stones - Wildfire (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Inazuma Eleven GO - Chrono Stones - Wildfire (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Inazuma Eleven GO - Chrono Stones - Wildfire (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Jewel Master - Cradle of Egypt 2 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 286,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Jewel Master - Cradle of Egypt 2 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/zvy0wm3g9bqxbia/Jewel%20Master%20-%20Cradle%20of%20Egypt%202%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Jewel Master - Cradle of Egypt 2 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Jewel Master - Cradle of Egypt 2 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Jewel Master - Cradle of Egypt 2 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Jewel Master - Cradle of Rome 2",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 287,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Jewel Master - Cradle of Rome 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/65vlfeg8rm3s5fi/Jewel%20Master%20-%20Cradle%20of%20Rome%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Jewel Master - Cradle of Rome 2 (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Jewel Master - Cradle of Rome 2 (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Jewel Master - Cradle of Rome 2 (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Jewel Master - Atlantis 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 288,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Jewel Master - Atlantis 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/znew20y4ew7hyse/Jewel%20Master%20-%20Atlantis%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "output": "sdmc:/Jewel Master - Atlantis 3D (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Jewel Master - Atlantis 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Jewel Master - Atlantis 3D (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ketzal's Corridors",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 289,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Ketzal's Corridors": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/5kmfpaz730gl22b/Ketzal%27s%20Corridors%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Ketzals Corridors (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ketzals Corridors (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ketzals Corridors (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kid Icarus - Uprising",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 290,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Kid Icarus - Uprising": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/z142z5n1w7z1o95/Kid%20Icarus%20-%20Uprising%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Kid Icarus - Uprising (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kid Icarus - Uprising (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kid Icarus - Uprising (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby - Au Fil de la Grande Aventure",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 291,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Kirby - Au Fil de la Grande Aventure": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/by87ybsjqzs8vlw/Kirby%20-%20Au%20Fil%20de%20la%20Grande%20Aventure%20%28Europe%29.cia?dl=1",
+				   "output": "sdmc:/Kirby - Au Fil de la Grande Aventure (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirby - Au Fil de la Grande Aventure (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirby - Au Fil de la Grande Aventure (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kirby - Triple Deluxe",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 292,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Kirby - Triple Deluxe": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/x0a591fhnxaemlm/Kirby%20-%20Triple%20Deluxe%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Kirby - Triple Deluxe (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kirby - Triple Deluxe (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kirby - Triple Deluxe (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Kung Fu Panda - Showdown of Legendary Legends",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 293,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Kung Fu Panda - Showdown of Legendary Legends": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/5f9w8c2fv50ydpg/Kung%20Fu%20Panda%20-%20Showdown%20of%20Legendary%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "output": "sdmc:/Kung Fu Panda - Showdown of Legendary Legends (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Kung Fu Panda - Showdown of Legendary Legends (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Kung Fu Panda - Showdown of Legendary Legends (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "LEGO Batman 3 - Beyound Gotham",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 294,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"LEGO Batman 3 - Beyound Gotham": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1wyc8gfkof0qgag/LEGO%20Batman%203%20-%20Beyond%20Gotham%20%28EU%29%28M7%29.cia?dl=1",
+				   "output": "sdmc:/LEGO Batman 3 - Beyound Gotham (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Batman 3 - Beyound Gotham (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Batman 3 - Beyound Gotham (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "LEGO Jurassic World",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 295,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"LEGO Jurassic World": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/0o14s2qcp1gvw9b/LEGO%20Jurassic%20World%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/LEGO Jurassic World (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Jurassic World (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Jurassic World (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "LEGO Legends of Chima - Laval's Journey",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 296,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"LEGO Legends of Chima - Laval's Journey (Update 1.1)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/55n8mg7i3hayxj0/LEGO%20Legends%20of%20Chima%20-%20Laval%27s%20Journey%20-%20Update%201.1%20%28Europe%29.cia?dl=1",
+				   "output": "sdmc:/LEGO Legends of Chima - Lavals Journey (EUR)(1.1).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Legends of Chima - Lavals Journey (EUR)(1.1).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Legends of Chima - Lavals Journey (EUR)(1.1).cia",
+				   "message": "Nettoyage..."}
+],
+"LEGO Legends of Chima - Laval's Journey": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/2ngf4whq0hqmbh6/LEGO%20Legends%20of%20Chima%20-%20Laval%27s%20Journey%20%28EU%29%28M7%29.cia?dl=1",
+				   "output": "sdmc:/LEGO Legends of Chima - Lavals Journey.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Legends of Chima - Lavals Journey.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Legends of Chima - Lavals Journey.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "LEGO Marvel Super Heroes - Universe in Peril",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 297,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"LEGO Marvel Super Heroes - Universe in Peril": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/q6ah08dvu0q6s5a/LEGO%20Marvel%20Super%20Heroes%20-%20Universe%20in%20Peril%20%28EU%29%28M7%29.cia?dl=1",
+				   "output": "sdmc:/LEGO Marvel Super Heroes - Universe in Peril (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Marvel Super Heroes - Universe in Peril (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Marvel Super Heroes - Universe in Peril (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "LEGO Movie Videogame, The",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 298,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"LEGO Movie Videogame, The": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/n2cgrcnxlxsrgjl/LEGO%20Movie%20Videogame%2C%20The%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/LEGO Movie Videogame, The (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Movie Videogame, The (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Movie Videogame, The (EUR).cia",
+				   "message": "Nettoyage..."}
+],
+"LEGO Movie Videogame, The (Update 1.1)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/fhsumwo8wh19282/LEGO%20Movie%20Videogame%2C%20The%20-%20Update%201.1%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%2CNl%2CDa%29.cia?dl=1",
+				   "output": "sdmc:/LEGO Movie Videogame, The (EUR) (Update 1.1).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Movie Videogame, The (EUR) (Update 1.1).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Movie Videogame, The (EUR) (Update 1.1).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "LEGO Ninjago - L'Ombre de Ronin",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 299,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"LEGO Ninjago - L'Ombre de Ronin": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/u0trklmqa3f0tpz/LEGO%20Ninjago%20-%20L%27Ombre%20de%20Ronin%20%28FR%29%28M7%29.cia?dl=1",
+				   "output": "sdmc:/LEGO Ninjago - L'Ombre de Ronin (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Ninjago - L'Ombre de Ronin (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Ninjago - L'Ombre de Ronin (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "LEGO Star Wars III - The Clone Wars",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 300,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"LEGO Star Wars III - The Clone Wars": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1dh7hkx8qsrlpxu/LEGO%20Star%20Wars%20III%20-%20The%20Clone%20Wars%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/LEGO Star Wars III - The Clone Wars (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/LEGO Star Wars III - The Clone Wars (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/LEGO Star Wars III - The Clone Wars (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Liberation Maiden",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 301,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Liberation Maiden": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/6ma6y0xbglzv8zc/Liberation%20Maiden%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Liberation Maiden (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Liberation Maiden (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Liberation Maiden (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Luigi's Mansion",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 302,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Luigi's Mansion": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/pxk3lrimr0n3sai/Luigi%27s%20Mansion%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "output": "sdmc:/Luigis Mansion (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Luigis Mansion (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Luigis Mansion (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Ma Vie de Vétérinaire en Australie 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 303,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Ma Vie de Vétérinaire en Australie 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/momm9mprsl5xql1/Ma%20Vie%20de%20V%C3%A9t%C3%A9rinaire%20en%20Australie%203D%20%28Europe%29.cia?dl=1",
+				   "output": "sdmc:/Ma Vie de Vétérinaire en Australie 3D (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Ma Vie de Vétérinaire en Australie 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Ma Vie de Vétérinaire en Australie 3D (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Madagascar 3",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 304,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Madagascar 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/hyu5e5ef4tpu4is/Madagascar%203%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Madagascar 3 (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Madagascar 3 (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Madagascar 3 (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario & Luigi - Dream Team Bros.",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 305,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mario & Luigi - Dream Team Bros.": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/5gst7gj4b06slgq/Mario%20%26%20Luigi%20-%20Dream%20Team%20Bros.%20%28EU%29%28M7%29.cia?dl=1",
+				   "output": "sdmc:/Mario & Luigi - Dream Team Bros. (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario & Luigi - Dream Team Bros. (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario & Luigi - Dream Team Bros. (EUR).cia",
+				   "message": "Nettoyage..."}
+],
+"Mario & Luigi - Dream Team Bros. (Update 1.1)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/mwzisg6775g0zsk/Mario%20%26%20Luigi%20-%20Dream%20Team%20Bros.%20-%20Update%201.1%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia?dl=1",
+				   "output": "sdmc:/Mario & Luigi - Dream Team Bros. (EUR) (Update 1.1).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario & Luigi - Dream Team Bros. (EUR) (Update 1.1).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario & Luigi - Dream Team Bros. (EUR) (Update 1.1).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey",
+		            "version": "USA, EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 306,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (USA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/f3q1uljenxpcb1a/Mario%20%26%20Luigi%20Bowser%27s%20Inside%20Story%20%2B%20Bowser%20Jr.%27s%20Journey%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/1jqd6c1bhxgtofb/Mario%20%26%20Luigi%20Bowser%27s%20Inside%20Story%20%2B%20Bowser%20Jr%27s%20Journey%20%28EUR%29.cia?dl=1",
+				   "output": "sdmc:/Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario & Sonic at the London 2012 Olympic Games",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 307,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mario & Sonic at the London 2012 Olympic Games": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/d1py4zumavf5xrx/Mario%20%26%20Sonic%20at%20the%20London%202012%20Olympic%20Games%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/Mario & Sonic at the London 2012 Olympic Games (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario & Sonic at the London 2012 Olympic Games (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario & Sonic at the London 2012 Olympic Games (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario & Sonic at the Rio 2016 Olympic Games",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 308,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mario & Sonic at the Rio 2016 Olympic Games": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/xf87meg91pdhsuk/Mario%20%26%20Sonic%20at%20the%20Rio%202016%20Olympic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "output": "sdmc:/Mario & Sonic at the Rio 2016 Olympic Games (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario & Sonic at the Rio 2016 Olympic Games (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario & Sonic at the Rio 2016 Olympic Games (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Golf - World Tour",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 309,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mario Golf - World Tour": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/f5ospi09p2gn1bh/Mario%20Golf%20-%20World%20Tour%20%28EU%29%28M7%29.cia?dl=1",
+				   "output": "sdmc:/Mario Golf - World Tour (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario Golf - World Tour (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario Golf - World Tour (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Party - Island Tour",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 310,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mario Party - Island Tour": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ck4y4oy5ntg2c2e/Mario%20Party%20-%20Island%20Tour%20%28EU%29%28M7%29.cia?dl=1",
+				   "output": "sdmc:/Mario Party - Island Tour (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario Party - Island Tour (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario Party - Island Tour (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Party - Star Rush",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 311,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mario Party - Star Rush": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/9i8cvcuczpxwwuv/Mario%20Party%20-%20Star%20Rush%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia?dl=1",
+				   "output": "sdmc:/Mario Party - Star Rush (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario Party - Star Rush (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario Party - Star Rush (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Party - The Top 100",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 312,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mario Party - The Top 100": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/miz31j6lgou745r/Mario%20Party%20-%20The%20Top%20100%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "output": "sdmc:/Mario Party - The Top 100 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario Party - The Top 100 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario Party - The Top 100 (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mario Sports Superstars",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 313,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mario Sports Superstars": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/qa8dvjzrm2ibyo6/Mario%20Sports%20Superstars%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "output": "sdmc:/Mario Sports Superstars (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario Sports Superstars (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario Sports Superstars (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Metal Gear Solid - Snake Eater 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 314,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Metal Gear Solid - Snake Eater 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/6g5rnma2a6erng9/Metal%20Gear%20Solid%20-%20Snake%20Eater%203D%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Metal Gear Solid - Snake Eater 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Metal Gear Solid - Snake Eater 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Metal Gear Solid - Snake Eater 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mighty Switch Force!",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 315,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mighty Switch Force!": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/nnj58752hf7i06a/Mighty%20Switch%20Force%21%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Mighty Switch Force (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mighty Switch Force (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mighty Switch Force (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mighty Switch Force! 2",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 316,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mighty Switch Force! 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/zw316h032b04qff/Mighty%20Switch%20Force%21%202%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Mighty Switch Force 2 (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mighty Switch Force 2 (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mighty Switch Force 2 (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Monster High - Skultimate Roller Maze",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 317,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Monster High - Skultimate Roller Maze": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/l9xlfr1r4keunhh/Monster%20High%20-%20Skultimate%20Roller%20Maze%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Monster High - Skultimate Roller Maze (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Monster High - Skultimate Roller Maze (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Monster High - Skultimate Roller Maze (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Monster Hunter 3 Ultimate Data Transfer Program",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 318,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Monster Hunter 3 Ultimate Data Transfer Program": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/hkfkqqe2lx6nz2w/Monster%20Hunter%203%20Ultimate%20Data%20Transfer%20Program%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Monster Hunter 3 Ultimate Data Transfer Program (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Monster Hunter 3 Ultimate Data Transfer Program (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Monster Hunter 3 Ultimate Data Transfer Program (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Monster Hunter 4 Ultimate",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 319,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Monster Hunter 4 Ultimate": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/l8lisrm5tuyrj0z/Monster%20Hunter%204%20Ultimate%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Monster Hunter 4 Ultimate (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Monster Hunter 4 Ultimate (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Monster Hunter 4 Ultimate (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Monster Hunter Stories",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 320,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Monster Hunter Stories": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/xfziayo884p9k6f/Monster%20Hunter%20Stories%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "output": "sdmc:/Monster Hunter Stories (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Monster Hunter Stories (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Monster Hunter Stories (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Monster Hunter XX Double Cross",
+		            "version": "JPN",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 321,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Monster Hunter XX Double Cross": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/cqjf39pct6mnzwi/Monster%20Hunter%20XX%20Double%20Cross%20%28JPN%29.cia?dl=1",
+				   "output": "sdmc:/Monster Hunter XX Double Cross (JPN).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Monster Hunter XX Double Cross (JPN).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Monster Hunter XX Double Cross (JPN).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Moon Chronicles",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 322,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Moon Chronicles": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ifzxmhmvk1oahtx/Moon%20Chronicles%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Moon Chronicles (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Moon Chronicles (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Moon Chronicles (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Mutant Mudds",
+		            "version": "EUR, USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 323,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Mutant Mudds (EUR)(DEMO)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/y1huntj8cqu196y/Mutant%20Mudds%20%28Europe%29%20%28Demo%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Mutant Mudds (EUR)(DEMO).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mutant Mudds (EUR)(DEMO).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mutant Mudds (EUR)(DEMO).cia",
+				   "message": "Nettoyage..."}
+],
+"Mutant Mudds - Games (USA)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/8uozmiupu7us0qh/Mutant%20Mudds%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Mutant Mudds (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mutant Mudds (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mutant Mudds (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "My Pet Puppy 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 324,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"My Pet Puppy 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/f3y0321zaxmo110/My%20Pet%20Puppy%203D%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/My Pet Puppy 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/My Pet Puppy 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/My Pet Puppy 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "NCIS 3D",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 325,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"NCIS 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/sn2tjc4mnwo2gu9/NCIS%203D%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/NCIS 3D (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/NCIS 3D (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/NCIS 3D (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "New Style Boutik",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 326,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"New Style Boutik - Update 1.1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/fqjpr8o68bzir73/New%20Style%20Boutique%20-%20Update%201.1%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "output": "sdmc:/New Style Boutik - Update 1.1 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Style Boutik - Update 1.1 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Style Boutik - Update 1.1 (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "New Style Boutique 3 Styling Star",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 327,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"New Style Boutique 3 Styling Star": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/zjkfmzgy2qurid0/New%20Style%20Boutique%203%20Styling%20Star%20%28EUR%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/New Style Boutique 3 Styling Star (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Style Boutique 3 Styling Star (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Style Boutique 3 Styling Star (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "New Super Mario Bros. 2",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 328,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"New Super Mario Bros. 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/gol7uxk22f7i7eq/New%20Super%20Mario%20Bros.%202%20%28EU%29%28M7%29.cia?dl=1",
+				   "output": "sdmc:/New Super Mario Bros. 2 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Super Mario Bros. 2 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Super Mario Bros. 2 (EUR).cia",
+				   "message": "Nettoyage..."}
+],
+"New Super Mario Bros. 2 - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/yw7z6wso6iq1gjt/New%20Super%20Mario%20Bros.%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29%20%28DLC%29.cia?dl=1",
+				   "output": "sdmc:/New Super Mario Bros. 2 (EUR) - DLC.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/New Super Mario Bros. 2 (EUR) - DLC.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/New Super Mario Bros. 2 (EUR) - DLC.cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Nicktoons MLB 3",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 329,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Nicktoons MLB 3": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/d67amwm16vqb7j6/Nicktoons%20MLB%203D%20%28USA%29.cia?dl=1",
+				   "output": "sdmc:/Nicktoons MLB 3 (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Nicktoons MLB 3 (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Nicktoons MLB 3 (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Nintendo Letter Box",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 330,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Nintendo Letter Box": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/kfiko0x0vhl9bcm/Nintendo%20Letter%20Box%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Nintendo Letter Box (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Nintendo Letter Box (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Nintendo Letter Box (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Nintendo Pocket Football Club",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 331,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Nintendo Pocket Football Club": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/lripjxx45s1nzxg/Nintendo%20Pocket%20Football%20Club%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Nintendo Pocket Football Club (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Nintendo Pocket Football Club (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Nintendo Pocket Football Club (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Nintendo Vidéo",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 332,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Nintendo Vidéo": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/m3kkfqjh6lgoemf/Nintendo%20Video%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Nintendo Vidéo (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Nintendo Vidéo (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Nintendo Vidéo (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "One Piece - Unlimited World Red",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 333,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"One Piece - Unlimited World Red": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/8lg2ltj7lgwazmg/One%20Piece%20-%20Unlimited%20World%20Red%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/One Piece - Unlimited World Red (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/One Piece - Unlimited World Red (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/One Piece - Unlimited World Red (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pac-Man & Galaga Dimensions",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 334,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Pac-Man & Galaga Dimensions": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/x9e1se1ywezxr5w/Pac-Man%20%26%20Galaga%20Dimensions%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Pac-Man & Galaga Dimensions (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pac-Man & Galaga Dimensions (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pac-Man & Galaga Dimensions (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pac-Man & the Ghostly Adventures 2",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 335,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Pac-Man & the Ghostly Adventures 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/3nhxw9zgysic9be/Pac-Man%20and%20the%20Ghostly%20Adventures%202%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Pac-Man & the Ghostly Adventures 2 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pac-Man & the Ghostly Adventures 2 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pac-Man & the Ghostly Adventures 2 (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pac-Man Party 3D",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 336,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Pac-Man Party 3D": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ep42ay9hkxwi5mo/Pac-Man%20Party%203D%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Pac-Man Party 3D (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pac-Man Party 3D (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pac-Man Party 3D (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Peanuts Movie - Snoopy's Grand Adventure, The",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 337,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Peanuts Movie - Snoopy's Grand Adventure, The": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/ys7ewslcss1usll/Peanuts%20Movie%20-%20Snoopy%27s%20Grand%20Adventure%2C%20The%20%28EU%29%28M7%29.cia?dl=1",
+				   "output": "sdmc:/Peanuts Movie - Snoopy's Grand Adventure, The (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Peanuts Movie - Snoopy's Grand Adventure, The (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Peanuts Movie - Snoopy's Grand Adventure, The (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Penguins of Madagascar",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 338,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Penguins of Madagascar": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/h2rl7joba4d6yhi/Penguins%20of%20Madagascar%20%28EU%29%28M5%29.cia?dl=1",
+				   "output": "sdmc:/Penguins of Madagascar (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Penguins of Madagascar (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Penguins of Madagascar (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Pet Zombies",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 339,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Pet Zombies": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/uc366vpg6nhxdig/Pet%20Zombies%20%28US%29.cia?dl=1",
+				   "output": "sdmc:/Pet Zombies (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Pet Zombies (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Pet Zombies (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Phoenix Wright Ace Attorney - Dual Destinies",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 340,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Phoenix Wright Ace Attorney - Dual Destinies - Games": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/4xaurl8huqhjer7/Phoenix%20Wright%20Ace%20Attorney%20-%20Dual%20Destinies%20%28EUR%29.cia?dl=1",
+				   "output": "sdmc:/Phoenix Wright Ace Attorney - Dual Destinies (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Phoenix Wright Ace Attorney - Dual Destinies (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Phoenix Wright Ace Attorney - Dual Destinies (EUR).cia",
+				   "message": "Nettoyage..."}
+],
+"Phoenix Wright Ace Attorney - Dual Destinies - DLC": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/twijx4hdum13clv/Phoenix%20Wright%20Ace%20Attorney%20-%20Dual%20Destinies%20-%20DLC%20%28EUR%29.CIA?dl=1",
+				   "output": "sdmc:/Phoenix Wright Ace Attorney - Dual Destinies - DLC (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Phoenix Wright Ace Attorney - Dual Destinies - DLC (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Phoenix Wright Ace Attorney - Dual Destinies - DLC (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Phonics Fun With Biff, Chip & Kipper - Vol. 1",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 341,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Phonics Fun With Biff, Chip & Kipper - Vol. 1": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/drjua5w0vaig8rh/Phonics%20Fun%20With%20Biff%2C%20Chip%20%26%20Kipper%20-%20Vol.%201%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 1 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Phonics Fun With Biff, Chip & Kipper - Vol. 1 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 1 (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Phonics Fun With Biff, Chip & Kipper - Vol. 2",
+		            "version": "EUR",
+		            "author": "",
+		            "category": "Games",
+		            "console": "3DS",
+		            "icon_index": 342,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Phonics Fun With Biff, Chip & Kipper - Vol. 2": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/cwuyebba5zpfwvi/Phonics%20Fun%20With%20Biff%2C%20Chip%20%26%20Kipper%20-%20Vol.%202%20%28EU%29%28M6%29.cia?dl=1",
+				   "output": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 2 (EUR).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Phonics Fun With Biff, Chip & Kipper - Vol. 2 (EUR).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 2 (EUR).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Photos with Mario",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 343,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Photos with Mario": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/3ivksh15n453clm/Photos%20with%20Mario%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Photos with Mario (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Photos with Mario (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Photos with Mario (USA).cia",
+				   "message": "Nettoyage..."
+}
+]
+},
+{"info": {
+		            "title": "Picdun 2 - Witch's Curse",
+		            "version": "USA",
+		            "author": "",
+		            "category": "Eshop",
+		            "console": "3DS",
+		            "icon_index": 344,
+		            "description": "",
+		            "last_updated": "2020-10-22 at 15:09 (UTC)"
+},
+"Picdun 2 - Witch's Curse": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/rcctt047gimyilx/Picdun%202%20-%20Witch%27s%20Curse%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Picdun 2 - Witch's Curse (USA).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Picdun 2 - Witch's Curse (USA).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Picdun 2 - Witch's Curse (USA).cia",
+				   "message": "Nettoyage..."
 }]}]} 
 
 
