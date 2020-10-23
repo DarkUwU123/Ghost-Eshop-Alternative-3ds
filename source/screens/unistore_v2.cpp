@@ -311,12 +311,10 @@ void UniStoreV2::displaySelectedEntry(int selection, int storeIndex) const {
 	}
 
 	if (this->storeJson.at("storeContent").at(selection).at("info").contains("description")) {
-		Gui::DrawStringCentered(0, 160, 0.5f, this->returnTextColor(), Lang::get("DESC") + (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("description"), 400);
+		Gui::DrawStringCentered(0, 160, 0.6f, this->returnTextColor(), Lang::get("DESC") + (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("description"), 400);
 	} else {
 		Gui::DrawStringCentered(0, 160, 0.5f, this->returnTextColor(), Lang::get("DESC") + "?", 400);
 	}
-
-	Gui::DrawStringCentered(0, 190, 0.6f, this->returnTextColor(), this->sortedStore->isUpdateAvailable(storeIndex) ? Lang::get("UPDATE_AVAILABLE") : Lang::get("UPDATE_NOT_AVAILABLE"), 400);
 
 	this->DrawBaseBottom();
 
