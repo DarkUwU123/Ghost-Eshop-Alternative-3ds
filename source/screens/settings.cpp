@@ -123,7 +123,7 @@ const std::vector<std::string> colorList = {
 void Settings::DrawColorChanging(void) const {
 	std::string line1;
 	GFX::DrawTop();
-	Gui::DrawStringCentered(0, config->useBars() ? 0 : 2, 0.7f, config->textColor(), "Universal-Updater", 400);
+	Gui::DrawStringCentered(0, config->useBars() ? 0 : 2, 0.7f, config->textColor(), "Ghost Eshop", 400);
 
 	if (!dropDownMenu) {
 		if (colorMode == 3) {
