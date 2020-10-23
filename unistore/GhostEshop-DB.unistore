@@ -10431,17 +10431,17 @@
 {
 		           "type": "downloadFile",
 				   "file": "https://www.dropbox.com/s/m3kkfqjh6lgoemf/Nintendo%20Video%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
-				   "output": "sdmc:/Nintendo Vidéo (USA).cia",
+				   "output": "sdmc:/Nintendo Video (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
 {
 		           "type": "installCia",
-				   "file": "/Nintendo Vidéo (USA).cia",
+				   "file": "/Nintendo Video (USA).cia",
 				   "message": "Installation de votre jeux en cours..."
 },
 {
 				   "type": "deleteFile",
-				   "file": "sdmc:/Nintendo Vidéo (USA).cia",
+				   "file": "sdmc:/Nintendo Video (USA).cia",
 				   "message": "Nettoyage..."
 }
 ]
