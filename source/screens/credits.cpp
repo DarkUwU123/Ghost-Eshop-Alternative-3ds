@@ -32,15 +32,18 @@ extern bool touching(touchPosition touch, Structs::ButtonPos button);
 
 const std::vector<std::string> specialNames = {
 	"Anonyku",
-	"Mikiki"
+	"Mikiki",
+	"Dark UwU"
 };
 const std::vector<std::string> specialDescriptions = {
 	"For hosting files and adding games",
-	"For ading games in the host"
+	"For ading games in the host",
+	"For music of GhostEshop",
+	"For images of GhostEshop"
 };
 
 void Credits::Draw(void) const {
-	std::string title = "Ghost Eshop - ";
+	std::string title = "👻Ghost Eshop👻 - ";
 	title += Lang::get("CREDITS");
 	GFX::DrawTop();
 	if (creditsPage != 4) {

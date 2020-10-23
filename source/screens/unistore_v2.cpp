@@ -298,19 +298,25 @@ void UniStoreV2::displaySelectedEntry(int selection, int storeIndex) const {
 		Gui::DrawStringCentered(0, 100, 0.6f, this->returnTextColor(), Lang::get("CONSOLE") + "?", 400);
 	}
 
-	if (this->storeJson.at("storeContent").at(selection).at("info").contains("last_updated")) {
-		Gui::DrawStringCentered(0, 120, 0.6f, this->returnTextColor(), Lang::get("LAST_UPDATED") + (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("last_updated"), 400);
+	if (this->storeJson.at("storeContent").at(selection).at("info").contains("size")) {
+		Gui::DrawStringCentered(0, 120, 0.6f, this->returnTextColor(), Lang::get("SIZE") + (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("size"), 400);
 	} else {
-		Gui::DrawStringCentered(0, 120, 0.6f, this->returnTextColor(), Lang::get("LAST_UPDATED") + "?", 400);
+		Gui::DrawStringCentered(0, 120, 0.6f, this->returnTextColor(), Lang::get("SIZE") + "?", 400);
+	}
+
+	if (this->storeJson.at("storeContent").at(selection).at("info").contains("last_updated")) {
+		Gui::DrawStringCentered(0, 140, 0.6f, this->returnTextColor(), Lang::get("LAST_UPDATED") + (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("last_updated"), 400);
+	} else {
+		Gui::DrawStringCentered(0, 140, 0.6f, this->returnTextColor(), Lang::get("LAST_UPDATED") + "?", 400);
 	}
 
 	if (this->storeJson.at("storeContent").at(selection).at("info").contains("description")) {
-		Gui::DrawStringCentered(0, 140, 0.5f, this->returnTextColor(), Lang::get("DESC") + (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("description"), 400);
+		Gui::DrawStringCentered(0, 160, 0.5f, this->returnTextColor(), Lang::get("DESC") + (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("description"), 400);
 	} else {
-		Gui::DrawStringCentered(0, 140, 0.5f, this->returnTextColor(), Lang::get("DESC") + "?", 400);
+		Gui::DrawStringCentered(0, 160, 0.5f, this->returnTextColor(), Lang::get("DESC") + "?", 400);
 	}
 
-	Gui::DrawStringCentered(0, 170, 0.6f, this->returnTextColor(), this->sortedStore->isUpdateAvailable(storeIndex) ? Lang::get("UPDATE_AVAILABLE") : Lang::get("UPDATE_NOT_AVAILABLE"), 400);
+	Gui::DrawStringCentered(0, 190, 0.6f, this->returnTextColor(), this->sortedStore->isUpdateAvailable(storeIndex) ? Lang::get("UPDATE_AVAILABLE") : Lang::get("UPDATE_NOT_AVAILABLE"), 400);
 
 	this->DrawBaseBottom();
 
