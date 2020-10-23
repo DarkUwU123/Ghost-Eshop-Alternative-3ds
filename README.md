@@ -32,7 +32,7 @@ The last valid version is the "v9.0"! Tested there!
 
 *This homebrew is a Universal Updater fork, but Universal-Team and against piracy, and in other words against this project, I used the source code without any permission from them, if you are a developer and you want to make a homebrew from A to Z, I make the source code available, you can contact me on my discord server and by email.*
 
-We currently have: **270** files in . cia format
+We currently have: **345** files in . cia format
 
 
 ### Français:
@@ -51,7 +51,7 @@ We currently have: **270** files in . cia format
  
  *Cet homebrew est un fork d'Universal Updater, mais Universal-Team est contre le piratage, et en d'autres termes contre ce projet, j'ai utilisé le code source sans aucune permission de leur part, si vous êtes développeur et que vous voulez faire un homebrew d'A à Z, je mets le code source à disposition, vous pouvez me contacter sur mon serveur discord et par email.*
  
- Nous avons actuellement: **270** fichiers au format .cia
+ Nous avons actuellement: **345** fichiers au format .cia
 
  
 ### Spanish:
@@ -70,7 +70,7 @@ Este es un eshop 3ds alternativo por nintendo 3DS.
  
  *Este Homebrew es un fork de Universal Updater, pero Universal-Team y contra la piratería, y en otras palabras contra este proyecto, he utilizado el código fuente sin ningún permiso de ellos, si eres desarrollador y quieres hacer un Homebrew de A a Z, Pongo el código fuente a disposición, puede contactarme en mi servidor Discord y por correo electrónico.*
  
- Actualmente tenemos: **270** archivo en formato . cia
+ Actualmente tenemos: **345** archivo en formato . cia
  
 ### Screenshots:
 
