@@ -20,9 +20,11 @@
 
 This is an alternative eshop 3ds for Nintendo 3DS.
 
-Made by Ghost0159. Chat with him on Gmail and feel free to ask him to add more games!
+Made by Ghost0159. Chat with him on Discord and feel free to ask him to add more games!
 
-Mail: contact.ghost01@gmail.com
+For all demand of games, use our [website](https://ghosteshop.tk/gamerequest.php)
+
+Mail: [contact.ghost01@gmail.Com](mailto::contact.ghost01@gmail.com)
 
 Download the latest version [here](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v9.0).
 
@@ -39,9 +41,11 @@ We currently have: **345** files in . cia format
 
  Ceci est un eshop 3ds alternatif pour Nintendo 3DS.
 
- Fait par Ghost0159. Discutez avec lui sur Gmail et n'hésitez pas à lui demander que plus de jeux soient ajoutés!
+ Fait par Ghost0159. Discutez avec lui sur Discord et n'hésitez pas à demander que plus de jeux soient ajoutés!
+ 
+ Pour toute les demandes de jeux, utilisé [notre site](https://ghosteshop.tk/gamerequest.php)
 
- Mail: contact.ghost01@gmail.com
+ Mail: [contact.ghost01@gmail.com](mailto::contact.ghost01@gmail.com)
  
  Téléchargez la dernière version [ici](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v9.0).
 
@@ -58,9 +62,11 @@ We currently have: **345** files in . cia format
 
 Este es un eshop 3ds alternativo por nintendo 3DS.
 
- Hecho por Ghost0159. ¡Discuta con él en Gmail y no dude en pedirle que se añadan más juegos!
+ Hecho por Ghost0159. ¡Discuta con él en Discord y no dude en pedirle que se añadan más juegos!
+ 
+ Para todas las solicitudes de juegos, use [nuestro sitio] (https://ghosteshop.tk/gamerequest.php)
 
- Mail: contact.ghost01@gmail.com
+ Mail: [contact.ghost01@gmail.com](mailto::contact.ghost01@gmail.com)
  
  Descargar la última versión [aquí](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/tag/v9.0).
 
