@@ -18,7 +18,7 @@
 
 ### English:
 
-This is an alternative eshop 3ds for Nintendo 3DS.
+This is an alternative eshop for Nintendo 3DS.
 
 Made by Ghost0159. Chat with him on Discord and feel free to ask him to add more games!
 
@@ -39,7 +39,7 @@ We currently have: **345** files in . cia format
 
 ### Français:
 
- Ceci est un eshop 3ds alternatif pour Nintendo 3DS.
+ Ceci est un eshop alternatif pour Nintendo 3DS.
 
  Fait par Ghost0159. Discutez avec lui sur Discord et n'hésitez pas à demander que plus de jeux soient ajoutés!
  
@@ -60,7 +60,7 @@ We currently have: **345** files in . cia format
  
 ### Spanish:
 
-Este es un eshop 3ds alternativo por nintendo 3DS.
+Este es un eshop alternativo por nintendo 3DS.
 
  Hecho por Ghost0159. ¡Discuta con él en Discord y no dude en pedirle que se añadan más juegos!
  
