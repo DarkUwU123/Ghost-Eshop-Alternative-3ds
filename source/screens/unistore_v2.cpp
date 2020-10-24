@@ -267,7 +267,7 @@ void UniStoreV2::displaySelectedEntry(int selection, int storeIndex) const {
 	this->DrawBaseTop();
 
 	Gui::DrawStringCentered(0, 218, 0.7f, this->returnTextColor(), std::to_string(this->downloadPage + 1) + " | " + std::to_string(1 + (this->objects.size() / DOWNLOAD_ENTRIES)));
-
+	
 	if (this->storeJson.at("storeContent").at(selection).at("info").contains("title")) {
 		Gui::DrawStringCentered(0, config->useBars() ? 0 : 2, 0.7f, this->returnTextColor(), (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("title"), 400);
 	} else {
@@ -302,12 +302,6 @@ void UniStoreV2::displaySelectedEntry(int selection, int storeIndex) const {
 		Gui::DrawStringCentered(0, 120, 0.6f, this->returnTextColor(), Lang::get("SIZE") + (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("size"), 400);
 	} else {
 		Gui::DrawStringCentered(0, 120, 0.6f, this->returnTextColor(), Lang::get("SIZE") + "?", 400);
-	}
-
-	if (this->storeJson.at("storeContent").at(selection).at("info").contains("last_updated")) {
-		Gui::DrawStringCentered(0, 140, 0.6f, this->returnTextColor(), Lang::get("LAST_UPDATED") + (std::string)this->storeJson.at("storeContent").at(selection).at("info").at("last_updated"), 400);
-	} else {
-		Gui::DrawStringCentered(0, 140, 0.6f, this->returnTextColor(), Lang::get("LAST_UPDATED") + "?", 400);
 	}
 
 	if (this->storeJson.at("storeContent").at(selection).at("info").contains("description")) {
