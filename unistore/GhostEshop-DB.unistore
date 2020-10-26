@@ -95,7 +95,7 @@
 "Plants vs Zombies (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/kxmnjec4g53fdhn/Plants%20vs.%20Zombies%20%28USA%29.cia?dl=1",
+				   "file": "http://drive.google.com/uc?export=download&id=1dSJfqkhsZ7uyKMA7149Tc7Q7xph4hbmK",
 				   "output": "sdmc:/Plantes vs Zombies (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
