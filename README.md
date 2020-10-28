@@ -80,7 +80,7 @@ Este es un eshop alternativo por nintendo 3DS.
  
 ### Screenshots:
 
-![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternative%20-%20Screen1.jpg)
+![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/Title-Screen.png)
 ![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternative%20-%20Screen2.jpg)
 ![](https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/Ghost%20Eshop%20Alternative%20-%20Screen3.jpg)
 
