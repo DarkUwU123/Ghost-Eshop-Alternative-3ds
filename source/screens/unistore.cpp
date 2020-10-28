@@ -34,17 +34,17 @@ void UniStore::autobootLogic() {
 					if (Msg::promptMsg(Lang::get("WOULD_YOU_LIKE_UPDATE"))) {
 						if (storeInfo[0].url != "" && storeInfo[0].url != "MISSING: storeInfo.url" &&
 							storeInfo[0].file != "" && storeInfo[0].file != "MISSING: storeInfo.file") {
-								ScriptHelper::downloadFile(storeInfo[0].url, storeInfo[0].file, Lang::get("UPDATING"));
+								ScriptHelper::downloadFile(storeInfo[0].url, storeInfo[0].file, Lang::get("UPDATING") + "script");
 							}
 
 						if (storeInfo[0].sheetURL != "" && storeInfo[0].sheetURL != "MISSING: storeInfo.sheetURL" &&
 							storeInfo[0].storeSheet != "" && storeInfo[0].storeSheet != "MISSING: storeInfo.sheet") {
-								ScriptHelper::removeFile(storeInfo[0].sheetURL, Lang::get("UPDATING"));
+								ScriptHelper::removeFile(storeInfo[0].sheetURL, Lang::get("UPDATING") + "icon");
 							}
 
 						if (storeInfo[0].sheetURL != "" && storeInfo[0].sheetURL != "MISSING: storeInfo.sheetURL" &&
 							storeInfo[0].storeSheet != "" && storeInfo[0].storeSheet != "MISSING: storeInfo.sheet") {
-								ScriptHelper::downloadFile(storeInfo[0].sheetURL, storeInfo[0].storeSheet, Lang::get("UPDATING"));
+								ScriptHelper::downloadFile(storeInfo[0].sheetURL, storeInfo[0].storeSheet, Lang::get("UPDATING") + "icon");
 						}
 					}
 				}
@@ -129,7 +129,6 @@ void UniStore::DrawSubMenu(void) const {
 
 	GFX::DrawButton(subPos[0].x, subPos[0].y,Lang::get("STORE_LIST"));
 	GFX::DrawButton(subPos[1].x, subPos[1].y, Lang::get("STORE_SEARCH"));
-	GFX::DrawButton(subPos[2].x, subPos[2].y, Lang::get("CHANGE_STOREPATH"));
 
 	// Selector.
 	Animation::Button(subPos[Selection].x, subPos[Selection].y, .060);
@@ -243,7 +242,7 @@ void UniStore::updateStore(int selectedStore) {
 			dirContents.clear();
 			storeInfo.clear();
 			chdir(config->storePath().c_str());
-			getDirectoryContents(dirContents, {"unistore"});
+			getDirectoryContents(dirContents, {"eshop"});
 			for(uint i = 0; i < dirContents.size(); i++) {
 				storeInfo.push_back(parseStoreInfo(dirContents[i].name));
 				descript();
@@ -254,12 +253,12 @@ void UniStore::updateStore(int selectedStore) {
 }
 
 void UniStore::refreshList() {
-	if (returnIfExist(config->storePath(), {"unistore"}) == true) {
+	if (returnIfExist(config->storePath(), {"eshop"}) == true) {
 		Msg::DisplayMsg(Lang::get("REFRESHING_LIST"));
 		dirContents.clear();
 		storeInfo.clear();
 		chdir(config->storePath().c_str());
-		getDirectoryContents(dirContents, {"unistore"});
+		getDirectoryContents(dirContents, {"eshop"});
 		for(uint i = 0; i < dirContents.size(); i++) {
 			storeInfo.push_back(parseStoreInfo(dirContents[i].name));
 			descript();
@@ -293,12 +292,12 @@ void UniStore::SubMenuLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 	if (hDown & KEY_A) {
 		switch(Selection) {
 			case 0:
-				if (returnIfExist(config->storePath(), {"unistore"}) == true) {
+				if (returnIfExist(config->storePath(), {"eshop"}) == true) {
 					Msg::DisplayMsg(Lang::get("REFRESHING_LIST"));
 					dirContents.clear();
 					storeInfo.clear();
 					chdir(config->storePath().c_str());
-					getDirectoryContents(dirContents, {"unistore"});
+					getDirectoryContents(dirContents, {"eshop"});
 					for(uint i = 0; i < dirContents.size(); i++) {
 						storeInfo.push_back(parseStoreInfo(dirContents[i].name));
 						descript();
@@ -319,24 +318,17 @@ void UniStore::SubMenuLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 					notConnectedMsg();
 				}
 				break;
-			case 2:
-				std::string tempStore = selectFilePath(Lang::get("SELECT_STORE_PATH"), config->storePath(), {});
-				if (tempStore != "") {
-					config->storePath(tempStore);
-					changesMade = true;
-				}
-				break;
 		}
 	}
 
 	if (hDown & KEY_TOUCH) {
 		if (touching(touch, subPos[0])) {
-			if (returnIfExist(config->storePath(), {"unistore"}) == true) {
+			if (returnIfExist(config->storePath(), {"eshop"}) == true) {
 				Msg::DisplayMsg(Lang::get("REFRESHING_LIST"));
 				dirContents.clear();
 				storeInfo.clear();
 				chdir(config->storePath().c_str());
-				getDirectoryContents(dirContents, {"unistore"});
+				getDirectoryContents(dirContents, {"eshop"});
 				for(uint i = 0; i < dirContents.size(); i++) {
 					storeInfo.push_back(parseStoreInfo(dirContents[i].name));
 					descript();
@@ -355,12 +347,6 @@ void UniStore::SubMenuLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 			} else {
 				notConnectedMsg();
 			}
-		} else if (touching(touch, subPos[2])) {
-			std::string tempStore = selectFilePath(Lang::get("SELECT_STORE_PATH"), config->storePath(), {});
-			if (tempStore != "") {
-				config->storePath(tempStore);
-				changesMade = true;
-			}
 		}
 	}
 }
@@ -375,7 +361,7 @@ void UniStore::deleteStore(int selectedStore) {
 	dirContents.clear();
 	storeInfo.clear();
 	chdir(config->storePath().c_str());
-	getDirectoryContents(dirContents, {"unistore"});
+	getDirectoryContents(dirContents, {"eshop"});
 	for(uint i = 0; i < dirContents.size(); i++) {
 		storeInfo.push_back(parseStoreInfo(dirContents[i].name));
 		descript();
@@ -727,7 +713,7 @@ void UniStore::SearchLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 				ScriptHelper::downloadFile("https://tinydb.eiphax.tech/api/tinydb.unistore", config->storePath() + "TinyDB.unistore", Lang::get("DOWNLOADING") + "TinyDB");
 			}
 		} else if (Selection == 3) {
-			ScriptHelper::downloadFile("https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/GhostEshop-DB.unistore", config->storePath() + "GhostEshop-DB.unistore", Lang::get("DOWNLOADING") + "Ghost Eshop");
+			ScriptHelper::downloadFile("https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/ghosteshop.eshop", config->storePath() + "ghosteshop.eshop", Lang::get("DOWNLOADING"));
 		}
 	}
 
@@ -742,7 +728,7 @@ void UniStore::SearchLogic(u32 hDown, u32 hHeld, touchPosition touch) {
 			ScriptHelper::downloadFile("https://tinydb.eiphax.tech/api/tinydb.unistore", config->storePath() + "TinyDB.unistore", Lang::get("DOWNLOADING") + "TinyDB");
 		}
 	} else if (hDown & KEY_TOUCH && touching(touch, URLBtn[3])) {
-			ScriptHelper::downloadFile("https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/GhostEshop-DB.unistore", config->storePath() + "GhostEshop-DB.unistore", Lang::get("DOWNLOADING") + "Ghost Eshop");
+		ScriptHelper::downloadFile("https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/ghosteshop.eshop", config->storePath() + "ghosteshop.eshop", Lang::get("DOWNLOADING"));
 	}
 }
 
