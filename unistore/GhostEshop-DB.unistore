@@ -32,12 +32,12 @@
 		            "console": "3DS",
 		            "icon_index": 234,
 		            "description": "An alternative eshop for 3DS.",
-		            "last_updated": "2020-10-17 at 01:34 (UTC)"
+		            "last_updated": "2020-10-28 at 17:26 (UTC)"
 },
 "GhostEshop.cia": [
 {
 		           "type": "downloadFile",
-				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/download/v9.0/GhostEshop.cia",
+				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/download/v9.5/GhostEshop.cia",
 				   "output": "sdmc:/GhostEshop.cia",
 				   "message": "Downloading your current game..."
 }, 
