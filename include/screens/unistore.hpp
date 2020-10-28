@@ -86,8 +86,8 @@ private:
 	};
 
 	const std::vector<Structs::ButtonPos> subPos = {
-		{80, 30, 149, 52}, // StoreList.
-		{80, 90, 149, 52}, // storeSearch.
+		{80, 60, 149, 52}, // StoreList.
+		{80, 120, 149, 52}, // storeSearch.
 	};
 
 	// DropDownMenu.
