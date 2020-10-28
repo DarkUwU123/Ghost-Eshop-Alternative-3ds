@@ -1,0 +1,57 @@
+{
+"storeInfo": 
+ {
+"title": "Ghost Eshop Alternative",
+"author": "GhostEshopTeam",
+"file": "sdmc:/3ds/Ghost-Eshop/stores/ghosteshop.eshop",
+"url": "https://cdn.ghosteshop.com/script/ghosteshop.eshop",
+"sheet": "sdmc:/3ds/Ghost-Eshop/stores/icon.t3x",
+"sheetURL": "https://cdn.ghosteshop.com/script/icon.t3x",
+"splash": "sdmc:/3ds/Ghost-Eshop/stores/splash.t3x",
+"splashURL": "https://cdn.ghosteshop.com/script/splashe.t3x",
+"description": "An alternative & free eshop.\nVersion of the eshop: v9.0\n\nAuthor: GhostEshopTeam\nSpécial thanks: Anonyku",
+"categories": ["Eshop"],
+"authors": ["Kloen"],
+"consoles": ["3DS"],
+"barLight": "#ff3000",
+"barDark": "#ff0000",
+"bgDark": "#ff8c00",
+"bgLight": "#ffb400",
+"textDark": "#ffffff",
+"textLight": "#000000",
+"boxDark": "#ff6464",
+"boxLight": "#f7f7f7",
+"outlineDark": "#f00000",
+"outlineLight": "#f00000",
+"version": 2,
+"revision": 28},
+"storeContent": [
+{"info": {
+			        "title": "Azure Striker Gunvolt",
+		            "version": "USA",
+		            "author": "Kloen",
+		            "category": "Eshop",
+					"console": "3DS",
+					"size": "",
+		            "icon_index": 0,
+		            "splash_index": 0,
+		            "description": "",
+		            "last_updated": "2020-10-25 at 15:14 (UTC)"
+},
+"Azure Striker Gunvolt": [
+{
+		           "type": "downloadFile",
+				   "file": "https://www.dropbox.com/s/fabjl5jcc5h7ank/Azure%20Striker%20Gunvolt%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "output": "sdmc:/Azure Striker Gunvolt (USA) (eShop).cia",
+				   "message": "Downloading your current game..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Azure Striker Gunvolt (USA) (eShop).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Azure Striker Gunvolt (USA) (eShop).cia",
+				   "message": "Nettoyage..."
+}]}]} 
