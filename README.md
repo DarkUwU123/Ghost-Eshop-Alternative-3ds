@@ -79,9 +79,9 @@ Este es un eshop alternativo por nintendo 3DS.
  Actualmente tenemos: **345** archivo en formato . cia
  
 ### Screenshots:
-<img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/Title-Screen.png" height="340px"></div>
-<img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/GHOST%20V2.jpg" height="340px"></div>
-<img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/NEWW.jpg" height="340px"></div>
+<img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/Title-Screen.png" height="320px"></div>
+<img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/blob/master/Ghost%20Eshop%20Alternative/GHOST%20V2.jpg" height="320px"></div>
+<img src="https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/Ghost%20Eshop%20Alternative/NEWW.jpg" height="320px"></div>
 
 ### Compilation:
 #### Setting up your enviromment:
