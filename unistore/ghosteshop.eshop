@@ -37,7 +37,7 @@
 "GhostEshop.cia": [
 {
 		           "type": "downloadFile",
-				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/download/v9.0/GhostEshop.cia",
+				   "file": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/releases/download/v9.5/GhostEshop.cia",
 				   "output": "sdmc:/GhostEshop.cia",
 				   "message": "Downloading your current game..."
 }, 
