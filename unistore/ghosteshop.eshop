@@ -7,7 +7,7 @@
 "url": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/GhostEshop-DB.unistore",
 "sheet": "sdmc:/3ds/Ghost-Eshop/stores/GhostEshop-DB.t3x",
 "sheetURL": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/GhostEshop-DB.t3x",
-"description": "An alternative & free eshop.\nVersion of the eshop: v9.0\n\nAuthor: Ghost0159\nSpécial thanks: Anonyku",
+"description": "An alternative & free eshop.\nVersion of the eshop: v9.5\n\nAuthor: Ghost Eshop Team's\nSpécial thanks: Anonyku",
 "categories": ["Games", "DSiWares", "Virtual Consoles", "Eshop", "Homebrew", "Séries"],
 "authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pokémon.co", "Netflix.inc", "Sanuk Games", "PopCap Games"],
 "consoles": ["3DS", "DSi", "NES", "SNES", "GBA", "GBC", "GB", "Game Gear"],
@@ -66,7 +66,7 @@
 "Pixel Paint": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/keegankmn2s1nr2/Pixel%20Paint%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/P/Pixel%20Paint%20%28USA%29.cia",
 				   "output": "sdmc:/Pixel Paint (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -95,7 +95,7 @@
 "Plants vs Zombies (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "http://drive.google.com/uc?export=download&id=1dSJfqkhsZ7uyKMA7149Tc7Q7xph4hbmK",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/DSiWare/USA/P/Plants%20vs.%20Zombies%20%28USA%29.cia",
 				   "output": "sdmc:/Plantes vs Zombies (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -112,7 +112,7 @@
 "Plants vs Zombies (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vrce5mvvhy35h93/Plants%20vs.%20Zombies%20%28Europe%2C%20Australia%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/DSiWare/EUR/P/Plants%20vs.%20Zombies%20%28Europe%2C%20Australia%29.cia",
 				   "output": "sdmc:/Plantes vs Zombies (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -141,7 +141,7 @@
 "3D Classics - Kid Icarus": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/38qjw72g8pl4cb3/3D%20Classics%20-%20Kid%20Icarus%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/1234567890/3D%20Classics%20-%20Kid%20Icarus%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/3D Classics - Kid Icarus (Europe) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -170,7 +170,7 @@
 "3D Classics - Kirby's Adventure": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7qxjpae9e79r164/3D%20Classics%20-%20Kirby%27s%20Adventure%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/1234567890/3D%20Classics%20-%20Kid%20Icarus%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/3D Classics - Kirbys Adventure (Europe) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -199,7 +199,7 @@
 "3D Classics - TwinBee": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2tiyhhhxzqrcpuc/3D%20Classics%20-%20TwinBee%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/1234567890/3D%20Classics%20-%20TwinBee%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/3D Classics - TwinBee (USA) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -228,7 +228,7 @@
 "3D Galaxy Force II": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/50q3x1lwkgbxcdh/3D%20Galaxy%20Force%20II%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/1234567890/3D%20Galaxy%20Force%20II%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia",
 				   "output": "sdmc:/3D Galaxy Force II (USA) (En,Fr,Es) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -257,7 +257,7 @@
 "3D Shinobi III - Return of the Ninja Master": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/jir8ipcqqrx2k5l/3D%20Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/1234567890/3D%20Shinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/3D Shinobi III - Return of the Ninja Master (Europe) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -286,7 +286,7 @@
 "7th Dragon III Code: VFD": [
 {
 		           "type": "downloadFile",
-				   "file": "http://cdn.ghosteshop.com/Juegos%203DS/7th%20Dragon%20III%20Code%20-%20VFD%20%28USA%29%28Anonyku%20YouTube%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/1234567890/7th%20Dragon%20III%20Code%20-%20VFD%20%28USA%29.cia",
 				   "output": "sdmc:/7th Dragon III Code - VFD (USA)(Anonyku YouTube).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -315,7 +315,7 @@
 "10-in-1 - Arcade Collection (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1n4usn7oun4jry7/10-in-1%20-%20Arcade%20Collection%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/1234567890/10-in-1%20-%20Arcade%20Collection%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/10-in-1 - Arcade Collection (Europe) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -332,7 +332,7 @@
 "10-in-1 - Arcade Collection (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/15m1p7lecw71vp5/10-in-1%20-%20Arcade%20Collection%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/1234567890/10-in-1%20-%20Arcade%20Collection%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/10-in-1 - Arcade Collection (USA) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -361,7 +361,7 @@
 "Ambassador Certificate": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ab1li47jgg6ikt9/Ambassador%20Certificate%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Ambassador%20Certificate%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -390,7 +390,7 @@
 "Azure Striker Gunvolt": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fabjl5jcc5h7ank/Azure%20Striker%20Gunvolt%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Azure%20Striker%20Gunvolt%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Azure Striker Gunvolt (USA) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -419,7 +419,7 @@
 "Barbie - Groom and Glam Pups": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2y0vvuu10m6vbvr/Barbie%20-%20Groom%20and%20Glam%20Pups%20%28USA%29%28Anonyku%20Youtube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Barbie%20-%20Groom%20and%20Glam%20Pups%20%28USA%29.cia",
 				   "output": "sdmc:/Barbie - Groom and Glam Pups (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -448,7 +448,7 @@
 "Bella Sara 2 - The Magic of Drasilmare": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/dmp3f8p7nxk39x5/Bella%20Sara%202%20-%20The%20Magic%20of%20Drasilmare%20%28EUR%29%28Anonyku%20Youtube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Bella%20Sara%202%20-%20The%20Magic%20of%20Drasilmare%20%28EUR%29.cia",
 				   "output": "sdmc:/Bella Sara 2 - The Magic of Drasilmare (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -477,7 +477,7 @@
 "Bibi & Tina - Das Spiel zum Kinofilm": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1o5m95drh9ggaxk/Bibi%20%26%20Tina%20-%20Das%20Spiel%20zum%20Kinofilm%20%28EUR%29%28Anonyku%20Youtube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Bibi%20%26%20Tina%20-%20Das%20Spiel%20zum%20Kinofilm%20%28EUR%29.cia",
 				   "output": "sdmc:/Bibi & Tina - Das Spiel zum Kinofilm (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -506,7 +506,7 @@
 "Bird Mania 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/eg2xd4mhfssk8c5/Bird%20Mania%203D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Bird%20Mania%203D%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Bird Mania 3D (Europe) (En,Fr,De,Es,It) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -535,7 +535,7 @@
 "Bird Mania Christmas 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/s5xtqiubp98xmpy/Bird%20Mania%20Christmas%203D%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Bird%20Mania%20Christmas%203D%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Bird Mania Christmas 3D (USA) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -564,7 +564,7 @@
 "Bomb Monkey": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pasxelg97c8wg7p/Bomb%20Monkey%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Bomb%20Monkey%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Bomb Monkey (USA) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -593,7 +593,7 @@
 "Cave Story": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/yrg3i5zrt7xrfqe/Cave%20Story%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Cave%20Story%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Cave Story (Europe) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -622,7 +622,7 @@
 "Cocoto - Alien Brick Breaker": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d6gybtjpmkggzrs/Cocoto%20-%20Alien%20Brick%20Breaker%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Cocoto%20-%20Alien%20Brick%20Breaker%20%28EUR%29.cia",
 				   "output": "sdmc:/Cocoto - Alien Brick Breaker (EUR).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -639,7 +639,7 @@
 ]
 },
 {"info": {
-		            "title": "Colors!",
+		            "title": "Colors! 3D",
 		            "version": "USA",
 		            "author": "",
 		            "category": "Eshop",
@@ -648,10 +648,10 @@
 		            "description": "",
 		            "last_updated": "2020-10-03 at 15:09 (UTC)"
 },
-"Colors!": [
+"Colors! 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/l5fc9mt2xtx9m2i/Colors%21%203D%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Colors%21%203D%20%28USA%29%20%28En%2CFr%2CEs%2CPt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Colors! 3D (USA) (En,Fr,Es,Pt) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -680,7 +680,7 @@
 "Crashmo": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d5uxhft4nqq93sp/Crashmo%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Crashmo%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Crashmo (USA) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -709,7 +709,7 @@
 "Donkey Kong Country Returns 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/v65x1ytzm1m9bg4/Donkey%20Kong%20Country%20Returns%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Donkey%20Kong%20Country%20Returns%203D%20%28USA%29.cia",
 				   "output": "sdmc:/Donkey Kong Country Returns 3D (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -738,7 +738,7 @@
 "Dragon Quest VIII - Journey of the Cursed King": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hjwrl8vgwuvuzah/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Dragon%20Quest%20VIII%20-%20Journey%20of%20the%20Cursed%20King%20%28USA%29.cia",
 				   "output": "sdmc:/Dragon Quest VIII - Journey of the Cursed King (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -767,7 +767,7 @@
 "Driver - Renegade": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/46wpa3hfqpnj1ie/Driver%20-%20Renegade%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Driver%20-%20Renegade%20%28USA%29.cia",
 				   "output": "sdmc:/Driver - Renegade (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -796,7 +796,7 @@
 "Edge": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6wey4w2srd1sbfk/Edge%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/E/Edge%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Edge (Europe) (En,Fr,De,Es,It,Nl,Pt) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -825,7 +825,7 @@
 "Face Racers Photo Finish": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4kywpwcrxegdyq0/Face%20Racers%20Photo%20Finish%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/F/Face%20Racers%20Photo%20Finish%20%28USA%29.cia",
 				   "output": "sdmc:/Face Racers Photo Finish (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -854,7 +854,7 @@
 "Farming Simulator 18": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/td32hkfvytqzv61/Farming%20Simulator%2018%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/F/Farming%20Simulator%2018%20%28USA%29.cia",
 				   "output": "sdmc:/Farming Simulator 18 (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -883,7 +883,7 @@
 "Fast & Furious - Showdown": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/oodc1yqucft15qw/Fast%20%26%20Furious%20-%20Showdown%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/F/Fast%20%26%20Furious%20-%20Showdown%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Fast & Furious - Showdown (EU)(M5).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -912,7 +912,7 @@
 "FIFA 15 - Legacy Edition": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/8z0dol1v2nek9db/FIFA%2015%20-%20Legacy%20Edition%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/F/FIFA%2015%20-%20Legacy%20Edition%20%28USA%29.cia",
 				   "output": "sdmc:/FIFA 15 - Legacy Edition (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -941,7 +941,7 @@
 "Fractured Soul": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/u4i6bgkunpnofh0/Fractured%20Soul%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/F/Fractured%20Soul%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Fractured Soul (Europe) (En,Fr,De,Es,It) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -970,7 +970,7 @@
 "Fun! Fun! Minigolf Touch!": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fnalsemtuv32su2/Fun%21%20Fun%21%20Minigolf%20Touch%21%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/F/Fun%21%20Fun%21%20Minigolf%20Touch%21%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Fun! Fun! Minigolf Touch! (USA) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -999,7 +999,7 @@
 "Gabrielles Ghostly Groove 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/znvzgua8zo0cinr/Gabrielles%20Ghostly%20Groove%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/G/Gabrielles%20Ghostly%20Groove%203D%20%28USA%29.cia",
 				   "output": "sdmc:/Gabrielles Ghostly Groove 3D (USA).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -1028,7 +1028,7 @@
 "Gunman Clive": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/0rcmsfzgx4ckk7j/Gunman%20Clive%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/G/Gunman%20Clive%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Gunman Clive (Europe) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -1057,7 +1057,7 @@
 "HarmoKnight": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/80srgx8rf0xhmrc/HarmoKnight%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/HarmoKnight%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/HarmoKnight (Europe) (En,Fr,De,Es,It) (eShop).cia",
 				   "message": "Downloading your current game..."
 }, 
@@ -1086,7 +1086,7 @@
 "Harvest Moon - Skytree Village": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/9sxkpmj0u8dcmsb/Harvest%20Moon%20-%20Skytree%20Village%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/H/Harvest%20Moon%20-%20Skytree%20Village%20%28USA%29.cia",
 				   "output": "sdmc:/Harvest Moon - Skytree Village (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1115,7 +1115,7 @@
 "Heavy Fire - The Chosen Few 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/03jz39yldt23uup/Heavy%20Fire%20-%20The%20Chosen%20Few%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/Heavy%20Fire%20-%20The%20Chosen%20Few%203D%20%28EUR%29.cia",
 				   "output": "sdmc:/Heavy Fire - The Chosen Few 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1144,7 +1144,7 @@
 "Hello Kitty and the Apron of Magic - Rhythm Cooking": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ep9fn7ysybawuwm/Hello%20Kitty%20and%20the%20Apron%20of%20Magic%20-%20Rhythm%20Cooking%20%28EUR%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/Hello%20Kitty%20and%20the%20Apron%20of%20Magic%20-%20Rhythm%20Cooking%20%28EUR%29.cia",
 				   "output": "sdmc:/Hello Kitty and the Apron of Magic - Rhythm Cooking (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1231,7 +1231,7 @@
 "Captain Toad: Treasure Tracker": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/gwxohu3ne3zsj6h/Captain%20Toad%20-%20Treasure%20Tracker%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Captain%20Toad%20-%20Treasure%20Tracker%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia",
 				   "output": "sdmc:/Captain Toad Treasure Tracker.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1550,7 +1550,7 @@
 "Cut the Rope for Nintendo 3DS": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4p1alhgnbqnr30w/Cut%20the%20RopeTriple%20Treat%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Cut%20the%20RopeTriple%20Treat%20%28USA%29.cia",
 				   "output": "sdmc:/Cut the Rope for Nintendo 3DS.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -1990,7 +1990,7 @@
 "Super Mario 3D Land": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/xzt2bn2t7r328g8/Super%20Mario%203D%20Land%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/S/Super%20Mario%203D%20Land%20%28USA%29.cia",
 				   "output": "sdmc:/Super Mario 3D Land.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -2048,7 +2048,7 @@
 "The Legend of Zelda: Ocarina of Time 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vjc8wmsrc8r0sn6/The%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Time%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Time%203D%20%28USA%29.cia",
 				   "output": "sdmc:/The Legend of Zelda Ocarina of Time 3D.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -2251,7 +2251,7 @@
 "The Legend of Zelda: Majora's Mask 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/draap5x0p2uov6d/The%20Legend%20of%20Zelda%20-%20Majora%27s%20Mask%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Legend%20of%20Zelda%20-%20Majora%27s%20Mask%203D%20%28USA%29.cia",
 				   "output": "sdmc:/The Legend of Zelda Majoras Mask 3D.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -2529,7 +2529,7 @@
 "Mario Kart 7 - Update 1.1 (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/rcvawm5h7azrnss/Mario%20Kart%207%20-%20Update%201.1%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20Kart%207%20-%20Update%201.1%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia",
 				   "output": "sdmc:/Mario kart 7 - Updates - EUR.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -2541,6 +2541,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/Mario kart 7 - Updates - EUR.cia",
+				   "message": "Nettoyage..."}
+],
+"Mario Kart 7 (EUR)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20Kart%207%20%28EUR%29%28M7%29.cia",
+				   "output": "sdmc:/Mario kart 7 EUR.cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/Mario kart 7 EUR.cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/Mario kart 7 EUR.cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -2558,7 +2575,7 @@
 "Netflix": [
 {
 		           "type": "downloadFile",
-				   "file": "https://archive.org/download/3ds-cia-shop-archive/Netflix%20%28USA%29.cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/N/Netflix%20%28USA%29%20%28Rev%201%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Netflix.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4037,7 +4054,7 @@
 "50 Classic Games 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "http://cdn.ghosteshop.com/Juegos%203DS/50%20Classic%20Games%203D%20(USA)(Anonyku%20YouTube).cia",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/1234567890/50%20Classic%20Games%203D%20%28USA%29.cia",
 				   "output": "sdmc:/50 Classic Games 3D (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4066,7 +4083,7 @@
 "Ace Combat Assault Horizon Legacy+ - Update": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/k1kll1ykjpk0ddr/Ace%20Combat%20Assault%20Horizon%20Legacy%2B%20-%20Update%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Ace%20Combat%20Assault%20Horizon%20Legacy%2B%20-%20Update%20%28USA%29.cia",
 				   "output": "sdmc:/Ace Combat Assault Horizon Legacy - Update (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4083,7 +4100,7 @@
 "Ace Combat Assault Horizon Legacy+": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/cfla2xuju2y9mf4/Ace%20Combat%20Assault%20Horizon%20Legacy%2B%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Ace%20Combat%20Assault%20Horizon%20Legacy%2B%20%28USA%29.cia",
 				   "output": "sdmc:/Ace Combat Assault Horizon Legacy (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4112,7 +4129,7 @@
 "Adventure Time - Explore the Dungeon... - Update 1.1 (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/xed1lfxcwbneazf/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20-%20Update%201.1%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20-%20Update%201.1%20%28USA%29.cia",
 				   "output": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4129,7 +4146,7 @@
 "Adventure Time - Explore the Dungeon... - Update 1.1 (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fsi8jjeoy4c4bx7/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20DON%27T%20KNOW%21%20-%20Update%201.1%20%28Europe%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20DON%27T%20KNOW%21%20-%20Update%201.1%20%28EUR%29.cia",
 				   "output": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4143,10 +4160,10 @@
 				   "file": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know - Update 1.1 (EUR).cia",
 				   "message": "Nettoyage..."}
 ],
-"Adventure Time - Explore the Dungeon Because I Don't Know": [
+"Adventure Time - Explore the Dungeon Because I Don't Know- USA": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hackpnqgcxf30a7/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Adventure%20Time%20-%20Explore%20the%20Dungeon%20Because%20I%20Don%27t%20Know%20%28USA%29.cia",
 				   "output": "sdmc:/Adventure Time - Explore the Dungeon Because I Don't Know (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4175,7 +4192,7 @@
 "Adventure Time - Finn & Jake Investigations": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/njh1bsv5qulwtwr/Adventure%20Time%20-%20Finn%20%26%20Jake%20Investigations%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Adventure%20Time%20-%20Finn%20%26%20Jake%20Investigations%20%28USA%29.cia",
 				   "output": "sdmc:/Adventure Time - Finn & Jake Investigations (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4204,7 +4221,7 @@
 "Adventure Time - Hey Ice King Why'd You Steal Our Garbage": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/y0thh5u3121q74c/Adventure%20Time%20-%20Hey%20Ice%20King%20Whyd%20You%20Steal%20Our%20Garbage%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Adventure%20Time%20-%20Hey%20Ice%20King%20Whyd%20You%20Steal%20Our%20Garbage%20%28USA%29.cia",
 				   "output": "sdmc:/Adventure Time - Hey Ice King Whyd You Steal Our Garbage (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4233,7 +4250,7 @@
 "Adventure Time - The Secret of the Nameless Kingdom": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vw2i09ftlaok0pn/Adventure%20Time%20-%20The%20Secret%20of%20the%20Nameless%20Kingdom%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Adventure%20Time%20-%20The%20Secret%20of%20the%20Nameless%20Kingdom%20%28USA%29.cia",
 				   "output": "sdmc:/Adventure Time - The Secret of the Nameless Kingdom (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4262,7 +4279,7 @@
 "Alien Chaos 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vqoh1bf2lwhd1zg/Alien%20Chaos%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Alien%20Chaos%203D%20%28USA%29.cia",
 				   "output": "sdmc:/Alien Chaos 3D (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4291,7 +4308,7 @@
 "American Mensa Academy": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hm89qv4zw8h2dh2/American%20Mensa%20Academy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/American%20Mensa%20Academy%20%28USA%29.cia",
 				   "output": "sdmc:/American Mensa Academy (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4320,7 +4337,7 @@
 "Anglers Club - Ultimate Bass Fishing 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/0glvp9quqrfxq8q/Anglers%20Club%20-%20Ultimate%20Bass%20Fishing%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Anglers%20Club%20-%20Ultimate%20Bass%20Fishing%203D%20%28EUR%29.cia",
 				   "output": "sdmc:/Anglers Club - Ultimate Bass Fishing 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4349,7 +4366,7 @@
 "Angry Birds Star Wars": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/988g94xmbr6hsus/Angry%20Birds%20Star%20Wars%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Angry%20Birds%20Star%20Wars%20%28USA%29.cia",
 				   "output": "sdmc:/Angry Birds Star Wars (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4378,7 +4395,7 @@
 "Angry Birds Trilogy": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pb7mm7j733eo723/Angry%20Birds%20Trilogy%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Angry%20Birds%20Trilogy%20%28EUR%29.cia",
 				   "output": "sdmc:/Angry Birds Trilogy (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4407,7 +4424,7 @@
 "Animal Crossing - Happy Home Designer - Update 2.0": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/na8bq7j0h1548ld/Animal%20Crossing%20-%20Happy%20Home%20Designer%20-%20Update%202.0%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Animal%20Crossing%20-%20Happy%20Home%20Designer%20-%20Update%202.0%20%28USA%29.cia",
 				   "output": "sdmc:/Animal Crossing - Happy Home Designer - Update 2.0 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4424,7 +4441,7 @@
 "Animal Crossing - Happy Home Designer": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/tpnoa2u1cil0jkp/Animal%20Crossing%20-%20Happy%20Home%20Designer%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Animal%20Crossing%20-%20Happy%20Home%20Designer%20%28USA%29.cia",
 				   "output": "sdmc:/Animal Crossing - Happy Home Designer (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4453,7 +4470,7 @@
 "Animal Crossing - New Leaf - Welcome Amiibo (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ah029dmqbyh4vju/Animal%20Crossing%20-%20New%20Leaf%20-%20Welcome%20Amiibo%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Animal%20Crossing%20-%20New%20Leaf%20-%20Welcome%20Amiibo%20%28USA%29.cia",
 				   "output": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4470,7 +4487,7 @@
 "Animal Crossing - New Leaf - Welcome Amiibo (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/y9pcezqhr8np9rt/Animal%20Crossing%20-%20New%20Leaf%20-%20Welcome%20Amiibo%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Animal%20Crossing%20-%20New%20Leaf%20-%20Welcome%20Amiibo%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
 				   "output": "sdmc:/Animal Crossing - New Leaf - Welcome Amiibo (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4499,7 +4516,7 @@
 "Arcade Classics 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/yo5vsqeszvbn3sq/Arcade%20Classics%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Arcade%20Classics%203D%20%28EUR%29.cia",
 				   "output": "sdmc:/Arcade Classics 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4528,7 +4545,7 @@
 "Are You Smarter Than a 5th Grader": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/r9u52kweas7m3li/Are%20You%20Smarter%20Than%20a%205th%20Grader%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Are%20You%20Smarter%20Than%20a%205th%20Grader%20%28USA%29.cia",
 				   "output": "sdmc:/Are You Smarter Than a 5th Grader (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4557,7 +4574,7 @@
 "Art Academy Lessons For Everyone - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/zfs2h3pkffxfvqg/Art%20Academy%20Lessons%20For%20Everyone%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Art%20Academy%20Lessons%20For%20Everyone%20-%20DLC%20%28USA%29.cia",
 				   "output": "sdmc:/Art Academy Lessons For Everyone - DLC (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4574,7 +4591,7 @@
 "Art Academy Lessons For Everyone": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/n5l3j9g8vxo1z3t/Art%20Academy%20Lessons%20For%20Everyone%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Art%20Academy%20Lessons%20For%20Everyone%20%28USA%29.cia",
 				   "output": "sdmc:/Art Academy Lessons For Everyone (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4603,7 +4620,7 @@
 "Asphalt 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2vjmqponpiltemz/Asphalt%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Asphalt%203D%20%28USA%29.cia",
 				   "output": "sdmc:/Asphalt 3D (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4632,7 +4649,7 @@
 "Asterix The Mansions Of The Gods": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/o6nwauoxhn44d10/Asterix%20The%20Mansions%20Of%20The%20Gods%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Asterix%20The%20Mansions%20Of%20The%20Gods%20%28EUR%29.cia",
 				   "output": "sdmc:/Asterix The Mansions Of The Gods (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4661,7 +4678,7 @@
 "Atlantic Quest": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/us66br0ih9g7nzo/Atlantic%20Quest%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Atlantic%20Quest%20%28EUR%29.cia",
 				   "output": "sdmc:/Atlantic Quest (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4690,7 +4707,7 @@
 "Attack on Titan Humanity in Chains": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/apgbpomboo0na5m/Attack%20on%20Titan%20Humanity%20in%20Chains%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/A/Attack%20on%20Titan%20Humanity%20in%20Chains%20%28USA%29.cia",
 				   "output": "sdmc:/Attack on Titan Humanity in Chains (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4719,7 +4736,7 @@
 "Azada": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fkuqnx9sm6z8g0e/Azada%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/A/Azada%20%28EUR%29.cia",
 				   "output": "sdmc:/Azada (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4806,7 +4823,7 @@
 "Batman - Arkham Origins Blackgate": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7p7z6frqzqxnoxq/Batman%20-%20Arkham%20Origins%20Blackgate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Batman%20-%20Arkham%20Origins%20Blackgate%20%28USA%29.cia",
 				   "output": "sdmc:/Batman - Arkham Origins Blackgate (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4835,7 +4852,7 @@
 "Battleship+": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/cv6clqunhplwfp9/Battleship%2B%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Battleship%2B%28EUR%29.cia",
 				   "output": "sdmc:/Battleship+ (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4864,7 +4881,7 @@
 "Ben 10 - Galactic Racing (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hgk65gc5qyflcrj/Ben%2010%20-%20Galactic%20Racing%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Ben%2010%20-%20Galactic%20Racing%20%28USA%29.cia",
 				   "output": "sdmc:/Ben 10 - Galactic Racing (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4881,7 +4898,7 @@
 "Ben 10 - Galactic Racing (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1bth1c3h7hrgrtr/Ben%2010%20-%20Galactic%20Racing%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Ben%2010%20-%20Galactic%20Racing%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Ben 10 - Galactic Racing (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4910,7 +4927,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/vrscbd305yjjnq7/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20%28JPN%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/T/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20%28JPN%29.cia",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4927,7 +4944,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update 1.1": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4rpcy8ji48v4pym/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20Update%20%28JPN%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/T/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20Update%20%28JPN%29.cia",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - Update (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4944,7 +4961,7 @@
 "Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/rfkj1uyljkiypbj/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20DLC%20%28JPN%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/T/Taiko%20no%20Tatsujin%20-%20Don%20to%20Katsu%20no%20Jikuu%20Daibouken%20DLC%20%28JPN%29.cia",
 				   "output": "sdmc:/Taiko no Tatsujin - Don to Katsu no Jikuu Daibouken - DLC (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -4973,7 +4990,7 @@
 "Ben 10 - Omniverse": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7jy4r9tya192k7j/Ben%2010%20-%20Omniverse%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Ben%2010%20-%20Omniverse%20%28USA%29.cia",
 				   "output": "sdmc:/Ben 10 - Omniverse (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5002,7 +5019,7 @@
 "Ben 10 - Omniverse 2 (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7yujm66jpsmpz5d/Ben%2010%20-%20Omniverse%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Ben%2010%20-%20Omniverse%202%20%28USA%29.cia",
 				   "output": "sdmc:/Ben 10 - Omniverse 2 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5019,7 +5036,7 @@
 "Ben 10 - Omniverse 2 (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/a345m9673jfj3nu/Ben%2010%20-%20Omniverse%202%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Ben%2010%20-%20Omniverse%202%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Ben 10 - Omniverse 2 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5048,7 +5065,7 @@
 "Best of Arcade Games": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/zi5llu7s5w0ekhs/Best%20of%20Arcade%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Best%20of%20Arcade%20Games%20%28EUR%29.cia",
 				   "output": "sdmc:/Best of Arcade Games (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5077,7 +5094,7 @@
 "Best of Board Games": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/0dtbhtrw2tizxcg/Best%20of%20Board%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Best%20of%20Board%20Games%20%28EUR%29.cia",
 				   "output": "sdmc:/Best of Board Games (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5106,7 +5123,7 @@
 "Best of Casual Games": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/c9h6x2gjsq9ndua/Best%20of%20Casual%20Games%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Best%20of%20Casual%20Games%20%28EUR%29.cia",
 				   "output": "sdmc:/Best of Casual Games (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5135,7 +5152,7 @@
 "Beyblade Evolution": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hs0httfavj3p93n/Beyblade%20Evolution%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Beyblade%20Evolution%20%28USA%29.cia",
 				   "output": "sdmc:/Beyblade Evolution (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5164,7 +5181,7 @@
 "Big Hero 6 - Battle in the Bay (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/j26kg3prbprh3pr/Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29.cia",
 				   "output": "sdmc:/Big Hero 6 - Battle in the Bay (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5181,7 +5198,7 @@
 "Big Hero 6 - Battle in the Bay (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6p6we5conz936vw/Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28EU%29%28M6%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28EUR%29%28M6%29.cia",
 				   "output": "sdmc:/Big Hero 6 - Battle in the Bay (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5210,7 +5227,7 @@
 "Bit Trip Saga": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4qtluqp7puf0ajr/Bit%20Trip%20Saga%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Bit%20Trip%20Saga%20%28USA%29.cia",
 				   "output": "sdmc:/Bit Trip Saga (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5228,7 +5245,7 @@
 },
 {"info": {
 		            "title": "BlazBlue - Continuum Shift II",
-		            "version": "USA",
+		            "version": "USA, JPN",
 		            "author": "",
 		            "category": "Games",
 		            "console": "3DS",
@@ -5236,10 +5253,10 @@
 		            "description": "",
 		            "last_updated": "2020-08-09 at 14:03 (UTC)"
 },
-"BlazBlue - Continuum Shift II": [
+"BlazBlue - Continuum Shift II (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ewtioraojkwlqbq/BlazBlue%20-%20Continuum%20Shift%20II%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/BlazBlue%20-%20Continuum%20Shift%20II%20%28USA%29.cia",
 				   "output": "sdmc:/BlazBlue - Continuum Shift II (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5251,6 +5268,23 @@
 {
 				   "type": "deleteFile",
 				   "file": "sdmc:/BlazBlue - Continuum Shift II (USA).cia",
+				   "message": "Nettoyage..."}
+],
+"BlazBlue - Continuum Shift II (JPN)": [
+{
+		           "type": "downloadFile",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Blazblue%20Continuum%20Shift%20II%20%28JPN%29.cia",
+				   "output": "sdmc:/BlazBlue - Continuum Shift II (JPN).cia",
+				   "message": "Téléchargement de votre jeux en cours..."
+}, 
+{
+		           "type": "installCia",
+				   "file": "/BlazBlue - Continuum Shift II (JPN).cia",
+				   "message": "Installation de votre jeux en cours..."
+},
+{
+				   "type": "deleteFile",
+				   "file": "sdmc:/BlazBlue - Continuum Shift II (JPN).cia",
 				   "message": "Nettoyage..."
 }
 ]
@@ -5268,7 +5302,7 @@
 "Boku no Hero Academia Battle For All": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/l2uh4msa8milctb/Boku%20no%20Hero%20Academia%20Battle%20For%20All%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/B/Boku%20no%20Hero%20Academia%20Battle%20For%20All%20%28JPN%29.cia",
 				   "output": "sdmc:/Boku no Hero Academia Battle For All (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5297,7 +5331,7 @@
 "Boulder Dash-XL 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/tw8b9cdyxhomjyh/Boulder%20Dash-XL%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Boulder%20Dash-XL%203D%20%28EUR%29.cia",
 				   "output": "sdmc:/Boulder Dash-XL 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5326,7 +5360,7 @@
 "Bowling Bonanza 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/651k6s95rm71he0/Bowling%20Bonanza%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Bowling%20Bonanza%203D%20%28EUR%29.cia",
 				   "output": "sdmc:/Bowling Bonanza 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5355,7 +5389,7 @@
 "Brain Age Concentration Training": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ski4vdevy3a6eoi/Brain%20Age%20Concentration%20Training%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Brain%20Age%20Concentration%20Training%20%28USA%29.cia",
 				   "output": "sdmc:/Brain Age Concentration Training (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5384,7 +5418,7 @@
 "Brain Training 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4jhd5wawicyoaaj/Brain%20Training%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Brain%20Training%203D%20%28EUR%29.cia",
 				   "output": "sdmc:/Brain Training 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5529,7 +5563,7 @@
 "Bravely Default": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/r12i63camgq6q7g/Bravely%20Default%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Bravely%20Default%20%28USA%29.cia",
 				   "output": "sdmc:/Bravely Default - USA.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5558,7 +5592,7 @@
 "Bravely Second - End Layer": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/cn9id8okm0xv4yd/Bravely%20Second%20-%20End%20Layer%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Bravely%20Second%20-%20End%20Layer%20%28USA%29.cia",
 				   "output": "sdmc:/Bravely Second - End Layer (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5575,7 +5609,7 @@
 "Bravely Second - End Layer - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6sfzmnxoooqo7eg/Bravely%20Second%20-%20End%20Layer%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Bravely%20Second%20-%20End%20Layer%20-%20DLC%20%28USA%29.cia",
 				   "output": "sdmc:/Bravely Second - End Layer - DLC (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5604,7 +5638,7 @@
 "Brunswick Pro Bowling": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/irx9x9r58lo3n5k/Brunswick%20Pro%20Bowling%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Brunswick%20Pro%20Bowling%20%28USA%29.cia",
 				   "output": "sdmc:/Brunswick Pro Bowling - USA.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5633,7 +5667,7 @@
 "Bust-A-Move Universe": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hn42mc1jnkohtpt/Bust-A-Move%20Universe%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/B/Bust-A-Move%20Universe%20%28USA%29.cia",
 				   "output": "sdmc:/Bust-A-Move Universe (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5662,7 +5696,7 @@
 "Candy Match 3": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/bdbjqw289byvqxg/Candy%20Match%203%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Candy%20Match%203%20%28EUR%29.cia",
 				   "output": "sdmc:/Candy Match 3 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5691,7 +5725,7 @@
 "Captain America - Super Soldier": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pyml68683ddj26r/Captain%20America%20-%20Super%20Soldier%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Captain%20America%20-%20Super%20Soldier%20%28USA%29.cia",
 				   "output": "sdmc:/Captain America - Super Soldier (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5720,7 +5754,7 @@
 "Carnival Games Wild West 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/y2ugg55op9mbh53/Carnival%20Games%20Wild%20West%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Carnival%20Games%20Wild%20West%203D%20%28USA%29.cia",
 				   "output": "sdmc:/Carnival Games Wild West 3D - USA.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5749,7 +5783,7 @@
 "Cars 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/bwkbmldp6t21wam/Cars%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Cars%202%20%28USA%29.cia",
 				   "output": "sdmc:/Cars 2.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5778,7 +5812,7 @@
 "Cartoon Network - Battle Crashers": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/xpjzz7ss1ij55c7/Cartoon%20Network%20-%20Battle%20Crashers%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Cartoon%20Network%20-%20Battle%20Crashers%20%28EUR%29.cia",
 				   "output": "sdmc:/Cartoon Network - Battle Crashers.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5807,7 +5841,7 @@
 "Cartoon Network - Punch Time Explosion": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/kt5rk7dlgl2d30u/Cartoon%20Network%20-%20Punch%20Time%20Explosion%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Cartoon%20Network%20-%20Punch%20Time%20Explosion%20%28EUR%29.cia",
 				   "output": "sdmc:/Cartoon Network - Punch Time Explosion.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5836,7 +5870,7 @@
 "Crash Time 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/wnsngrjh3euurst/Crash%20Time%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Crash%20Time%203D%20%28EUR%29.cia",
 				   "output": "sdmc:/Crash Time 3D.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5865,7 +5899,7 @@
 "Crazy Construction": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4zhkfp8dbsbrgng/Crazy%20Construction%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Crazy%20Construction%20%28EUR%29.cia",
 				   "output": "sdmc:/Crazy Construction.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5894,7 +5928,7 @@
 "Crosswords Plus": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/akr42yu50q6k4v7/Crosswords%20Plus%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Crosswords%20Plus%20%28USA%29.cia",
 				   "output": "sdmc:/Crosswords Plus.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5923,7 +5957,7 @@
 "Crush3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/orq15d6jaf0t4vv/Crush3D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Crush3D%20%28USA%29.cia",
 				   "output": "sdmc:/Crush3D.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5952,7 +5986,7 @@
 "Cubic Ninja": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4bet3al8q0he6fs/Cubic%20Ninja%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Cubic%20Ninja%20%28USA%29.cia",
 				   "output": "sdmc:/Cubic Ninja.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -5981,7 +6015,7 @@
 "Culdcept Revolt": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ghaz6rldf02co33/Culdcept%20Revolt%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Culdcept%20Revolt%20%28USA%29.cia",
 				   "output": "sdmc:/Culdcept Revolt.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6010,7 +6044,7 @@
 "Dai Gyakuten Saiban": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1sccfp2730omvri/Dai%20Gyakuten%20Saiban%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/D/Dai%20Gyakuten%20Saiban%20%28JPN%29.cia",
 				   "output": "sdmc:/Dai Gyakuten Saiban.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6027,7 +6061,7 @@
 "Dai Gyakuten Saiban - Patch English": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pfkf3f23sr1aigs/Dai%20Gyakuten%20Saiban%20-%20Patch%20Ingles%20%28JPN%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/D/Dai%20Gyakuten%20Saiban%20-%20Patch%20Ingles%20%28JPN%29.cia",
 				   "output": "sdmc:/Dai Gyakuten Saiban - Patch English.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6056,7 +6090,7 @@
 "Deer Drive Legends": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7h090g3sas4q8u7/Deer%20Drive%20Legends%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Deer%20Drive%20Legends%20%28USA%29.cia",
 				   "output": "sdmc:/Deer Drive Legends.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6143,7 +6177,7 @@
 "Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/jbc5tyuajtd9sox/Taiko%20no%20Tatsujin%20Chibi%20Dragon%20to%20Fushigi%20na%20Orb%20%28JPN%29%20RF.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/T/Taiko%20no%20Tatsujin%20Chibi%20Dragon%20to%20Fushigi%20na%20Orb%20%28JPN%29%20RF.cia",
 				   "output": "sdmc:/Taiko no Tatsujin Chibi - Dragon to Fushigi na Orb.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6172,7 +6206,7 @@
 "Bloody Vampire": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hcgnhjc2iw4a0yd/Bloody%20Vampire%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/B/Bloody%20Vampire%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Bloody Vampire (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6201,7 +6235,7 @@
 "3D OutRun": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/0k02jcp69cua308/3D%20OutRun%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/1234567890/3D%20OutRun%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/3D OutRun (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6230,7 +6264,7 @@
 "Cubit - The Hardcore Platformer Robot": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1ym6m5evvo0gqzx/Cubit%20-%20The%20Hardcore%20Platformer%20Robot%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Cubit%20-%20The%20Hardcore%20Platformer%20Robot%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Cubit - The Hardcore Platformer Robot (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6259,7 +6293,7 @@
 "Cube Tactics": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/sm2ctkd2smq3uot/Cube%20Tactics%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Cube%20Tactics%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Cube Tactics (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6288,7 +6322,7 @@
 "Fairune": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/xma28bgltw1qrha/Fairune%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/F/Fairune%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Fairune (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6317,7 +6351,7 @@
 "Mighty Gunvolt (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/spu91cl24brk2gf/Mighty%20Gunvolt%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mighty%20Gunvolt%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Mighty Gunvolt (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6334,7 +6368,7 @@
 "Mighty Gunvolt (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/q31ntawx6bk0hvu/Mighty%20Gunvolt%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Mighty%20Gunvolt%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Mighty Gunvolt (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6579,7 +6613,7 @@
 "Demon King Box": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/o17y7cpoijaamvw/Demon%20King%20Box%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Demon%20King%20Box%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Demon King Box (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6608,7 +6642,7 @@
 "Detective Pikachu": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fibrfpjjk5bgyjt/Detective%20Pikachu%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Detective%20Pikachu%20%28USA%29.cia",
 				   "output": "sdmc:/Detective Pikachu (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6637,7 +6671,7 @@
 "Dillon's Dead Heat Breakers": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ejhyhlgvmrshzgo/Dillons%20Dead%20Heat%20Breakers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Dillons%20Dead%20Heat%20Breakers%20%28USA%29.cia",
 				   "output": "sdmc:/Dillons Dead Heat Breakers (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6666,7 +6700,7 @@
 "Disney 2 - Pack - Frozen - Olafs Quests/Big Hero 6 - Battle in the Bay": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/8dpce6powhts1mk/Disney%202%20-%20Pack%20-%20Frozen%20-%20Olafs%20Quest%20%20%20Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Disney%202%20-%20Pack%20-%20Frozen%20-%20Olafs%20Quest%20%20%20Big%20Hero%206%20-%20Battle%20in%20the%20Bay%20%28USA%29.cia",
 				   "output": "sdmc:/Disney 2 - Pack - Frozen - Olafs Quest   Big Hero 6 - Battle in the Bay (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6695,7 +6729,7 @@
 "Disney Art Academy": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/747so1kwlbd279p/Disney%20Art%20Academy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Disney%20Art%20Academy%20%28USA%29.cia",
 				   "output": "sdmc:/Disney Art Academy (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6724,7 +6758,7 @@
 "Disney Epic Mickey Power of Illusion": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fm2p0cdcfimpvuf/Disney%20Epic%20Mickey%20Power%20of%20Illusion%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Disney%20Epic%20Mickey%20Power%20of%20Illusion%20%28USA%29.cia",
 				   "output": "sdmc:/Disney Epic Mickey Power of Illusion.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6753,7 +6787,7 @@
 "Disney Frozen - Olafs Quest": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/usgwgqom75eml96/Disney%20Frozen%20-%20Olafs%20Quest%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Disney%20Frozen%20-%20Olafs%20Quest%20%28USA%29.cia",
 				   "output": "sdmc:/Disney Frozen - Olafs Quest.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6782,7 +6816,7 @@
 "Disney Infinity - Toy Box Challenge": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/lo80siwk4z4mvry/Disney%20Infinity%20-%20Toy%20Box%20Challenge%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Disney%20Infinity%20-%20Toy%20Box%20Challenge%20%28USA%29.cia",
 				   "output": "sdmc:/Disney Infinity - Toy Box Challenge.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6811,7 +6845,7 @@
 "Disney Magical World - DLC (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/yg9ckbl27h0bgby/Disney%20Magical%20World%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Disney%20Magical%20World%20-%20DLC%20%28USA%29.cia",
 				   "output": "sdmc:/Disney Magical World - DLC.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6828,7 +6862,7 @@
 "Disney Magical World - Update 1.1 (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ykdr1kkd71uxkmf/Disney%20Magical%20World%20-%20Update%201.1%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Disney%20Magical%20World%20-%20Update%201.1%20%28USA%29.cia",
 				   "output": "sdmc:/Disney Magical World - Update 1.1.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6845,7 +6879,7 @@
 "Disney Magical World (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/feiqtx34dd6lga9/Disney%20Magical%20World%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/D/Disney%20Magical%20World%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Disney Magical World - Update 1.1.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6874,7 +6908,7 @@
 "Disney Magical World 2 - DLC (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/0fvnvfjqffasz23/Disney%20Magical%20World%202%20-%20DLC%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Disney%20Magical%20World%202%20-%20DLC%20%28USA%29.cia",
 				   "output": "sdmc:/Disney Magical World 2 - DLC (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6891,7 +6925,7 @@
 "Disney Magical World 2 (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/9tujmznndr3jh42/Disney%20Magical%20World%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/D/Disney%20Magical%20World%202%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
 				   "output": "sdmc:/Disney Magical World 2 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6920,7 +6954,7 @@
 "Duck Dynasty": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ukr4egdyzmb1ms9/Duck%20Dynasty%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Duck%20Dynasty%20%28USA%29.cia",
 				   "output": "sdmc:/Duck Dynasty.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6949,7 +6983,7 @@
 "Gem Smashers": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/f022ep74apiwknh/Gem%20Smashers%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/G/Gem%20Smashers%20%28USA%29.cia",
 				   "output": "sdmc:/Gem Smashers.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -6978,7 +7012,7 @@
 "Generator Rex - Agent of Providence": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/u6hfq0tznpppnn4/Generator%20Rex%20-%20Agent%20of%20Providence%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/G/Generator%20Rex%20-%20Agent%20of%20Providence%20%28EUR%29.cia",
 				   "output": "sdmc:/Generator Rex - Agent of Providence.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7007,7 +7041,7 @@
 "Girls Fashion Shoot": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/xl54b9pag2i6b0f/Girls%20Fashion%20Shoot%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/G/Girls%20Fashion%20Shoot%20%28USA%29.cia",
 				   "output": "sdmc:/Girls Fashion Shoot.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7036,7 +7070,7 @@
 "Goosebumps - The Game": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/sq73xt8t9ggmun7/Goosebumps%20-%20The%20Game%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/G/Goosebumps%20-%20The%20Game%20%28USA%29.cia",
 				   "output": "sdmc:/Goosebumps - The Game.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7053,7 +7087,7 @@
 "Goosebumps - The Game - Update 1.01": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/qtorikdnubud468/Goosebumps%20-%20The%20Game%20-%20Update%201.01%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/G/Goosebumps%20-%20The%20Game%20-%20Update%201.01%20%28USA%29.cia",
 				   "output": "sdmc:/Goosebumps - The Game - Update 1.01.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7082,7 +7116,7 @@
 "Gravity Falls - Legend of the Gnome Gemulets": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/y8hs7kjywr7jday/Gravity%20Falls%20-%20Legend%20of%20the%20Gnome%20Gemulets%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/G/Gravity%20Falls%20-%20Legend%20of%20the%20Gnome%20Gemulets%20%28USA%29.cia",
 				   "output": "sdmc:/Gravity Falls - Legend of the Gnome Gemulets.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7111,7 +7145,7 @@
 "Green Lantern - Rise of the Manhunters": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/60zqtqfcsygs0h9/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/G/Green%20Lantern%20-%20Rise%20of%20the%20Manhunters%20%28USA%29.cia",
 				   "output": "sdmc:/Green Lantern - Rise of the Manhunters.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7140,7 +7174,7 @@
 "Gummy Bears Magical Medallion": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/urdoxvskmghndn5/Gummy%20Bears%20Magical%20Medallion%20%28EUR%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/G/Gummy%20Bears%20Magical%20Medallion%20%28EUR%29.cia",
 				   "output": "sdmc:/Gummy Bears Magical Medallion.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7169,7 +7203,7 @@
 "Minecraft - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4kamdzr2td52bj4/Minecraft%20-%20DLC%20%28USA%29%28KTR-M-BD3E-00%29%20%28UNK%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Minecraft%20-%20DLC%20%28USA%29%28KTR-M-BD3E-00%29.cia",
 				   "output": "sdmc:/Minecraft - DLC (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7186,7 +7220,7 @@
 "Minecraft - Update": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ld5plm79sdmv2we/Minecraft%20-%20Update%20%28USA%29%28KTR-U-BD3E%29%20%28U%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Minecraft%20-%20Update%20%28USA%29%28KTR-U-BD3E%29.cia",
 				   "output": "sdmc:/Minecraft - Update (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7203,7 +7237,7 @@
 "Minecraft": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/dyf0dcpt4nkw2o0/Minecraft%20%28USA%29%28CTR-P-M1N3%29%20%28W%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Minecraft%20%28USA%29%28CTR-P-M1N3%29.cia",
 				   "output": "sdmc:/Minecraft (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7377,7 +7411,7 @@
 "Disney Planes - Fire and Rescue": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/jy9xi8h8sdfjzon/Disney%20Planes%20-%20Fire%20and%20Rescue%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/D/Disney%20Planes%20-%20Fire%20and%20Rescue%20%28USA%29.cia",
 				   "output": "sdmc:/Disney Planes - Fire and Rescue.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7406,7 +7440,7 @@
 "Kunio-kun Nekketsu Complete - Famicom-Hen": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/18ohthbwxcv620o/Kunio-kun%20Nekketsu%20Complete%20-%20Famicom-Hen%20%28Japan%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/K/Kunio-kun%20Nekketsu%20Complete%20-%20Famicom-Hen%20%28JPN%29.cia",
 				   "output": "sdmc:/Kunio-kun Nekketsu Complete - Famicom-Hen.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7435,7 +7469,7 @@
 "EscapeVektor": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/i10xnzi09gvbtpt/EscapeVektor%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/E/EscapeVektor%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/EscapeVektor.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7812,7 +7846,7 @@
 "Yo-Kai Watch Blasters - Red Cat Corps": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/p20omaqibva4qo1/Yo-Kai%20Watch%20Blasters%20-%20Red%20Cat%20Corps%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/Y/Yo-Kai%20Watch%20Blasters%20-%20Red%20Cat%20Corps%20%28USA%29.cia",
 				   "output": "sdmc:/Yo-Kai Watch Blasters - Red Cat Corps.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7841,7 +7875,7 @@
 "Yo-Kai Watch Blasters - White Dog Squad": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/5l5njniey2votsg/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/Y/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20%28USA%29.cia",
 				   "output": "sdmc:/Yo-Kai Watch Blasters - White Dog Squad.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7858,7 +7892,7 @@
 "Yo-Kai Watch Blasters - White Dog Squad - Update 2.4": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/68yxw7e8kwseszh/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20-%20Update%202.4%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/Y/Yo-Kai%20Watch%20Blasters%20-%20White%20Dog%20Squad%20-%20Update%202.4%20%28USA%29.cia",
 				   "output": "sdmc:/Yo-Kai Watch Blasters - White Dog Squad - Update 2.4.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7887,7 +7921,7 @@
 "Young Justice Legacy": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/wz6fgtlfbwcfn5a/Young%20Justice%20Legacy%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/Y/Young%20Justice%20Legacy%20%28USA%29.cia",
 				   "output": "sdmc:/Young Justice Legacy.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -7916,7 +7950,7 @@
 "Yu-Gi-Oh! Zexal - World Duel Carnival": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/w720ok42yww90ys/Yu-Gi-Oh%21%20Zexal%20-%20World%20Duel%20Carnival%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/Y/Yu-Gi-Oh%21%20Zexal%20-%20World%20Duel%20Carnival%20%28EUR%29.cia",
 				   "output": "sdmc:/Yu-Gi-Oh Zexal - World Duel Carnival.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8003,7 +8037,7 @@
 "Terraria": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4hgzm4ubo49v7im/Terraria%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/Terraria%20%28USA%29.cia",
 				   "output": "sdmc:/Terraria.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8020,7 +8054,7 @@
 "Terraria - Update 1.0.5": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/wlldg6khgjykp0t/Terraria%20-%20Update%201.0.5%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/Terraria%20-%20Update%201.0.5%20%28USA%29.cia",
 				   "output": "sdmc:/Terraria - Update 1.0.5.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8049,7 +8083,7 @@
 "Tetris Axis": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7ftmjy83xsgi60w/Tetris%20Axis%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/Tetris%20Axis%20%28USA%29.cia",
 				   "output": "sdmc:/Tetris Axis.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8078,7 +8112,7 @@
 "Tetris Ultimate": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/11auqqyyph98xqj/Tetris%20Ultimate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/Tetris%20Ultimate%20%28USA%29.cia",
 				   "output": "sdmc:/Tetris Ultimate.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8107,7 +8141,7 @@
 "The Alliance Alive": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/7wuqojd6vqdyzho/The%20Alliance%20Alive%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Alliance%20Alive%20%28USA%29.cia",
 				   "output": "sdmc:/The Alliance Alive.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8136,7 +8170,7 @@
 "Castlevania Lords of Shadow - Mirror of Fate": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/uqe7f7o7rr5tcdf/Castlevania%20Lords%20of%20Shadow%20-%20Mirror%20of%20Fate%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Castlevania%20Lords%20of%20Shadow%20-%20Mirror%20of%20Fate%20%28USA%29.cia",
 				   "output": "sdmc:/Castlevania Lords of Shadow - Mirror of Fate - USA.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8165,7 +8199,7 @@
 "Flap Flap": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/zaeejo3al37q2re/Flap%20Flap%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/F/Flap%20Flap%20%28EUR%29.cia",
 				   "output": "sdmc:/Flap Flap (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8194,7 +8228,7 @@
 "Jet Dog": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/e77jfhw87t3ly2s/Jet%20Dog%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/J/Jet%20Dog%20%28EUR%29.cia",
 				   "output": "sdmc:/Jet Dog (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8223,7 +8257,7 @@
 "Need for Speed - The Run": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/aqzdazf792xt67y/Need%20for%20Speed%20-%20The%20Run%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/N/Need%20for%20Speed%20-%20The%20Run%20%28USA%29.cia",
 				   "output": "sdmc:/Need for Speed - The Run (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8252,7 +8286,7 @@
 "Puzzler World 2013": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/p4ah0av9cl7t5qj/Puzzler%20World%202013%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/P/Puzzler%20World%202013%20%28USA%29.cia",
 				   "output": "sdmc:/Puzzler World 2013 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8281,7 +8315,7 @@
 "Rayman Origins (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/svmnx6kjknw2skr/Rayman%20Origins%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/R/Rayman%20Origins%20%28USA%29.cia",
 				   "output": "sdmc:/Rayman Origins (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8298,7 +8332,7 @@
 "Rayman Origins (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/q19bvbg7cdusnbd/Rayman%20Origins%20%28EU%29%28M6%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/R/Rayman%20Origins%20%28EUR%29%28M6%29.cia",
 				   "output": "sdmc:/Rayman Origins (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8327,7 +8361,7 @@
 "Super Mario Maker": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/tn7fu2b5el0tvae/Super%20Mario%20Maker%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/S/Super%20Mario%20Maker%20%28USA%29.cia",
 				   "output": "sdmc:/Super Mario Maker (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8356,7 +8390,7 @@
 "Super Monkey Ball 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/t67s8bglfaj7n53/Super%20Monkey%20Ball%203D%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/S/Super%20Monkey%20Ball%203D%20%28USA%29.cia",
 				   "output": "sdmc:/Super Monkey Ball 3D (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8385,7 +8419,7 @@
 "Super Smash Bros. for Nintendo 3DS": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/3wjm5jh8wsb0x6j/Super%20Smash%20Bros.%20for%20Nintendo%203DS%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/S/Super%20Smash%20Bros.%20for%20Nintendo%203DS%20%28USA%29.cia",
 				   "output": "sdmc:/Super Smash Bros. for Nintendo 3DS (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8414,7 +8448,7 @@
 "The Amazing Spider-Man": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6wk4taruikawnlz/The%20Amazing%20Spider-Man%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Amazing%20Spider-Man%20%28USA%29.cia",
 				   "output": "sdmc:/The Amazing Spider-Man (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8443,7 +8477,7 @@
 "The Croods - Prehistoric Party!": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/cfyn388mgieeorj/The%20Croods%20-%20Prehistoric%20Party%21%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Croods%20-%20Prehistoric%20Party%21%20%28USA%29.cia",
 				   "output": "sdmc:/The Croods - Prehistoric Party (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8472,7 +8506,7 @@
 "The Cube": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/mzi4zkak8z9ch46/The%20Cube%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/The%20Cube%20%28EUR%29.cia",
 				   "output": "sdmc:/The Cube (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8501,7 +8535,7 @@
 "The Hidden": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/a30t5suo7c88pyy/The%20Hidden%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/The%20Hidden%20%28USA%29.cia",
 				   "output": "sdmc:/The Hidden (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8530,7 +8564,7 @@
 "Transformers Prime - The Game": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/avkemmfh91iv6qc/Transformers%20Prime%20-%20The%20Game%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/T/Transformers%20Prime%20-%20The%20Game%20%28EUR%29.cia",
 				   "output": "sdmc:/Transformers Prime - The Game (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8559,7 +8593,7 @@
 "Turbo - Super Stunt Squad": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/awqugfyktjmmhc2/Turbo%20-%20Super%20Stunt%20Squad%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/T/Turbo%20-%20Super%20Stunt%20Squad%20%28USA%29.cia",
 				   "output": "sdmc:/Turbo - Super Stunt Squad (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8588,7 +8622,7 @@
 "Crimson Shround": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/jvdzakejavgsqeb/Crimson%20Shroud%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Crimson%20Shroud%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Crimson Shround (USA) (eShop).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8617,7 +8651,7 @@
 "Ketzal's Corridors": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/5kmfpaz730gl22b/Ketzal%27s%20Corridors%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/K/Ketzal%27s%20Corridors%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Ketzal s Corridors (USA) (eShop).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8646,7 +8680,7 @@
 "Kirby Fighters Deluxe": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6n3n6yg59b9jb0w/Kirby%20Fighters%20Deluxe%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/K/Kirby%20Fighters%20Deluxe%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Kirby Fighters Deluxe (USA) (En,Fr,Es) (eShop).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8675,7 +8709,7 @@
 "12-Sai. Honto no Kimochi": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2ewubp2txfoy4oa/12-Sai.%20Honto%20no%20Kimochi%20%28JP%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/1234567890/12-Sai.%20Honto%20no%20Kimochi%20%28JPN%29.cia",
 				   "output": "sdmc:/12-Sai Honto no Kimochi(JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8704,7 +8738,7 @@
 "Chibi-Robo! Zip Lash": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/11mcnweqc1lu3om/Chibi-Robo%21%20Zip%20Lash%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/C/Chibi-Robo%21%20Zip%20Lash%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Chibi-Robo Zip Lash (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8733,7 +8767,7 @@
 "Crosswords Plus": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/akr42yu50q6k4v7/Crosswords%20Plus%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/C/Crosswords%20Plus%20%28USA%29.cia",
 				   "output": "sdmc:/Crosswords Plus (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8762,7 +8796,7 @@
 "Ever Oasis": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/i6wohrm7xc1iod7/Ever%20Oasis%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/E/Ever%20Oasis%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia",
 				   "output": "sdmc:/Ever Oasis (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8791,7 +8825,7 @@
 "Fire Emblem Warriors": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pv3e434hg0u1jm5/Fire%20Emblem%20Warriors%20%28Europe%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/F/Fire%20Emblem%20Warriors%20%28EUR%29.cia",
 				   "output": "sdmc:/Fire Emblem Warriors (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8820,7 +8854,7 @@
 "Hot Wheels - World's Best Driver": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/u3gls89xvxy2xez/Hot%20Wheels%20-%20World%27s%20Best%20Driver%20%28EU%29%28M6%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/Hot%20Wheels%20-%20World%27s%20Best%20Driver%20%28EUR%29%28M6%29.cia",
 				   "output": "sdmc:/Hot Wheels - Worlds Best Driver (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8849,7 +8883,7 @@
 "Hotel Transylvania": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ic3offjd02e27dg/Hotel%20Transylvania%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/H/Hotel%20Transylvania%20%28USA%29.cia",
 				   "output": "sdmc:/Hotel Transylvania (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8878,7 +8912,7 @@
 "How to Train Your Dragon 2 (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/a7mtavxv48d73im/How%20to%20Train%20Your%20Dragon%202%20%28EU%29%28M6%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/H/How%20to%20Train%20Your%20Dragon%202%20%28EUR%29%28M6%29.cia",
 				   "output": "sdmc:/How to Train Your Dragon 2 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8907,7 +8941,7 @@
 "Inazuma Eleven 3 - Bomb Blast": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/a0rv6foanm83s8e/Inazuma%20Eleven%203%20-%20Bomb%20Blast%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/I/Inazuma%20Eleven%203%20-%20Bomb%20Blast%20%28EUR%29.cia",
 				   "output": "sdmc:/Inazuma Eleven 3 - Bomb Blast (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8936,7 +8970,7 @@
 "Inazuma Eleven 3 - Team Ogre Attacks": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ore5uusistv1hgc/Inazuma%20Eleven%203%20-%20Team%20Ogre%20Attacks%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/I/Inazuma%20Eleven%203%20-%20Team%20Ogre%20Attacks%20%28EUR%29.cia",
 				   "output": "sdmc:/Inazuma Eleven 3 - Team Ogre Attacks (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8965,7 +8999,7 @@
 "Inazuma Eleven GO - Chrono Stones - Wildfire": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ppml1k3pjw9y7cw/Inazuma%20Eleven%20GO%20-%20Chrono%20Stones%20-%20Wildfire%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/I/Inazuma%20Eleven%20GO%20-%20Chrono%20Stones%20-%20Wildfire%20%28EUR%29.cia",
 				   "output": "sdmc:/Inazuma Eleven GO - Chrono Stones - Wildfire (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -8994,7 +9028,7 @@
 "Jewel Master - Cradle of Egypt 2 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/zvy0wm3g9bqxbia/Jewel%20Master%20-%20Cradle%20of%20Egypt%202%203D%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/J/Jewel%20Master%20-%20Cradle%20of%20Egypt%202%203D%20%28USA%29.cia",
 				   "output": "sdmc:/Jewel Master - Cradle of Egypt 2 3D (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9023,7 +9057,7 @@
 "Jewel Master - Cradle of Rome 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/65vlfeg8rm3s5fi/Jewel%20Master%20-%20Cradle%20of%20Rome%202%20%28USA%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/J/Jewel%20Master%20-%20Cradle%20of%20Rome%202%20%28USA%29.cia",
 				   "output": "sdmc:/Jewel Master - Cradle of Rome 2 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9052,7 +9086,7 @@
 "Jewel Master - Atlantis 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/znew20y4ew7hyse/Jewel%20Master%20-%20Atlantis%203D%20%28EUR%29%28Anonyku%20YouTube%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/J/Jewel%20Master%20-%20Atlantis%203D%20%28EUR%29.cia",
 				   "output": "sdmc:/Jewel Master - Atlantis 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9081,7 +9115,7 @@
 "Ketzal's Corridors": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/5kmfpaz730gl22b/Ketzal%27s%20Corridors%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/K/Ketzal%27s%20Corridors%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Ketzals Corridors (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9110,7 +9144,7 @@
 "Kid Icarus - Uprising": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/z142z5n1w7z1o95/Kid%20Icarus%20-%20Uprising%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/K/Kid%20Icarus%20-%20Uprising%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Kid Icarus - Uprising (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9139,7 +9173,7 @@
 "Kirby - Au Fil de la Grande Aventure": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/by87ybsjqzs8vlw/Kirby%20-%20Au%20Fil%20de%20la%20Grande%20Aventure%20%28Europe%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/K/Kirby%20-%20Au%20Fil%20de%20la%20Grande%20Aventure%20%28EUR%29.cia",
 				   "output": "sdmc:/Kirby - Au Fil de la Grande Aventure (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9168,7 +9202,7 @@
 "Kirby - Triple Deluxe": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/x0a591fhnxaemlm/Kirby%20-%20Triple%20Deluxe%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/K/Kirby%20-%20Triple%20Deluxe%20%28EU%29%28M5%29.cia",
 				   "output": "sdmc:/Kirby - Triple Deluxe (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9197,7 +9231,7 @@
 "Kung Fu Panda - Showdown of Legendary Legends": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/5f9w8c2fv50ydpg/Kung%20Fu%20Panda%20-%20Showdown%20of%20Legendary%20Legends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/K/Kung%20Fu%20Panda%20-%20Showdown%20of%20Legendary%20Legends%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
 				   "output": "sdmc:/Kung Fu Panda - Showdown of Legendary Legends (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9226,7 +9260,7 @@
 "LEGO Batman 3 - Beyound Gotham": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1wyc8gfkof0qgag/LEGO%20Batman%203%20-%20Beyond%20Gotham%20%28EU%29%28M7%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/LEGO%20Batman%203%20-%20Beyond%20Gotham%20%28EUR%29%28M7%29.cia",
 				   "output": "sdmc:/LEGO Batman 3 - Beyound Gotham (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9255,7 +9289,7 @@
 "LEGO Jurassic World": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/0o14s2qcp1gvw9b/LEGO%20Jurassic%20World%20%28EU%29%28M6%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/LEGO%20Jurassic%20World%20%28EUR%29%28M6%29.cia",
 				   "output": "sdmc:/LEGO Jurassic World (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9284,7 +9318,7 @@
 "LEGO Legends of Chima - Laval's Journey (Update 1.1)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/55n8mg7i3hayxj0/LEGO%20Legends%20of%20Chima%20-%20Laval%27s%20Journey%20-%20Update%201.1%20%28Europe%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/LEGO%20Legends%20of%20Chima%20-%20Laval%27s%20Journey%20-%20Update%201.1%20%28EUR%29.cia",
 				   "output": "sdmc:/LEGO Legends of Chima - Lavals Journey (EUR)(1.1).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9301,7 +9335,7 @@
 "LEGO Legends of Chima - Laval's Journey": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/2ngf4whq0hqmbh6/LEGO%20Legends%20of%20Chima%20-%20Laval%27s%20Journey%20%28EU%29%28M7%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/LEGO%20Legends%20of%20Chima%20-%20Laval%27s%20Journey%20%28EUR%29%28M7%29.cia",
 				   "output": "sdmc:/LEGO Legends of Chima - Lavals Journey.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9330,7 +9364,7 @@
 "LEGO Marvel Super Heroes - Universe in Peril": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/q6ah08dvu0q6s5a/LEGO%20Marvel%20Super%20Heroes%20-%20Universe%20in%20Peril%20%28EU%29%28M7%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/LEGO%20Marvel%20Super%20Heroes%20-%20Universe%20in%20Peril%20%28EUR%29%28M7%29.cia",
 				   "output": "sdmc:/LEGO Marvel Super Heroes - Universe in Peril (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9359,7 +9393,7 @@
 "LEGO Movie Videogame, The": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/n2cgrcnxlxsrgjl/LEGO%20Movie%20Videogame%2C%20The%20%28EU%29%28M6%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/LEGO%20Movie%20Videogame%2C%20The%20%28EUR%29%28M6%29.cia",
 				   "output": "sdmc:/LEGO Movie Videogame, The (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9376,7 +9410,7 @@
 "LEGO Movie Videogame, The (Update 1.1)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fhsumwo8wh19282/LEGO%20Movie%20Videogame%2C%20The%20-%20Update%201.1%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%2CNl%2CDa%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/LEGO%20Movie%20Videogame%2C%20The%20-%20Update%201.1%20%28EUR%29%20%28En%2CFr%2CEs%2CIt%2CNl%2CDa%29.cia",
 				   "output": "sdmc:/LEGO Movie Videogame, The (EUR) (Update 1.1).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9405,7 +9439,7 @@
 "LEGO Ninjago - L'Ombre de Ronin": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/u0trklmqa3f0tpz/LEGO%20Ninjago%20-%20L%27Ombre%20de%20Ronin%20%28FR%29%28M7%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/LEGO%20Ninjago%20-%20L%27Ombre%20de%20Ronin%20%28EUR%29%28M7%29.cia",
 				   "output": "sdmc:/LEGO Ninjago - L'Ombre de Ronin (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9434,7 +9468,7 @@
 "LEGO Star Wars III - The Clone Wars": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1dh7hkx8qsrlpxu/LEGO%20Star%20Wars%20III%20-%20The%20Clone%20Wars%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/L/LEGO%20Star%20Wars%20III%20-%20The%20Clone%20Wars%20%28USA%29.cia",
 				   "output": "sdmc:/LEGO Star Wars III - The Clone Wars (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9463,7 +9497,7 @@
 "Liberation Maiden": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6ma6y0xbglzv8zc/Liberation%20Maiden%20%28Europe%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/Liberation%20Maiden%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Liberation Maiden (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9492,7 +9526,7 @@
 "Luigi's Mansion": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/pxk3lrimr0n3sai/Luigi%27s%20Mansion%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/L/Luigi%27s%20Mansion%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
 				   "output": "sdmc:/Luigis Mansion (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9521,7 +9555,7 @@
 "Ma Vie de Vétérinaire en Australie 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/momm9mprsl5xql1/Ma%20Vie%20de%20V%C3%A9t%C3%A9rinaire%20en%20Australie%203D%20%28Europe%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Ma%20Vie%20de%20V%C3%A9t%C3%A9rinaire%20en%20Australie%203D%20%28EUR%29.cia",
 				   "output": "sdmc:/Ma Vie de Vétérinaire en Australie 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9550,7 +9584,7 @@
 "Madagascar 3": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hyu5e5ef4tpu4is/Madagascar%203%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Madagascar%203%20%28USA%29.cia",
 				   "output": "sdmc:/Madagascar 3 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9579,7 +9613,7 @@
 "Mario & Luigi - Dream Team Bros.": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/5gst7gj4b06slgq/Mario%20%26%20Luigi%20-%20Dream%20Team%20Bros.%20%28EU%29%28M7%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20%26%20Luigi%20-%20Dream%20Team%20Bros.%20%28EUR%29%28M7%29.cia",
 				   "output": "sdmc:/Mario & Luigi - Dream Team Bros. (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9596,7 +9630,7 @@
 "Mario & Luigi - Dream Team Bros. (Update 1.1)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/mwzisg6775g0zsk/Mario%20%26%20Luigi%20-%20Dream%20Team%20Bros.%20-%20Update%201.1%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20%26%20Luigi%20-%20Dream%20Team%20Bros.%20-%20Update%201.1%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia",
 				   "output": "sdmc:/Mario & Luigi - Dream Team Bros. (EUR) (Update 1.1).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9625,7 +9659,7 @@
 "Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/f3q1uljenxpcb1a/Mario%20%26%20Luigi%20Bowser%27s%20Inside%20Story%20%2B%20Bowser%20Jr.%27s%20Journey%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Mario%20%26%20Luigi%20Bowser%27s%20Inside%20Story%20%2B%20Bowser%20Jr.%27s%20Journey%20%28USA%29.cia",
 				   "output": "sdmc:/Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9642,7 +9676,7 @@
 "Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (EUR)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/1jqd6c1bhxgtofb/Mario%20%26%20Luigi%20Bowser%27s%20Inside%20Story%20%2B%20Bowser%20Jr%27s%20Journey%20%28EUR%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20%26%20Luigi%20Bowser%27s%20Inside%20Story%20%2B%20Bowser%20Jr%27s%20Journey%20%28EUR%29.cia",
 				   "output": "sdmc:/Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9671,7 +9705,7 @@
 "Mario & Sonic at the London 2012 Olympic Games": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d1py4zumavf5xrx/Mario%20%26%20Sonic%20at%20the%20London%202012%20Olympic%20Games%20%28EU%29%28M6%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20%26%20Sonic%20at%20the%20London%202012%20Olympic%20Games%20%28EUR%29%28M6%29.cia",
 				   "output": "sdmc:/Mario & Sonic at the London 2012 Olympic Games (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9700,7 +9734,7 @@
 "Mario & Sonic at the Rio 2016 Olympic Games": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/xf87meg91pdhsuk/Mario%20%26%20Sonic%20at%20the%20Rio%202016%20Olympic%20Games%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20%26%20Sonic%20at%20the%20Rio%202016%20Olympic%20Games%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia",
 				   "output": "sdmc:/Mario & Sonic at the Rio 2016 Olympic Games (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9729,7 +9763,7 @@
 "Mario Golf - World Tour": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/f5ospi09p2gn1bh/Mario%20Golf%20-%20World%20Tour%20%28EU%29%28M7%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20Golf%20-%20World%20Tour%20%28EUR%29%28M7%29.cia",
 				   "output": "sdmc:/Mario Golf - World Tour (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9758,7 +9792,7 @@
 "Mario Party - Island Tour": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ck4y4oy5ntg2c2e/Mario%20Party%20-%20Island%20Tour%20%28EU%29%28M7%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20Party%20-%20Island%20Tour%20%28EUR%29%28M7%29.cia",
 				   "output": "sdmc:/Mario Party - Island Tour (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9787,7 +9821,7 @@
 "Mario Party - Star Rush": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/9i8cvcuczpxwwuv/Mario%20Party%20-%20Star%20Rush%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20Party%20-%20Star%20Rush%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29.cia",
 				   "output": "sdmc:/Mario Party - Star Rush (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9816,7 +9850,7 @@
 "Mario Party - The Top 100": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/miz31j6lgou745r/Mario%20Party%20-%20The%20Top%20100%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20Party%20-%20The%20Top%20100%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia",
 				   "output": "sdmc:/Mario Party - The Top 100 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9845,7 +9879,7 @@
 "Mario Sports Superstars": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/qa8dvjzrm2ibyo6/Mario%20Sports%20Superstars%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mario%20Sports%20Superstars%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia",
 				   "output": "sdmc:/Mario Sports Superstars (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9874,7 +9908,7 @@
 "Metal Gear Solid - Snake Eater 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/6g5rnma2a6erng9/Metal%20Gear%20Solid%20-%20Snake%20Eater%203D%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Metal%20Gear%20Solid%20-%20Snake%20Eater%203D%20%28USA%29.cia",
 				   "output": "sdmc:/Metal Gear Solid - Snake Eater 3D (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9903,7 +9937,7 @@
 "Mighty Switch Force!": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/nnj58752hf7i06a/Mighty%20Switch%20Force%21%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Mighty%20Switch%20Force%21%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Mighty Switch Force (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9932,7 +9966,7 @@
 "Mighty Switch Force! 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/zw316h032b04qff/Mighty%20Switch%20Force%21%202%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Mighty%20Switch%20Force%21%202%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Mighty Switch Force 2 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9961,7 +9995,7 @@
 "Monster High - Skultimate Roller Maze": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/l9xlfr1r4keunhh/Monster%20High%20-%20Skultimate%20Roller%20Maze%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Monster%20High%20-%20Skultimate%20Roller%20Maze%20%28USA%29.cia",
 				   "output": "sdmc:/Monster High - Skultimate Roller Maze (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -9990,7 +10024,7 @@
 "Monster Hunter 3 Ultimate Data Transfer Program": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/hkfkqqe2lx6nz2w/Monster%20Hunter%203%20Ultimate%20Data%20Transfer%20Program%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Monster%20Hunter%203%20Ultimate%20Data%20Transfer%20Program%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Monster Hunter 3 Ultimate Data Transfer Program (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10019,7 +10053,7 @@
 "Monster Hunter 4 Ultimate": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/l8lisrm5tuyrj0z/Monster%20Hunter%204%20Ultimate%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Monster%20Hunter%204%20Ultimate%20%28USA%29.cia",
 				   "output": "sdmc:/Monster Hunter 4 Ultimate (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10048,7 +10082,7 @@
 "Monster Hunter Stories": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/xfziayo884p9k6f/Monster%20Hunter%20Stories%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Monster%20Hunter%20Stories%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.cia",
 				   "output": "sdmc:/Monster Hunter Stories (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10077,7 +10111,7 @@
 "Monster Hunter XX Double Cross": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/cqjf39pct6mnzwi/Monster%20Hunter%20XX%20Double%20Cross%20%28JPN%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/JPN/M/Monster%20Hunter%20XX%20Double%20Cross%20%28JPN%29.cia",
 				   "output": "sdmc:/Monster Hunter XX Double Cross (JPN).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10106,7 +10140,7 @@
 "Moon Chronicles": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ifzxmhmvk1oahtx/Moon%20Chronicles%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Moon%20Chronicles%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Moon Chronicles (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10135,7 +10169,7 @@
 "Mutant Mudds (EUR)(DEMO)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/y1huntj8cqu196y/Mutant%20Mudds%20%28Europe%29%20%28Demo%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/M/Mutant%20Mudds%20%28EUR%29%20%28Demo%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Mutant Mudds (EUR)(DEMO).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10152,7 +10186,7 @@
 "Mutant Mudds - Games (USA)": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/8uozmiupu7us0qh/Mutant%20Mudds%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/Mutant%20Mudds%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Mutant Mudds (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10181,7 +10215,7 @@
 "My Pet Puppy 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/f3y0321zaxmo110/My%20Pet%20Puppy%203D%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/M/My%20Pet%20Puppy%203D%20%28USA%29.cia",
 				   "output": "sdmc:/My Pet Puppy 3D (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10210,7 +10244,7 @@
 "NCIS 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/sn2tjc4mnwo2gu9/NCIS%203D%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/N/NCIS%203D%20%28USA%29.cia",
 				   "output": "sdmc:/NCIS 3D (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10239,7 +10273,7 @@
 "New Style Boutik - Update 1.1": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/fqjpr8o68bzir73/New%20Style%20Boutique%20-%20Update%201.1%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%20-%20Update%201.1%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.cia",
 				   "output": "sdmc:/New Style Boutik - Update 1.1 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10268,7 +10302,7 @@
 "New Style Boutique 3 Styling Star": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/zjkfmzgy2qurid0/New%20Style%20Boutique%203%20Styling%20Star%20%28EUR%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Style%20Boutique%203%20Styling%20Star%20%28EUR%29%20%28eShop%29.cia",
 				   "output": "sdmc:/New Style Boutique 3 Styling Star (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10297,7 +10331,7 @@
 "New Super Mario Bros. 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/gol7uxk22f7i7eq/New%20Super%20Mario%20Bros.%202%20%28EU%29%28M7%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Super%20Mario%20Bros.%202%20%28EUR%29%28M7%29.cia",
 				   "output": "sdmc:/New Super Mario Bros. 2 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10314,7 +10348,7 @@
 "New Super Mario Bros. 2 - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/yw7z6wso6iq1gjt/New%20Super%20Mario%20Bros.%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29%20%28DLC%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/New%20Super%20Mario%20Bros.%202%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29%20%28DLC%29.cia",
 				   "output": "sdmc:/New Super Mario Bros. 2 (EUR) - DLC.cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10343,7 +10377,7 @@
 "Nicktoons MLB 3": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/d67amwm16vqb7j6/Nicktoons%20MLB%203D%20%28USA%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/N/Nicktoons%20MLB%203D%20%28USA%29.cia",
 				   "output": "sdmc:/Nicktoons MLB 3 (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10372,7 +10406,7 @@
 "Nintendo Letter Box": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/kfiko0x0vhl9bcm/Nintendo%20Letter%20Box%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/Nintendo%20Letter%20Box%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CPt%2CRu%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Nintendo Letter Box (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10401,7 +10435,7 @@
 "Nintendo Pocket Football Club": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/lripjxx45s1nzxg/Nintendo%20Pocket%20Football%20Club%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/N/Nintendo%20Pocket%20Football%20Club%20%28EUR%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Nintendo Pocket Football Club (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10430,7 +10464,7 @@
 "Nintendo Vidéo": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/m3kkfqjh6lgoemf/Nintendo%20Video%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/N/Nintendo%20Video%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Nintendo Video (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10459,7 +10493,7 @@
 "One Piece - Unlimited World Red": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/8lg2ltj7lgwazmg/One%20Piece%20-%20Unlimited%20World%20Red%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/O/One%20Piece%20-%20Unlimited%20World%20Red%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/One Piece - Unlimited World Red (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10488,7 +10522,7 @@
 "Pac-Man & Galaga Dimensions": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/x9e1se1ywezxr5w/Pac-Man%20%26%20Galaga%20Dimensions%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pac-Man%20%26%20Galaga%20Dimensions%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Pac-Man & Galaga Dimensions (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10517,7 +10551,7 @@
 "Pac-Man & the Ghostly Adventures 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/3nhxw9zgysic9be/Pac-Man%20and%20the%20Ghostly%20Adventures%202%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pac-Man%20and%20the%20Ghostly%20Adventures%202%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Pac-Man & the Ghostly Adventures 2 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10546,7 +10580,7 @@
 "Pac-Man Party 3D": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ep42ay9hkxwi5mo/Pac-Man%20Party%203D%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Pac-Man%20Party%203D%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Pac-Man Party 3D (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10575,7 +10609,7 @@
 "Peanuts Movie - Snoopy's Grand Adventure, The": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/ys7ewslcss1usll/Peanuts%20Movie%20-%20Snoopy%27s%20Grand%20Adventure%2C%20The%20%28EU%29%28M7%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Peanuts%20Movie%20-%20Snoopy%27s%20Grand%20Adventure%2C%20The%20%28EUR%29%28M7%29.cia",
 				   "output": "sdmc:/Peanuts Movie - Snoopy's Grand Adventure, The (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10604,7 +10638,7 @@
 "Penguins of Madagascar": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/h2rl7joba4d6yhi/Penguins%20of%20Madagascar%20%28EU%29%28M5%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Penguins%20of%20Madagascar%20%28EUR%29%28M5%29.cia",
 				   "output": "sdmc:/Penguins of Madagascar (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10633,7 +10667,7 @@
 "Pet Zombies": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/uc366vpg6nhxdig/Pet%20Zombies%20%28US%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/P/Pet%20Zombies%20%28USA%29.cia",
 				   "output": "sdmc:/Pet Zombies (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10662,7 +10696,7 @@
 "Phoenix Wright Ace Attorney - Dual Destinies - Games": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/4xaurl8huqhjer7/Phoenix%20Wright%20Ace%20Attorney%20-%20Dual%20Destinies%20%28EUR%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phoenix%20Wright%20Ace%20Attorney%20-%20Dual%20Destinies%20%28EUR%29.cia",
 				   "output": "sdmc:/Phoenix Wright Ace Attorney - Dual Destinies (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10679,7 +10713,7 @@
 "Phoenix Wright Ace Attorney - Dual Destinies - DLC": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/twijx4hdum13clv/Phoenix%20Wright%20Ace%20Attorney%20-%20Dual%20Destinies%20-%20DLC%20%28EUR%29.CIA?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phoenix%20Wright%20Ace%20Attorney%20-%20Dual%20Destinies%20-%20DLC%20%28EUR%29.CIA",
 				   "output": "sdmc:/Phoenix Wright Ace Attorney - Dual Destinies - DLC (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10708,7 +10742,7 @@
 "Phonics Fun With Biff, Chip & Kipper - Vol. 1": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/drjua5w0vaig8rh/Phonics%20Fun%20With%20Biff%2C%20Chip%20%26%20Kipper%20-%20Vol.%201%20%28EU%29%28M6%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phonics%20Fun%20With%20Biff%2C%20Chip%20%26%20Kipper%20-%20Vol.%201%20%28EUR%29%28M6%29.cia",
 				   "output": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 1 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10737,7 +10771,7 @@
 "Phonics Fun With Biff, Chip & Kipper - Vol. 2": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/cwuyebba5zpfwvi/Phonics%20Fun%20With%20Biff%2C%20Chip%20%26%20Kipper%20-%20Vol.%202%20%28EU%29%28M6%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/EUR/P/Phonics%20Fun%20With%20Biff%2C%20Chip%20%26%20Kipper%20-%20Vol.%202%20%28EUR%29%28M6%29.cia",
 				   "output": "sdmc:/Phonics Fun With Biff, Chip & Kipper - Vol. 2 (EUR).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10766,7 +10800,7 @@
 "Photos with Mario": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/3ivksh15n453clm/Photos%20with%20Mario%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/P/Photos%20with%20Mario%20%28USA%29%20%28En%2CFr%2CEs%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Photos with Mario (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
@@ -10795,7 +10829,7 @@
 "Picdun 2 - Witch's Curse": [
 {
 		           "type": "downloadFile",
-				   "file": "https://www.dropbox.com/s/rcctt047gimyilx/Picdun%202%20-%20Witch%27s%20Curse%20%28USA%29%20%28eShop%29.cia?dl=1",
+				   "file": "https://cdn.ghosteshop.com/Juegos%203DS/USA/P/Picdun%202%20-%20Witch%27s%20Curse%20%28USA%29%20%28eShop%29.cia",
 				   "output": "sdmc:/Picdun 2 - Witch's Curse (USA).cia",
 				   "message": "Téléchargement de votre jeux en cours..."
 }, 
