@@ -31,7 +31,6 @@
 
 "storeContent": [
 {"info": {
-"_comment": "Homebrew GhostEshop.cia:",
 		            "title": "Ghost Eshop",
 		            "version": "9.5",
 		            "author": "Ghost0159",
@@ -65,7 +64,6 @@
 
 
 {"info": {
-"_comment": "Jeux3DS, Eshop3DS de région EUR & Australia, par ordre alphabétique:",
 			    "title": "Pixel Paint",
 		            "version": "USA",
 		            "author": "Sanuk Games",
