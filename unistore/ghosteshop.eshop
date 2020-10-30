@@ -4,14 +4,20 @@
 "_comment": "Contenu du script:",
 "title": "Ghost Eshop Alternative",
 "author": "Ghost0159",
+"description": "An alternative & free eshop.\nVersion of the eshop: v9.5\n\nAuthor: Ghost Eshop Team's\nSpécial thanks: Anonyku",
+
+"_comment": "Les differents fichiers, liens, emplacements & noms",
 "file": "sdmc:/3ds/Ghost-Eshop/stores/ghosteshop.eshop",
 "url": "https://github.com/Ghost0159/Ghost-Eshop-Alternative-3ds/raw/master/unistore/ghosteshop.com",
 "sheet": "sdmc:/3ds/Ghost-Eshop/stores/icon.t3x",
 "sheetURL": "https://cdn.ghosteshop.com/script/icon.t3x",
-"description": "An alternative & free eshop.\nVersion of the eshop: v9.5\n\nAuthor: Ghost Eshop Team's\nSpécial thanks: Anonyku",
+
+"_comment": "Le trie par catégories depuis l'eshop:",
 "categories": ["Games", "DSiWares", "Virtual Consoles", "Eshop", "Homebrew", "Séries"],
 "authors": ["Sonic Powered", "Nintendo", "Ninja Kiwi", "Sega", "Pokémon.co", "Netflix.inc", "Sanuk Games", "PopCap Games"],
 "consoles": ["3DS", "DSi", "NES", "SNES", "GBA", "GBC", "GB", "Game Gear"],
+
+"_comment:": "Les couleurs du script:",
 "barLight": "#ff3000",
 "barDark": "#ff0000",
 "bgDark": "#ff8c00",
@@ -22,10 +28,23 @@
 "boxLight": "#f7f7f7",
 "outlineDark": "#f00000",
 "outlineLight": "#f00000",
+
+"_comment": "Version(Soit v1(sans images), soit v2(avec image))",
 "version": 2,
 "revision": 28},
+
+
+
+
+"_comment": "Contenu du script:",
 "storeContent": [
+
+
+
+
+
 {"info": {
+"_comment": "Homebrew GhostEshop.cia:",
 		            "title": "Ghost Eshop",
 		            "version": "9.5",
 		            "author": "Ghost0159",
@@ -54,6 +73,17 @@
 }
 ]
 },
+
+
+
+
+
+{
+"_comment": "Jeux3DS, Eshop3DS de région EUR & Australia, par ordre alphabétique:"
+},
+
+
+
 {"info": {
 		            "title": "Pixel Paint",
 		            "version": "USA",
